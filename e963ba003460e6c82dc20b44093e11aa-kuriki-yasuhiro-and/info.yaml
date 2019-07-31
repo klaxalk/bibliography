@@ -1,10 +1,10 @@
 author: Kuriki, Yasuhiro and Namerikawa, Toru
-booktitle: IEEE American Control Conference (ACC)
+booktitle: '{IEEE American Control Conference (ACC)}'
 files: []
 organization: IEEE
 pages: 2077--2082
-ref: kuriki:avoidance
-title: Consensus-based cooperative formation control with collision avoidance for
-  a multi-UAV system
+ref: kuriki2014avoidance
+title: '{Consensus-based cooperative formation control with collision avoidance for
+  a multi-UAV system}'
 type: inproceedings
 year: '2014'

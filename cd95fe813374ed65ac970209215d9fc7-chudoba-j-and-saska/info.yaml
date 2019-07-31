@@ -1,5 +1,5 @@
 address: Danvers
-author: Chudoba, J and Saska, M and Baca, T and Preucil, L
+author: Chudoba, J. and Saska, M. and Baca, T. and Preucil, L.
 booktitle: '{2014 IEEE International Conference on Unmanned Aircraft Systems (ICUAS)}'
 files:
 - /home/klaxalk/Dropbox/papers/chudoba-j-and-saska-m-and-baca-t-and-preucil-l-localization-and-stabilization-of-micro-aerial-vehicles-based-on-visual-features-tracking.pdf
@@ -14,3 +14,4 @@ type: inproceedings
 url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6842304
 volume: '1'
 year: '2014'
+keywords: mine, conference

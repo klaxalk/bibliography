@@ -2,11 +2,11 @@ author: Fethi Belkhouche
 doi: https://doi.org/10.1016/j.robot.2017.07.006
 files: []
 issn: 0921-8890
-journal: Robotics and Autonomous Systems
-keywords: Reactive path planing, Optimal motion, UAV navigation
-pages: 114 - 123
+journal: '{Robotics and Autonomous Systems}'
+keywords: '{Reactive path planing, Optimal motion, UAV navigation}'
+pages: 114--123
 ref: belkhouche2017reactive
-title: Reactive optimal UAV motion planning in a dynamic world
+title: '{Reactive optimal UAV motion planning in a dynamic world}'
 type: article
 volume: '96'
 year: '2017'

@@ -1,9 +1,10 @@
 author: Penicka, Robert and Saska, Martin and Reymann, Christophe and Lacroix, Simon
-booktitle: IEEE European Conference on Mobile Robots (ECMR)
+booktitle: '{IEEE European Conference on Mobile Robots (ECMR)}'
 files: []
 organization: IEEE
-ref: penicka:reactive
-title: Reactive dubins traveling salesman problem for replanning of information gathering
-  by uavs
+ref: penicka2017reactive
+title: '{Reactive dubins traveling salesman problem for replanning of information gathering
+  by UAVs}'
 type: inproceedings
 year: '2017'
+keywords: mine, phd_related, conference

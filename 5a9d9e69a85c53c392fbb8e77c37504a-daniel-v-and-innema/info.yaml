@@ -1,13 +1,13 @@
-author: Daniel, V and Inneman, A and Vertat, I and Baca, T and Nentvich, O and Urban,
-  M and Stehlikova, V and Sieger, L and Skala, P and Filgas, R and Zadrazil, V and
-  Linhart, R and Masopust, J and Jamroz, T and Pina, L and Marsikova, V and Mikulickova,
-  L and Belas, E and Pospisil, S and Vykydal, Z and Mora, Y and Pavlica, R
+author: Daniel, V. and Inneman, A. and Vertat, I. and Baca, T. and Nentvich, O. and Urban,
+  M. and Stehlikova, V. and Sieger, L. and Skala, P. and Filgas, R. and Zadrazil, V. and
+  Linhart, R. and Masopust, J. and Jamroz, T. and Pina, L. and Marsikova, V. and Mikulickova,
+  L. and Belas, E. and Pospisil, S. and Vykydal, Z. and Mora, Y. and Pavlica, R.
 day: '01'
 doi: 10.1007/s11214-019-0589-7
 files:
 - /home/klaxalk/Dropbox/papers/daniel-v-and-inneman-a-and-vertat-i-and-baca-t-and-nentvich-o-and-urban-m-and-stehlikova-v-and-sieger-l-and-skala-p-and-filgas-r-and-zadrazi.pdf
 issn: 1572-9672
-journal: Space Science Reviews
+journal: '{Space Science Reviews}'
 month: Jul
 number: '5'
 pages: '40'
@@ -19,3 +19,4 @@ type: article
 url: https://doi.org/10.1007/s11214-019-0589-7
 volume: '215'
 year: '2019'
+keywords: mine, phd_unrelated, journal, if

@@ -1,5 +1,5 @@
 address: Piscataway
-author: Saska, M and Vonasek, V and Baca, T and Preucil, L
+author: Saska, M. and Vonasek, V. and Baca, T. and Preucil, L.
 booktitle: '{2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)}'
 files:
@@ -11,3 +11,4 @@ title: '{Ad-hoc Heterogeneous (MAV-UGV) Formations Stabilized Under a Top-View R
   Localization}'
 type: inproceedings
 year: '2013'
+keywords: mine, conference

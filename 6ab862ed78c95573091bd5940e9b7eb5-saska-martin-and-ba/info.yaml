@@ -1,9 +1,10 @@
 author: Saska, Martin and Baca, Tomas and Hert, Daniel
-booktitle: IEEE International Conference on Control, Automation, Robotics and Vision
-  (ICARCV)
+booktitle: '{IEEE International Conference on Control, Automation, Robotics and Vision
+  (ICARCV)}'
 files: []
 organization: IEEE
-ref: saska:migrating
+ref: saska2016migrating
 title: Formations of unmanned micro aerial vehicles led by migrating virtual leader
 type: inproceedings
 year: '2016'
+keywords: mine, phd_related, conference

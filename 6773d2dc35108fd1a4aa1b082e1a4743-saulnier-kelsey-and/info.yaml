@@ -1,11 +1,11 @@
 author: Saulnier, Kelsey and Saldana, David and Prorok, Amanda and Pappas, George
-  J and Kumar, Vijay
+  J. and Kumar, Vijay
 files: []
-journal: IEEE Robotics and Automation Letters
+journal: '{IEEE Robotics and Automation Letters}'
 number: '2'
 pages: 1039--1046
 publisher: IEEE
-ref: saulnier:flocking
+ref: saulnier2017flocking
 title: Resilient flocking for mobile robot teams
 type: article
 volume: '2'

@@ -1,10 +1,10 @@
 author: Meier, Lorenz and Honegger, Dominik and Pollefeys, Marc
-booktitle: IEEE International Conference on Robotics and Automation (ICRA)
+booktitle: '{IEEE International Conference on Robotics and Automation (ICRA)}'
 files: []
 organization: IEEE
 pages: 6235--6240
-ref: meier:px4
-title: 'PX4: A node-based multithreaded open source robotics framework for deeply
-  embedded platforms'
+ref: meier2015px4
+title: '{PX4: A node-based multithreaded open source robotics framework for deeply
+  embedded platforms}'
 type: inproceedings
 year: '2015'

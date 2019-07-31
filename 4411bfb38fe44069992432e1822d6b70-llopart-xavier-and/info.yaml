@@ -1,12 +1,12 @@
-author: Llopart, Xavier and Ballabriga, Rafael and Campbell, Michael and et al.
+author: Llopart, Xavier and Ballabriga, Rafael and Campbell, Michael and others
 files: []
-journal: Nuclear Instruments and Methods
-number: 1-2
+journal: '{Nuclear Instruments and Methods}'
+number: 1--2
 pages: 485--494
 publisher: Elsevier
 ref: llopart2007timepix
-title: Timepix, a 65k programmable pixel readout chip for arrival time, energy and/or
-  photon counting measurements
+title: '{Timepix, a 65k programmable pixel readout chip for arrival time, energy and/or
+  photon counting measurements}'
 type: article
 volume: '581'
 year: '2007'

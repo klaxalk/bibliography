@@ -1,10 +1,10 @@
-author: Vertat, Ivo and Linhart, Richard and Pokorny, Michal and et al.
-booktitle: 28th International Conference Radioelektronika
+author: Vertat, Ivo and Linhart, Richard and Pokorny, Michal and others
+booktitle: '{28th International Conference Radioelektronika}'
 files: []
 organization: IEEE
 pages: 1--6
 ref: vertat2018small
-title: Small satellite ground station in {P}ilsen -- experiences with {VZLUSAT}-1
-  commanding and future modifications toward open reference ground station solution
+title: '{Small satellite ground station in Pilsen -- experiences with VZLUSAT-1
+  commanding and future modifications toward open reference ground station solution}'
 type: inproceedings
 year: '2018'
