@@ -3,7 +3,7 @@ booktitle: '{IEEE European Conference on Mobile Robotics (ECMR)}'
 files:
 - /home/klaxalk/Dropbox/papers/baca-t-and-stepan-p-and-saska-m-autonomous-landing-on-a-moving-car-with-unmanned-aerial-vehicle-none.pdf
 organization: IEEE
-ref: ecmr2017autonomous
+ref: baca2017autonomous
 title: '{Autonomous Landing On A Moving Car With Unmanned Aerial Vehicle}'
 type: inproceedings
 year: '2017'
