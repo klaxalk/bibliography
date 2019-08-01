@@ -5,6 +5,7 @@ booktitle: '{2018 IEEE/RSJ International Conference on Intelligent Robots and Sy
 files:
 - /home/klaxalk/Dropbox/papers/unexpected-in-field-name.pdf
 - /home/klaxalk/Dropbox/papers/string-index-out-of-range-a.pdf
+- /home/klaxalk/Dropbox/papers/string-indices-must-be-integers-b.pdf
 keywords: mine, phd_related, conference
 organization: IEEE
 pages: 1--8
