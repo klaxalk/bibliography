@@ -1,6 +1,11 @@
+addendum: '{\textbf{\\60\% contribution, citations: 2 in WoS, 5 in Scopus, 16 in GS}}'
 author: Baca, T. and Hert, D. and Loianno, G. and Saska, M. and Kumar, V.
 booktitle: '{2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)}'
+files:
+- /home/klaxalk/Dropbox/papers/unexpected-in-field-name.pdf
+- /home/klaxalk/Dropbox/papers/string-index-out-of-range-a.pdf
+keywords: mine, phd_related, conference
 organization: IEEE
 pages: 1--8
 ref: baca2018mpc
@@ -8,5 +13,3 @@ title: '{Model Predictive Trajectory Tracking and Collision Avoidance for Reliab
   Outdoor Deployment of Unmanned Aerial Vehicles}'
 type: inproceedings
 year: '2018'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{\\60\% contribution, citations: 2 in WoS, 5 in Scopus, 16 in GS}}'
