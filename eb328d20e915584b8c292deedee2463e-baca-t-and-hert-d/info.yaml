@@ -1,8 +1,6 @@
 author: Baca, T. and Hert, D. and Loianno, G. and Saska, M. and Kumar, V.
 booktitle: '{2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)}'
-files:
-- /home/klaxalk/Dropbox/papers/baca-t-and-hert-d-and-loianno-g-and-saska-m-and-kumar-v-model-predictive-trajectory-tracking-and-collision-avoidance-for-reliable-outdoor-deploy.pdf
 organization: IEEE
 pages: 1--8
 ref: baca2018mpc
