@@ -1,7 +1,10 @@
+addendum: '{\textbf{\\70\% contribution, IF 1.366 (Q3 in Instruments \& Instrumentation),
+  citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
 author: Baca, T. and Turecek, D. and McEntaffer, R. and Filgas, R.
 files:
-- /home/klaxalk/Dropbox/papers/baca-t-and-turecek-d-and-mcentaffer-r-and-filgas-r-rospix-modular-software-tool-for-automated-data-acquisitions-of-timepix-detectors-on-robot-op.pdf
+- /home/klaxalk/Dropbox/papers/baca-t.-a-2018-rospix-modular-software-tool-for-automated-data-acquisitions-of-timepix-detectors-on-robot-operating-system.pdf
 journal: Journal of Instrumentation
+keywords: mine, phd_related, journal, if
 number: '11'
 pages: C11008
 ref: baca2018rospix
@@ -11,5 +14,3 @@ type: article
 url: http://stacks.iop.org/1748-0221/13/i=11/a=C11008
 volume: '13'
 year: '2018'
-keywords: mine, phd_related, journal, if
-addendum: '{\textbf{\\70\% contribution, IF 1.366 (Q3 in Instruments \& Instrumentation), citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
