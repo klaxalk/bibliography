@@ -1,11 +1,14 @@
+addendum: '{\textbf{\\80\% contribution, citations: 6 in WoS, 17 in Scopus, 52 in
+  GS}}'
 author: Baca, Tomas and Loianno, Giuseppe and Saska, Martin
-booktitle: '{IEEE International Conference on Methods and Models in Automation and Robotics
-  (MMAR)}'
+booktitle: '{IEEE International Conference on Methods and Models in Automation and
+  Robotics (MMAR)}'
+files:
+- /home/klaxalk/Dropbox/papers/baca-toma-2016-embedded-model-predictive-control-of-unmanned-micro-aerial-vehicles.pdf
+keywords: mine, phd_related, conference
 organization: IEEE
 pages: 992--997
 ref: baca2016embedded
 title: '{Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles}'
 type: inproceedings
 year: '2016'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{\\80\% contribution, citations: 6 in WoS, 17 in Scopus, 52 in GS}}'
