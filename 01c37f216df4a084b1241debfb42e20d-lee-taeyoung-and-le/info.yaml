@@ -1,10 +1,11 @@
 author: Lee, Taeyoung and Leoky, Melvin and McClamroch, N Harris
 booktitle: '{IEEE Conference on Decision and Control (CDC)}'
-files: []
+files:
+- lee-taeyo-2010-geometric-tracking-control-of-a-quadrotor-uav-on-se-3.pdf
+keywords: control
 organization: IEEE
 pages: 5420--5425
 ref: lee2010so3
-title: "{Geometric tracking control of a quadrotor UAV on SE(3)}"
+title: '{Geometric tracking control of a quadrotor UAV on SE(3)}'
 type: inproceedings
 year: '2010'
-keywords: control
