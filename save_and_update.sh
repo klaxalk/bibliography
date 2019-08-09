@@ -13,7 +13,7 @@ git config --bool branch.master.syncNewFiles true
 RV=$?
 
 if [ ! "$RV" -eq 0 ]; then 
-  echo "notes"
+  echo "bibliography"
   exit 33
 else
   echo ""
