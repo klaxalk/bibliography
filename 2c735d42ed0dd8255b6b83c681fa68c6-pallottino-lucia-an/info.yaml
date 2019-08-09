@@ -1,7 +1,5 @@
 author: Pallottino, Lucia and Scordio, Vincenzo G and Bicchi, Antonio and Frazzoli,
   Emilio
-files:
-- /home/klaxalk/Dropbox/papers/pallottino-lucia-and-scordio-vincenzo-g-and-bicchi-antonio-and-frazzoli-emilio-decentralized-cooperative-policy-for-conflict-resolution-in-multive.pdf
 journal: '{IEEE Transactions on Robotics}'
 number: '6'
 pages: 1170--1183
@@ -11,3 +9,4 @@ title: Decentralized cooperative policy for conflict resolution in multivehicle 
 type: article
 volume: '23'
 year: '2007'
+keywords: multirobot
