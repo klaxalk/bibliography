@@ -1,5 +1,8 @@
 author: Kamel, Mina and Stastny, Thomas and Alexis, Kostas and Siegwart, Roland
-booktitle: {Robot operating system (ROS)}
+booktitle:
+  Robot operating system (ROS): null
+files:
+- kamel-min-2017-model-predictive-control-for-trajectory-tracking-of-unmanned-aerial-vehicles-using-robot-operating-system.pdf
 keywords: control, mpc
 pages: 3--39
 publisher: Springer
