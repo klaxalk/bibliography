@@ -1,0 +1,11 @@
+author: Kamel, Mina and Alonso-Mora, Javier and Siegwart, Roland and Nieto, Juan
+booktitle: {2017 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)}
+keywords: control, mpc
+organization: {IEEE}
+pages: 236--243
+ref: kamel2017robust
+title: Robust collision avoidance for multiple micro aerial vehicles using nonlinear
+  model predictive control
+type: inproceedings
+year: '2017'
