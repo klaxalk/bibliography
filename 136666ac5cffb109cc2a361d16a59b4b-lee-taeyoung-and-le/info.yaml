@@ -1,11 +1,13 @@
 author: Lee, Taeyoung and Leok, Melvin and McClamroch, N Harris
+files:
+- lee-taeyo-2013-nonlinear-robust-tracking-control-of-a-quadrotor-uav-on-se-3.pdf
 journal: Asian Journal of Control
+keywords: uav, control
 number: '2'
 pages: 391--408
 publisher: Wiley Online Library
 ref: lee2013nonlinear
-title: 'Nonlinear robust tracking control of a quadrotor UAV on SE(3)'
+title: Nonlinear robust tracking control of a quadrotor UAV on SE(3)
 type: article
 volume: '15'
 year: '2013'
-keywords: uav, control
