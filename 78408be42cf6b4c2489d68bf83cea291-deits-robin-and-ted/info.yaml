@@ -1,0 +1,9 @@
+author: Deits, Robin and Tedrake, Russ
+booktitle: International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 42--49
+ref: deits2015efficient
+title: '{Efficient mixed-integer planning for UAVs in cluttered environments}'
+type: inproceedings
+year: '2015'
+keywords: uav, planning
