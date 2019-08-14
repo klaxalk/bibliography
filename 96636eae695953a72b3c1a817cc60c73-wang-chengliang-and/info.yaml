@@ -1,6 +1,9 @@
 author: Wang, Chengliang and Ma, Fei and Yan, Junhui and De, Debraj and Das, Sajal
   K
+files:
+- wang-chen-2015-efficient-aerial-data-collection-with-uav-in-large-scale-wireless-sensor-networks.pdf
 journal: International Journal of Distributed Sensor Networks
+keywords: uav, sensing, multirobot
 number: '11'
 pages: '286080'
 publisher: 'SAGE Publications Sage UK: London, England'
@@ -9,4 +12,3 @@ title: Efficient aerial data collection with uav in large-scale wireless sensor 
 type: article
 volume: '11'
 year: '2015'
-keywords: uav, sensing, multirobot
