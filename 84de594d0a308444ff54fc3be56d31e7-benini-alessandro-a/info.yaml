@@ -1,0 +1,9 @@
+author: Benini, Alessandro and Rutherford, Matthew J and Valavanis, Kimon P
+booktitle: International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 3463--3470
+ref: benini2016real
+title: '{Real-time, GPU-based pose estimation of a UAV for autonomous takeoff and landing}'
+type: inproceedings
+year: '2016'
+keywords: uav, control
