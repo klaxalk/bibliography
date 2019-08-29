@@ -5,7 +5,7 @@ files:
 keywords: control
 organization: IEEE
 pages: 5420--5425
-ref: lee2010so3
+ref: lee2010geometric
 title: '{Geometric tracking control of a quadrotor UAV on SE(3)}'
 type: inproceedings
 year: '2010'
