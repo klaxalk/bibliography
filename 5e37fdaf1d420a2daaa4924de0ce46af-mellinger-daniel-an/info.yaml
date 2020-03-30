@@ -1,10 +1,11 @@
 author: Mellinger, Daniel and Kumar, Vijay
 booktitle: '{IEEE International Conference on Robotics and Automation (ICRA)}'
-files: []
+files:
+- /home/klaxalk/Downloads/Mellinger.pdf
+keywords: control
 organization: IEEE
 pages: 2520--2525
 ref: mellinger:snap
 title: Minimum snap trajectory generation and control for quadrotors
 type: inproceedings
 year: '2011'
-keywords: control
