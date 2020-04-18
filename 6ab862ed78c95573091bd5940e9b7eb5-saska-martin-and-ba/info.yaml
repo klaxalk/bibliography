@@ -1,11 +1,12 @@
+addendum: '{\textbf{30\% contribution, citations: 3 in WoS, 3 in Scopus, 29 in GS}}'
 author: Saska, Martin and Baca, Tomas and Hert, Daniel
 booktitle: '{IEEE International Conference on Control, Automation, Robotics and Vision
   (ICARCV)}'
-files: []
+files:
+- /home/klaxalk/Dropbox/papers/saska-mar-2016-formations-of-unmanned-micro-aerial-vehicles-led-by-migrating-virtual-leader.pdf
+keywords: mine, phd_related, conference
 organization: IEEE
 ref: saska2016formations
 title: Formations of unmanned micro aerial vehicles led by migrating virtual leader
 type: inproceedings
 year: '2016'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{30\% contribution, citations: 3 in WoS, 3 in Scopus, 29 in GS}}'
