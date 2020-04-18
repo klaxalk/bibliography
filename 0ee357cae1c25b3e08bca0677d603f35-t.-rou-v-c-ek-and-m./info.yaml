@@ -1,11 +1,13 @@
-author: Roucek, T. and Pecka, M. and Cizek, P. and Petracek, T.
-  and Bayer, J. and Salansky, V. and Hert, D.  and Petrlik, M. and Baca, T.
-  and Spurny, V. and Pomerleau, F. and Kubelka, V. and Faigl, J. and Zimmermann, K.
-  and Saska, M. and Svoboda, T. and Krajnik, T.
+addendum: '{\textbf{5\% contribution, citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
+author: Roucek, T. and Pecka, M. and Cizek, P. and Petracek, T. and Bayer, J. and
+  Salansky, V. and Hert, D.  and Petrlik, M. and Baca, T. and Spurny, V. and Pomerleau,
+  F. and Kubelka, V. and Faigl, J. and Zimmermann, K. and Saska, M. and Svoboda, T.
+  and Krajnik, T.
 booktitle: Modelling and Simulation for Autonomous Systems (MESAS)
+files:
+- /home/klaxalk/Dropbox/papers/roucek-t.-2019-darpa-subterranean-challenge-multi-robotic-exploration-of-underground-environments.pdf
+keywords: mine, conference, phd_related
 ref: roucek2019darpa
 title: 'DARPA Subterranean Challenge: Multi-robotic exploration of underground environments'
 type: inproceedings
 year: '2019'
-keywords: mine, conference, phd_related
-addendum: '{\textbf{5\% contribution, citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
