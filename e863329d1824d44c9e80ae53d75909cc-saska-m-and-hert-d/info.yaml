@@ -1,5 +1,5 @@
 author: Saska, M and Hert, D and Baca, T and Kratky, V and Nascimento, T
-booktitle: Autonomous Robots
+journal: Autonomous Robots
 doi: 10.1007/s10514-020-09913-0
 files:
 - /home/klaxalk/Dropbox/papers/saska-m-a-2020-formation-control-of-unmanned-micro-aerial-vehicles-for-straitened-environments.pdf
@@ -9,4 +9,6 @@ ref: saska2020formation
 title: Formation control of unmanned micro aerial vehicles for straitened environments
 type: inproceedings
 year: '2020'
+issue: '0'
+volume: '0'
 keywords: mine, journal, impacted, phd_related
