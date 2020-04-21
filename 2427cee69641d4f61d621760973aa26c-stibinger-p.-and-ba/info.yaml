@@ -6,12 +6,12 @@ issn: 2377-3766
 journal: IEEE Robotics and Automation Letters
 keywords: mine, phd_related, cs, journal
 month: '4'
-number: '2'
 pages: 3634-3641
 ref: stibinger2020localization
 title: Localization of Ionizing Radiation Sources by Cooperating Micro Aerial Vehicles
   With Pixel Detectors in Real-Time
 type: article
 volume: '5'
+issue: '5'
 year: '2020'
 addendum: '{\textbf{30\% contribution, citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
