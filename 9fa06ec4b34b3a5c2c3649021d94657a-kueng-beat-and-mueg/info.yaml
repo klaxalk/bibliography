@@ -1,7 +1,7 @@
 author: Kueng, Beat and Mueggler, Elias and Gallego, Guillermo and Scaramuzza, Davide
-booktitle: {2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)}
-organization: {IEEE}
+booktitle: '{2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)}'
+organization: '{IEEE}'
 pages: 16--23
 ref: kueng2016lowlatency
 title: Low-latency visual odometry using event-based feature tracks
