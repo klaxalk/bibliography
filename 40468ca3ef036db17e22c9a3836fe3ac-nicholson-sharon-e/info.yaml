@@ -6,6 +6,8 @@ author_list:
   given: B
 - family: Kone
   given: B
+files:
+- /home/klaxalk/Dropbox/papers/nicholson-2000-an-analysis-of-recent-rainfall-conditions-in-west-africa-including-the-rainy-seasons-of-the-1997-el-nino-and-the-1998-la-nina-years.pdf
 journal: Journal of climate
 number: '14'
 pages: 2628--2640
