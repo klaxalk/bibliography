@@ -1,0 +1,26 @@
+author: Ebeid, Emad and Skriver, Martin and Terkildsen, Kristian Husum and Jensen,
+  Kjeld and Schultz, Ulrik Pagh
+author_list:
+- family: Ebeid
+  given: Emad
+- family: Skriver
+  given: Martin
+- family: Terkildsen
+  given: Kristian Husum
+- family: Jensen
+  given: Kjeld
+- family: Schultz
+  given: Ulrik Pagh
+doi: https://doi.org/10.1016/j.micpro.2018.05.002
+files:
+- /home/klaxalk/Dropbox/papers/ebeid-ema-2018-a-survey-of-open-source-uav-flight-controllers-and-flight-simulators.pdf
+issn: 0141-9331
+journal: Microprocessors and Microsystems
+pages: 11 - 20
+ref: ebeid2018survey
+time-added: 2020-06-30-14:09:21
+title: A survey of Open-Source UAV flight controllers and flight simulators
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0141933118300930
+volume: '61'
+year: '2018'
