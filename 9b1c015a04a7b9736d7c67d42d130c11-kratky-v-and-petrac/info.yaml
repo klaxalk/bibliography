@@ -1,0 +1,24 @@
+author: Kratky, V and Petracek, P and Spurny, V and Saska, M
+author_list:
+- family: Kratky
+  given: V
+- family: Petracek
+  given: P
+- family: Spurny
+  given: V
+- family: Saska
+  given: M
+doi: 10.1109/LRA.2020.2970646
+files:
+- /home/klaxalk/Dropbox/papers/kratky-v-2020-autonomous-reflectance-transformation-imaging-by-a-team-of-unmanned-aerial-vehicles.pdf
+journal: IEEE Robotics and Automation Letters
+month: April
+number: '2'
+pages: 2302-2309
+ref: kratky2020autonomous
+time-added: 2020-07-07-10:30:11
+title: Autonomous Reflectance Transformation Imaging by a Team of Unmanned Aerial
+  Vehicles
+type: article
+volume: '5'
+year: '2020'
