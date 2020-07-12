@@ -21,6 +21,8 @@ author_list:
 - family: Kumar
   given: Vijay
 booktitle: 2018 ACM/IEEE 9th International Conference on Cyber-Physical Systems (ICCPS)
+files:
+- /home/klaxalk/Dropbox/papers/schmittle-2018-openuav-a-uav-testbed-for-the-cps-and-robotics-community.pdf
 organization: IEEE
 pages: 130--139
 ref: schmittle2018openuav
