@@ -1,0 +1,17 @@
+author: Abeywardena, Dinuka and Pounds, Paul and Hunt, David and Dissanayake, Gamini
+author_list:
+- family: Abeywardena
+  given: Dinuka
+- family: Pounds
+  given: Paul
+- family: Hunt
+  given: David
+- family: Dissanayake
+  given: Gamini
+booktitle: Australasian Conference on Robotics and Automation, ACRA
+ref: abeywardena2015design
+time-added: 2020-07-12-19:08:27
+title: 'Design and development of ReCOPTER: An open source ROS-based multi-rotor platform
+  for research'
+type: inproceedings
+year: '2015'
