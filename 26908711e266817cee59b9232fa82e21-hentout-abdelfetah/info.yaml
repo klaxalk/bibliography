@@ -1,0 +1,19 @@
+author: Hentout, Abdelfetah and Maoudj, Abderraouf and Bouzouia, Brahim
+author_list:
+- family: Hentout
+  given: Abdelfetah
+- family: Maoudj
+  given: Abderraouf
+- family: Bouzouia
+  given: Brahim
+booktitle: 2016 8th International Conference on Modelling, Identification and Control
+  (ICMIC)
+files:
+- /home/klaxalk/Dropbox/papers/hentout-a-2016-a-survey-of-development-frameworks-for-robotics.pdf
+organization: IEEE
+pages: 67--72
+ref: hentout2016survey
+time-added: 2020-07-12-18:29:44
+title: A survey of development frameworks for robotics
+type: inproceedings
+year: '2016'
