@@ -1,0 +1,26 @@
+author: Ceballos, A and De Silva, Lavindra and Herrb, M and Ingrand, F and Mallet,
+  A and Medina, A and Prieto, M
+author_list:
+- family: Ceballos
+  given: A
+- family: De Silva
+  given: Lavindra
+- family: Herrb
+  given: M
+- family: Ingrand
+  given: F
+- family: Mallet
+  given: A
+- family: Medina
+  given: A
+- family: Prieto
+  given: M
+files:
+- /home/klaxalk/Dropbox/papers/ceballos-2011-genom-as-a-robotics-framework-for-planetary-rover-surface-operations.pdf
+journal: ASTRA
+pages: 12--14
+ref: ceballos2011genom
+time-added: 2020-07-12-18:34:11
+title: '{GenoM as a robotics framework for planetary rover surface operations}'
+type: article
+year: '2011'
