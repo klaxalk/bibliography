@@ -1,0 +1,30 @@
+author: Schmittle, Matt and Lukina, Anna and Vacek, Lukas and Das, Jnaneshwar and
+  Buskirk, Christopher P and Rees, Stephen and Sztipanovits, Janos and Grosu, Radu
+  and Kumar, Vijay
+author_list:
+- family: Schmittle
+  given: Matt
+- family: Lukina
+  given: Anna
+- family: Vacek
+  given: Lukas
+- family: Das
+  given: Jnaneshwar
+- family: Buskirk
+  given: Christopher P
+- family: Rees
+  given: Stephen
+- family: Sztipanovits
+  given: Janos
+- family: Grosu
+  given: Radu
+- family: Kumar
+  given: Vijay
+booktitle: 2018 ACM/IEEE 9th International Conference on Cyber-Physical Systems (ICCPS)
+organization: IEEE
+pages: 130--139
+ref: schmittle2018openuav
+time-added: 2020-07-12-18:55:14
+title: '{OpenUAV: a UAV testbed for the CPS and robotics community}'
+type: inproceedings
+year: '2018'
