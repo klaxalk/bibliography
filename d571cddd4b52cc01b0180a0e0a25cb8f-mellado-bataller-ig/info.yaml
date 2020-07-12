@@ -1,0 +1,22 @@
+author: Mellado-Bataller, Ignacio and Pestana, Jes{\'u}s and Olivares-Mendez, Miguel
+  A and Campoy, Pascual and Mejias, Luis
+author_list:
+- family: Mellado-Bataller
+  given: Ignacio
+- family: Pestana
+  given: Jes{\'u}s
+- family: Olivares-Mendez
+  given: Miguel A
+- family: Campoy
+  given: Pascual
+- family: Mejias
+  given: Luis
+booktitle: Frontiers of Intelligent Autonomous Systems
+pages: 165--179
+publisher: Springer
+ref: mellado2013mavwork
+time-added: 2020-07-12-19:25:51
+title: '{MAVwork: a framework for unified interfacing between micro aerial vehicles
+  and visual controllers}'
+type: incollection
+year: '2013'
