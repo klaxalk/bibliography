@@ -1,0 +1,34 @@
+author: '{Tomic}, T. and {Schmid}, K. and {Lutz}, P. and {Domel}, A. and {Kassecker},
+  M. and {Mair}, E. and {Grixa}, I. L. and {Ruess}, F. and {Suppa}, M. and {Burschka},
+  D.'
+author_list:
+- family: '{Tomic}'
+  given: T.
+- family: '{Schmid}'
+  given: K.
+- family: '{Lutz}'
+  given: P.
+- family: '{Domel}'
+  given: A.
+- family: '{Kassecker}'
+  given: M.
+- family: '{Mair}'
+  given: E.
+- family: '{Grixa}'
+  given: I. L.
+- family: '{Ruess}'
+  given: F.
+- family: '{Suppa}'
+  given: M.
+- family: '{Burschka}'
+  given: D.
+journal: IEEE Robotics Automation Magazine
+number: '3'
+pages: 46-56
+ref: '6290694'
+time-added: 2020-07-12-19:40:01
+title: '{Toward a Fully Autonomous UAV: Research Platform for Indoor and Outdoor Urban
+  Search and Rescue}'
+type: article
+volume: '19'
+year: '2012'
