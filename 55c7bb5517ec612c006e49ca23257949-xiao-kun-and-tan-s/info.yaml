@@ -1,0 +1,21 @@
+author: Xiao, Kun and Tan, Shaochang and Wang, Guohui and An, Xueyan and Wang, Xiang
+  and Wang, Xiangke
+author_list:
+- family: Xiao
+  given: Kun
+- family: Tan
+  given: Shaochang
+- family: Wang
+  given: Guohui
+- family: An
+  given: Xueyan
+- family: Wang
+  given: Xiang
+- family: Wang
+  given: Xiangke
+journal: arXiv preprint arXiv:2003.09700
+ref: xiao2020xtdrone
+time-added: 2020-07-12-19:31:33
+title: '{XTDrone: A Customizable Multi-Rotor UAVs Simulation Platform}'
+type: article
+year: '2020'
