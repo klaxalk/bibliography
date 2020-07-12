@@ -1,0 +1,31 @@
+author: Quigley, Morgan and Conley, Ken and Gerkey, Brian and Faust, Josh and Foote,
+  Tully and Leibs, Jeremy and Wheeler, Rob and Ng, Andrew Y
+author_list:
+- family: Quigley
+  given: Morgan
+- family: Conley
+  given: Ken
+- family: Gerkey
+  given: Brian
+- family: Faust
+  given: Josh
+- family: Foote
+  given: Tully
+- family: Leibs
+  given: Jeremy
+- family: Wheeler
+  given: Rob
+- family: Ng
+  given: Andrew Y
+booktitle: ICRA workshop on open source software
+files:
+- /home/klaxalk/Dropbox/papers/quigley-m-2009-ros-an-open-source-robot-operating-system.pdf
+number: '3.2'
+organization: Kobe, Japan
+pages: '5'
+ref: quigley2009ros
+time-added: 2020-07-12-18:26:08
+title: 'ROS: an open-source Robot Operating System'
+type: inproceedings
+volume: '3'
+year: '2009'
