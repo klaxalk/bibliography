@@ -22,6 +22,8 @@ author_list:
   given: M.
 - family: '{Burschka}'
   given: D.
+files:
+- /home/klaxalk/Dropbox/papers/tomic-t-2012-toward-a-fully-autonomous-uav-research-platform-for-indoor-and-outdoor-urban-search-and-rescue.pdf
 journal: IEEE Robotics Automation Magazine
 number: '3'
 pages: 46-56
