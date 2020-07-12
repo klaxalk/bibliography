@@ -13,6 +13,8 @@ author_list:
   given: Xiang
 - family: Wang
   given: Xiangke
+files:
+- /home/klaxalk/Dropbox/papers/xiao-kun-2020-xtdrone-a-customizable-multi-rotor-uavs-simulation-platform.pdf
 journal: arXiv preprint arXiv:2003.09700
 ref: xiao2020xtdrone
 time-added: 2020-07-12-19:31:33
