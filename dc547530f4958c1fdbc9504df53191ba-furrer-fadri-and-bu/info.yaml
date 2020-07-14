@@ -1,0 +1,18 @@
+author: Furrer, Fadri and Burri, Michael and Achtelik, Markus and Siegwart, Roland
+author_list:
+- family: Furrer
+  given: Fadri
+- family: Burri
+  given: Michael
+- family: Achtelik
+  given: Markus
+- family: Siegwart
+  given: Roland
+booktitle: Robot Operating System (ROS)
+pages: 595--625
+publisher: Springer
+ref: furrer2016rotors
+time-added: 2020-07-14-16:22:58
+title: '{RotorS—A modular gazebo MAV simulator framework}'
+type: incollection
+year: '2016'
