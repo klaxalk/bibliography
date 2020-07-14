@@ -1,0 +1,23 @@
+author: I{\~n}igo-Blasco, Pablo and Diaz-del-Rio, Fernando and Romero-Ternero, Ma
+  Carmen and Cagigas-Mu{\~n}iz, Daniel and Vicente-Diaz, Saturnino
+author_list:
+- family: I{\~n}igo-Blasco
+  given: Pablo
+- family: Diaz-del-Rio
+  given: Fernando
+- family: Romero-Ternero
+  given: Ma Carmen
+- family: Cagigas-Mu{\~n}iz
+  given: Daniel
+- family: Vicente-Diaz
+  given: Saturnino
+journal: Robotics and Autonomous Systems
+number: '6'
+pages: 803--821
+publisher: Elsevier
+ref: inigo2012robotics
+time-added: 2020-07-14-16:00:03
+title: Robotics software frameworks for multi-agent robotic systems development
+type: article
+volume: '60'
+year: '2012'
