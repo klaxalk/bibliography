@@ -1,0 +1,15 @@
+author: Diebel, James
+author_list:
+- family: Diebel
+  given: James
+files:
+- /home/klaxalk/Dropbox/papers/diebel-ja-2006-representing-attitude-euler-angles-unit-quaternions-and-rotation-vectors.pdf
+journal: Matrix
+number: 15-16
+pages: 1--35
+ref: diebel2006representing
+time-added: 2020-07-27-19:06:58
+title: '{Representing attitude: Euler angles, unit quaternions, and rotation vectors}'
+type: article
+volume: '58'
+year: '2006'
