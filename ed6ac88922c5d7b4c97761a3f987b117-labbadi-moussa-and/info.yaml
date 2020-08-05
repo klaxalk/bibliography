@@ -1,0 +1,18 @@
+author: Labbadi, Moussa and Cherkaoui, Mohamed
+author_list:
+- family: Labbadi
+  given: Moussa
+- family: Cherkaoui
+  given: Mohamed
+files:
+- /home/klaxalk/Dropbox/papers/labbadi-m-2019-robust-adaptive-backstepping-fast-terminal-sliding-mode-controller-for-uncertain-quadrotor-uav.pdf
+journal: Aerospace Science and Technology
+pages: '105306'
+publisher: Elsevier
+ref: labbadi2019robust
+time-added: 2020-08-05-16:44:06
+title: '{Robust adaptive backstepping fast terminal sliding mode controller for uncertain
+  quadrotor UAV}'
+type: article
+volume: '93'
+year: '2019'
