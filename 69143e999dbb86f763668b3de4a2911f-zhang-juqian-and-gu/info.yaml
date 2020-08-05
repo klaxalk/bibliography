@@ -1,0 +1,21 @@
+author: Zhang, Juqian and Gu, Dawei and Deng, Chao and Wen, Bangchun
+author_list:
+- family: Zhang
+  given: Juqian
+- family: Gu
+  given: Dawei
+- family: Deng
+  given: Chao
+- family: Wen
+  given: Bangchun
+files:
+- /home/klaxalk/Dropbox/papers/zhang-juq-2019-robust-and-adaptive-backstepping-control-for-hexacopter-uavs.pdf
+journal: IEEE Access
+pages: 163502--163514
+publisher: IEEE
+ref: zhang2019robust
+time-added: 2020-08-05-16:40:13
+title: Robust and Adaptive Backstepping Control for Hexacopter UAVs
+type: article
+volume: '7'
+year: '2019'
