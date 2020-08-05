@@ -6,13 +6,16 @@ author_list:
   given: Peter X
 - family: El Saddik
   given: Abdulmotaleb
+files:
+- /home/klaxalk/Dropbox/papers/islam-sha-2017-nonlinear-robust-adaptive-sliding-mode-control-design-for-miniature-unmanned-multirotor-aerial-vehicle.pdf
 journal: International Journal of Control, Automation and Systems
 number: '4'
 pages: 1661--1668
 publisher: Springer
 ref: islam2017nonlinear
 time-added: 2020-08-05-16:46:38
-title: '{Nonlinear robust adaptive sliding mode control design for miniature unmanned multirotor aerial vehicle}'
+title: '{Nonlinear robust adaptive sliding mode control design for miniature unmanned
+  multirotor aerial vehicle}'
 type: article
 volume: '15'
 year: '2017'
