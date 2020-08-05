@@ -1,0 +1,18 @@
+author: Islam, Shafiqul and Liu, Peter X and El Saddik, Abdulmotaleb
+author_list:
+- family: Islam
+  given: Shafiqul
+- family: Liu
+  given: Peter X
+- family: El Saddik
+  given: Abdulmotaleb
+journal: International Journal of Control, Automation and Systems
+number: '4'
+pages: 1661--1668
+publisher: Springer
+ref: islam2017nonlinear
+time-added: 2020-08-05-16:46:38
+title: '{Nonlinear robust adaptive sliding mode control design for miniature unmanned multirotor aerial vehicle}'
+type: article
+volume: '15'
+year: '2017'
