@@ -1,0 +1,19 @@
+author: Nascimento, Iuro BP and Ferramosca, Antonio and Piment, Luciano CA and Raffo,
+  Guilherme V
+author_list:
+- family: Nascimento
+  given: Iuro BP
+- family: Ferramosca
+  given: Antonio
+- family: Piment
+  given: Luciano CA
+- family: Raffo
+  given: Guilherme V
+booktitle: 2019 19th International Conference on Advanced Robotics (ICAR)
+organization: IEEE
+pages: 179--184
+ref: nascimento2019nmpc
+time-added: 2020-08-05-16:50:36
+title: '{NMPC Strategy for a Quadrotor UAV in a 3D Unknown Environment}'
+type: inproceedings
+year: '2019'
