@@ -1,0 +1,16 @@
+author: Pereira, Jean C and Leite, Valter JS and Raffo, Guilherme V
+author_list:
+- family: Pereira
+  given: Jean C
+- family: Leite
+  given: Valter JS
+- family: Raffo
+  given: Guilherme V
+booktitle: 2019 19th International Conference on Advanced Robotics (ICAR)
+organization: IEEE
+pages: 155--160
+ref: pereira2019nonlinear
+time-added: 2020-08-05-16:51:39
+title: '{Nonlinear Model Predictive Control on SE(3) for Quadrotor Trajectory Tracking and Obstacle Avoidance}'
+type: inproceedings
+year: '2019'
