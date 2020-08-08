@@ -1,0 +1,24 @@
+author: Ramírez-Mendoza, A. and Covarrubias-Fabela, J and Amezquita-Brooks, Luis and
+  Garcia Salazar, Octavio and Ramírez-Mendoza, W
+author_list:
+- family: Ramírez-Mendoza
+  given: A.
+- family: Covarrubias-Fabela
+  given: J
+- family: Amezquita-Brooks
+  given: Luis
+- family: Garcia Salazar
+  given: Octavio
+- family: Ramírez-Mendoza
+  given: W
+doi: 10.1007/s10846-020-01198-w
+journal: Journal of Intelligent \& Robotic Systems
+month: '06'
+pages: 380-393
+ref: ramirez2020fuzzy
+time-added: 2020-08-08-12:02:18
+title: '{Fuzzy Adaptive Neurons Applied to the Identification of Parameters and Trajectory
+  Tracking Control of a Multi-Rotor Unmanned Aerial Vehicle Based on Experimental
+  Aerodynamic Data}'
+type: article
+year: '2020'
