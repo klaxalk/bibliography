@@ -4,6 +4,8 @@ author_list:
   given: Emmanouil
 - family: Mitkas
   given: Pericles
+files:
+- /home/klaxalk/Dropbox/papers/tsardoulia-2017-robotic-frameworks-architectures-and-middleware-comparison.pdf
 journal: arXiv preprint arXiv:1711.06842
 ref: tsardoulias2017robotic
 time-added: 2020-07-14-16:17:13
