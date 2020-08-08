@@ -1,0 +1,19 @@
+author: Kohlbrecher, S. and Meyer, J. and von Stryk, O. and Klingauf, U.
+author_list:
+- family: Kohlbrecher
+  given: S.
+- family: Meyer
+  given: J.
+- family: von Stryk
+  given: O.
+- family: Klingauf
+  given: U.
+booktitle: IEEE International Symposium on Safety, Security and Rescue Robotics
+  (SSRR)
+month: November
+organization: IEEE
+ref: kohlbrecher2011flexible
+time-added: 2020-08-08-12:16:03
+title: '{A Flexible and Scalable SLAM System with Full 3D Motion Estimation}'
+type: inproceedings
+year: '2011'
