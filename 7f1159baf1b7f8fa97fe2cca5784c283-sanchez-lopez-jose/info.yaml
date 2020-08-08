@@ -1,0 +1,20 @@
+author: Sanchez-Lopez, Jose Luis and Castillo-Lopez, Manuel and Olivares-Mendez, Miguel
+  A and Voos, Holger
+author_list:
+- family: Sanchez-Lopez
+  given: Jose Luis
+- family: Castillo-Lopez
+  given: Manuel
+- family: Olivares-Mendez
+  given: Miguel A
+- family: Voos
+  given: Holger
+journal: Journal of Intelligent \& Robotic Systems
+pages: 1--44
+publisher: Springer
+ref: sanchez2020trajectory
+time-added: 2020-08-08-11:37:30
+title: '{Trajectory Tracking for Aerial Robots: an Optimization-Based Planning and
+  Control Approach}'
+type: article
+year: '2020'
