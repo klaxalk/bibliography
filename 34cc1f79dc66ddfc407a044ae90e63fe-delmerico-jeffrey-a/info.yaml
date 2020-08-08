@@ -1,0 +1,36 @@
+author: 'Delmerico, Jeffrey and Mintchev, Stefano and Giusti, Alessandro and Gromov,
+  Boris and Melo, Kamilo and Horvat, Tomislav and Cadena, Cesar and Hutter, Marco
+  and Ijspeert, Auke and Floreano, Dario and others, '
+author_list:
+- family: Delmerico
+  given: Jeffrey
+- family: Mintchev
+  given: Stefano
+- family: Giusti
+  given: Alessandro
+- family: Gromov
+  given: Boris
+- family: Melo
+  given: Kamilo
+- family: Horvat
+  given: Tomislav
+- family: Cadena
+  given: Cesar
+- family: Hutter
+  given: Marco
+- family: Ijspeert
+  given: Auke
+- family: Floreano
+  given: Dario
+- family: others
+  given: ''
+journal: Journal of Field Robotics
+number: '7'
+pages: 1171--1191
+publisher: Wiley Online Library
+ref: delmerico2019current
+time-added: 2020-08-08-11:05:44
+title: The current state and future outlook of rescue robotics
+type: article
+volume: '36'
+year: '2019'
