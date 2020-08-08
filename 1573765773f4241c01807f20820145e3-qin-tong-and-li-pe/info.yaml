@@ -1,0 +1,18 @@
+author: Qin, Tong and Li, Peiliang and Shen, Shaojie
+author_list:
+- family: Qin
+  given: Tong
+- family: Li
+  given: Peiliang
+- family: Shen
+  given: Shaojie
+journal: IEEE Transactions on Robotics
+number: '4'
+pages: 1004--1020
+publisher: IEEE
+ref: qin2018vins
+time-added: 2020-08-08-12:10:25
+title: '{Vins-mono: A robust and versatile monocular visual-inertial state estimator}'
+type: article
+volume: '34'
+year: '2018'
