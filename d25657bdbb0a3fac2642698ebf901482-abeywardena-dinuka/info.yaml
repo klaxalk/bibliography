@@ -8,7 +8,7 @@ author_list:
   given: David
 - family: Dissanayake
   given: Gamini
-booktitle: Australasian Conference on Robotics and Automation, ACRA
+booktitle: Australasian Conference on Robotics and Automation (ACRA)
 files:
 - /home/klaxalk/Dropbox/papers/abeywarden-2015-design-and-development-of-recopter-an-open-source-ros-based-multi-rotor-platform-for-research.pdf
 ref: abeywardena2015design
