@@ -1,10 +1,9 @@
 author: Walter, V. and Staub, N. and Saska, M. and Franchi, A.
 booktitle: 14th IEEE International Conference on Automation Science and Engineering
-  (CASE 2018)
+  (CASE)
 files:
 - /home/klaxalk/Dropbox/papers/walter-v.-2018-mutual-localization-of-uavs-based-on-blinking-ultraviolet-markers-and-3d-time-position-hough-transform.pdf
 ref: walter2018mutual
-title: Mutual Localization of UAVs based on Blinking Ultraviolet Markers and 3D Time-Position
-  Hough Transform
+title: '{Mutual Localization of UAVs based on Blinking Ultraviolet Markers and 3D Time-Position Hough Transform}'
 type: inproceedings
 year: '2018'
