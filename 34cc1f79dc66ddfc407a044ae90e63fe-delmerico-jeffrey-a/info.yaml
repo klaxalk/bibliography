@@ -1,6 +1,6 @@
 author: 'Delmerico, Jeffrey and Mintchev, Stefano and Giusti, Alessandro and Gromov,
   Boris and Melo, Kamilo and Horvat, Tomislav and Cadena, Cesar and Hutter, Marco
-  and Ijspeert, Auke and Floreano, Dario and others, '
+  and Ijspeert, Auke and Floreano, Dario'
 author_list:
 - family: Delmerico
   given: Jeffrey
@@ -22,8 +22,6 @@ author_list:
   given: Auke
 - family: Floreano
   given: Dario
-- family: others
-  given: ''
 journal: Journal of Field Robotics
 number: '7'
 pages: 1171--1191
