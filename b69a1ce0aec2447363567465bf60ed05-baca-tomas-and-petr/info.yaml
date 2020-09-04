@@ -1,3 +1,4 @@
+addendum: '{\textbf{60\% contribution}, submitted to Robotics and Autonomous Systems}'
 archiveprefix: arXiv
 author: Baca, Tomas and Petrlik, Matej and Vrba, Matous and Spurny, Vojtech and Penicka,
   Robert and Hert, Daniel and Saska, Martin
@@ -19,6 +20,7 @@ author_list:
 eprint: '2008.08050'
 files:
 - /home/klaxalk/Dropbox/papers/baca-toma-2020-the-mrs-uav-system-pushing-the-frontiers-of-reproducible-research-real-world-deployment-and-education-with-autonomous-unmanned-aer.pdf
+keywords: mine, journal, phd_related, submitted
 primaryclass: cs.RO
 ref: baca2020mrs
 time-added: 2020-08-28-18:20:22
@@ -26,5 +28,3 @@ title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Rea
   Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
 type: misc
 year: '2020'
-keywords: mine, journal, phd_related, submitted
-addendum: '{\textbf{60\% contribution}, submitted to Robotics and Autonomous Systems}'
