@@ -38,7 +38,7 @@ author_list:
   given: Fernando
 - family: Campoy
   given: Pascual
-url: https://www.researchgate.net/publication/339725858_The_Skyeye_Team_Participation_in_the_2020_Mohamed_Bin_Zayed_International_Robotics_Challenge
+url: 'https://www.researchgate.net/publication/339725858_The_Skyeye_Team_Participation_in_the_2020_Mohamed_Bin_Zayed_International_Robotics_Challenge'
 month: '02'
 ref: suarez2020skyeye
 time-added: 2020-09-05-16:22:09
@@ -46,4 +46,4 @@ title: '{The Skyeye Team Participation in the 2020 Mohamed Bin Zayed Internation
   Robotics Challenge}'
 type: misc
 year: '2020'
-note: 'Accessed on 05/09/2020'
+note: 'Accessed on 2020/09/05'
