@@ -1,0 +1,18 @@
+author: Feng, Kai and Li, Weixing and Ge, Shengyang and Pan, Feng
+author_list:
+- family: Feng
+  given: Kai
+- family: Li
+  given: Weixing
+- family: Ge
+  given: Shengyang
+- family: Pan
+  given: Feng
+booktitle: 2020 Chinese Control And Decision Conference (CCDC)
+organization: IEEE
+pages: 2094--2099
+ref: feng2020packages
+time-added: 2020-09-24-12:04:48
+title: Packages delivery based on marker detection for UAVs
+type: inproceedings
+year: '2020'
