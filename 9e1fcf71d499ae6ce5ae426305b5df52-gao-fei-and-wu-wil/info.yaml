@@ -1,0 +1,23 @@
+author: Gao, Fei and Wu, William and Pan, Jie and Zhou, Boyu and Shen, Shaojie
+author_list:
+- family: Gao
+  given: Fei
+- family: Wu
+  given: William
+- family: Pan
+  given: Jie
+- family: Zhou
+  given: Boyu
+- family: Shen
+  given: Shaojie
+booktitle: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/gao-fei-a-2018-optimal-time-allocation-for-quadrotor-trajectory-generation.pdf
+organization: IEEE
+pages: 4715--4722
+ref: gao2018optimal
+time-added: 2020-09-29-21:21:32
+title: Optimal time allocation for quadrotor trajectory generation
+type: inproceedings
+year: '2018'
