@@ -1,0 +1,31 @@
+archiveprefix: arXiv
+author: Baca, Tomas and Petrlik, Matej and Vrba, Matous and Spurny, Vojtech and Penicka,
+  Robert and Hert, Daniel and Saska, Martin
+author_list:
+- family: Baca
+  given: Tomas
+- family: Petrlik
+  given: Matej
+- family: Vrba
+  given: Matous
+- family: Spurny
+  given: Vojtech
+- family: Penicka
+  given: Robert
+- family: Hert
+  given: Daniel
+- family: Saska
+  given: Martin
+eprint: 2008.08050v2
+file: 2008.08050v2.pdf
+files:
+- baca-toma-2020-the-mrs-uav-system-pushing-the-frontiers-of-reproducible-research-real-world-deployment-and-education-with-autonomous-unmanned-ae.pdf
+month: Aug
+primaryclass: cs.RO
+ref: 2008.08050v2
+time-added: 2020-09-29-15:57:33
+title: 'The MRS UAV System: Pushing the Frontiers of Reproducible Research,   Real-world
+  Deployment, and Education with Autonomous Unmanned Aerial Vehicles'
+type: article
+url: http://arxiv.org/abs/2008.08050v2
+year: '2020'
