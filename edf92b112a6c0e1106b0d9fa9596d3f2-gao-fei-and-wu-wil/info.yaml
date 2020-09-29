@@ -1,0 +1,22 @@
+author: Gao, Fei and Wu, William and Lin, Yi and Shen, Shaojie
+author_list:
+- family: Gao
+  given: Fei
+- family: Wu
+  given: William
+- family: Lin
+  given: Yi
+- family: Shen
+  given: Shaojie
+booktitle: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/gao-fei-a-2018-online-safe-trajectory-generation-for-quadrotors-using-fast-marching-method-and-bernstein-basis-polynomial.pdf
+keywords: trajectory generation
+organization: IEEE
+pages: 344--351
+ref: gao2018online
+time-added: 2020-09-29-21:23:28
+title: Online safe trajectory generation for quadrotors using fast marching method
+  and bernstein basis polynomial
+type: inproceedings
+year: '2018'
