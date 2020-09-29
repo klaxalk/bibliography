@@ -38,11 +38,13 @@ author_list:
   given: Fernando
 - family: Campoy
   given: Pascual
+files:
+- /home/klaxalk/Dropbox/papers/suarez-fer-2020-the-skyeye-team-participation-in-the-2020-mohamed-bin-zayed-international-robotics-challenge.pdf
 month: '02'
+note: 'Online (accessed on 2020/09/05): \url{https://www.researchgate.net/publication/339725858_The_Skyeye_Team_Participation_in_the_2020_Mohamed_Bin_Zayed_International_Robotics_Challenge}'
 ref: suarez2020skyeye
 time-added: 2020-09-05-16:22:09
 title: '{The Skyeye Team Participation in the 2020 Mohamed Bin Zayed International
   Robotics Challenge}'
 type: misc
 year: '2020'
-note: 'Online (accessed on 2020/09/05): \url{https://www.researchgate.net/publication/339725858_The_Skyeye_Team_Participation_in_the_2020_Mohamed_Bin_Zayed_International_Robotics_Challenge}'
