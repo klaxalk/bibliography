@@ -1,0 +1,27 @@
+author: Trojanova, E and Jakubek, J and Turecek, D and Sykora, V and Francova, P and
+  Kolarova, V and Sefc, L
+author_list:
+- family: Trojanova
+  given: E
+- family: Jakubek
+  given: J
+- family: Turecek
+  given: D
+- family: Sykora
+  given: V
+- family: Francova
+  given: P
+- family: Kolarova
+  given: V
+- family: Sefc
+  given: L
+journal: Journal of Instrumentation
+number: '01'
+pages: C01001
+publisher: IOP Publishing
+ref: trojanova2018evaluation
+time-added: 2020-10-12-12:47:43
+title: '{Evaluation of Timepix3 based CdTe photon counting detector for fully spectroscopic small animal SPECT imaging}'
+type: article
+volume: '13'
+year: '2018'
