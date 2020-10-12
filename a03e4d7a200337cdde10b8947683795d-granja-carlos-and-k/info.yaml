@@ -1,0 +1,28 @@
+author: Granja, Carlos and Kudela, Karel and Jakubek, Jan and Krist, Pavel and Chvatil,
+  David and Stursa, Jan and Polansky, Stepan
+author_list:
+- family: Granja
+  given: Carlos
+- family: Kudela
+  given: Karel
+- family: Jakubek
+  given: Jan
+- family: Krist
+  given: Pavel
+- family: Chvatil
+  given: David
+- family: Stursa
+  given: Jan
+- family: Polansky
+  given: Stepan
+issue: '11'
+journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment'
+pages: 142--152
+publisher: Elsevier
+ref: granja2018directional
+time-added: 2020-10-12-12:45:57
+title: '{Directional detection of charged particles and cosmic rays with the miniaturized radiation camera MiniPIX Timepix}'
+type: article
+volume: '911'
+year: '2018'
