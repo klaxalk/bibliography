@@ -1,0 +1,55 @@
+author: Wages, Mitchell and Hull, Samuel V. and Falcone, Abraham D. and Anderson,
+  Tyler B. and McQuaide, Maria and Bray, Evan and Chattopadhyay, Tanmoy and Burrows,
+  David N. and Buntic, Lazar and McEntaffer, Randall L. and Miles, Drew M. and Tutt,
+  James H. and Schultz, Ted B. and Donovan, Benjamin D. and Hillman, Christopher R.
+  and Yastishock, Daniel
+author_list:
+- family: Wages
+  given: Mitchell
+- family: Hull
+  given: Samuel V.
+- family: Falcone
+  given: Abraham D.
+- family: Anderson
+  given: Tyler B.
+- family: McQuaide
+  given: Maria
+- family: Bray
+  given: Evan
+- family: Chattopadhyay
+  given: Tanmoy
+- family: Burrows
+  given: David N.
+- family: Buntic
+  given: Lazar
+- family: McEntaffer
+  given: Randall L.
+- family: Miles
+  given: Drew M.
+- family: Tutt
+  given: James H.
+- family: Schultz
+  given: Ted B.
+- family: Donovan
+  given: Benjamin D.
+- family: Hillman
+  given: Christopher R.
+- family: Yastishock
+  given: Daniel
+booktitle: UV, X-Ray, and Gamma-Ray Space Instrumentation for Astronomy XXI
+doi: 10.1117/12.2529361
+editor: Oswald H. Siegmund
+files:
+- /home/klaxalk/Dropbox/papers/wages-mit-2019-flight-camera-package-design-calibration-and-performance-for-the-water-recovery-x-ray-rocket-mission.pdf
+keywords: X-ray, hybrid CMOS , spectrometer, sounding rocket, X-ray detector
+organization: International Society for Optics and Photonics
+pages: 72--88
+publisher: SPIE
+ref: 10.1117/12.2529361
+time-added: 2020-10-18-21:51:07
+title: '{Flight camera package design, calibration, and performance for the Water
+  Recovery X-ray Rocket mission}'
+type: inproceedings
+url: https://doi.org/10.1117/12.2529361
+volume: '11118'
+year: '2019'
