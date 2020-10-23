@@ -1,0 +1,26 @@
+author: Christie, Gordon and Shoemaker, Adam and Kochersberger, Kevin and Tokekar,
+  Pratap and McLean, Lance and Leonessa, Alexander
+author_list:
+- family: Christie
+  given: Gordon
+- family: Shoemaker
+  given: Adam
+- family: Kochersberger
+  given: Kevin
+- family: Tokekar
+  given: Pratap
+- family: McLean
+  given: Lance
+- family: Leonessa
+  given: Alexander
+journal: Journal of Field Robotics
+number: '8'
+pages: 1450--1468
+publisher: Wiley Online Library
+ref: christie2017radiation
+time-added: 2020-10-23-22:01:07
+title: '{Radiation search operations using scene understanding with autonomous UAV
+  and UGV}'
+type: article
+volume: '34'
+year: '2017'
