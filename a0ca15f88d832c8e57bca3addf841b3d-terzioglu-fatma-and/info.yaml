@@ -1,0 +1,20 @@
+author: Terzioglu, Fatma and Kuchment, Peter and Kunyansky, Leonid
+author_list:
+- family: Terzioglu
+  given: Fatma
+- family: Kuchment
+  given: Peter
+- family: Kunyansky
+  given: Leonid
+files:
+- /home/klaxalk/Dropbox/papers/terzioglu-2018-compton-camera-imaging-and-the-cone-transform-a-brief-overview.bib
+journal: Inverse Problems
+number: '5'
+pages: '054002'
+publisher: IOP Publishing
+ref: terzioglu2018compton
+time-added: 2020-10-23-13:45:21
+title: 'Compton camera imaging and the cone transform: a brief overview'
+type: article
+volume: '34'
+year: '2018'
