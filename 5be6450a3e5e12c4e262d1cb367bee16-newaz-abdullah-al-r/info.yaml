@@ -1,0 +1,22 @@
+author: Newaz, Abdullah Al Redwan and Jeong, Sungmoon and Lee, Hosun and Ryu, Hyejeong
+  and Chong, Nak Young
+author_list:
+- family: Newaz
+  given: Abdullah Al Redwan
+- family: Jeong
+  given: Sungmoon
+- family: Lee
+  given: Hosun
+- family: Ryu
+  given: Hyejeong
+- family: Chong
+  given: Nak Young
+journal: Robotics and Autonomous Systems
+pages: 12--25
+publisher: Elsevier
+ref: newaz2016uav
+time-added: 2020-10-23-22:05:03
+title: '{UAV-based multiple source localization and contour mapping of radiation fields}'
+type: article
+volume: '85'
+year: '2016'
