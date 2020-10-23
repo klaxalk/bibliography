@@ -1,0 +1,26 @@
+author: Sato, Yuki and Terasaka, Yuta and Utsugi, Wataru and Kikuchi, Hiroyuki and
+  Kiyooka, Hideo and Torii, Tatsuo
+author_list:
+- family: Sato
+  given: Yuki
+- family: Terasaka
+  given: Yuta
+- family: Utsugi
+  given: Wataru
+- family: Kikuchi
+  given: Hiroyuki
+- family: Kiyooka
+  given: Hideo
+- family: Torii
+  given: Tatsuo
+journal: Journal of Nuclear Science and Technology
+number: 9-10
+pages: 801--808
+publisher: Taylor \& Francis
+ref: sato2019radiation
+time-added: 2020-10-23-21:57:53
+title: '{Radiation imaging using a compact Compton camera mounted on a crawler robot
+  inside reactor buildings of Fukushima Daiichi Nuclear Power Station}'
+type: article
+volume: '56'
+year: '2019'
