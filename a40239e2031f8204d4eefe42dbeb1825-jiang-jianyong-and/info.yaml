@@ -1,6 +1,6 @@
 author: 'Jiang, Jianyong and Shimazoe, Kenji and Nakamura, Yasuaki and Takahashi,
   Hiroyuki and Shikaze, Yoshiaki and Nishizawa, Yukiyasu and Yoshida, Mami and Sanada,
-  Yukihisa and Torii, Tatsuo and Yoshino, Masao and others, '
+  Yukihisa and Torii, Tatsuo and Yoshino, Masao and others'
 author_list:
 - family: Jiang
   given: Jianyong
@@ -23,7 +23,6 @@ author_list:
 - family: Yoshino
   given: Masao
 - family: others
-  given: ''
 journal: Journal of Nuclear Science and Technology
 number: '7'
 pages: 1067--1075
