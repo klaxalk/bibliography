@@ -1,0 +1,19 @@
+author: Mascarich, Frank and Wilson, Taylor and Papachristos, Christos and Alexis,
+  Kostas
+author_list:
+- family: Mascarich
+  given: Frank
+- family: Wilson
+  given: Taylor
+- family: Papachristos
+  given: Christos
+- family: Alexis
+  given: Kostas
+booktitle: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 6537--6544
+ref: mascarich2018radiation
+time-added: 2020-10-23-22:02:46
+title: '{Radiation source localization in gps-denied environments using aerial robots}'
+type: inproceedings
+year: '2018'
