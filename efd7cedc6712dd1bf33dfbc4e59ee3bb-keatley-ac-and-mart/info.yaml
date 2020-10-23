@@ -1,0 +1,33 @@
+author: Keatley, AC and Martin, PG and Hallam, KR and Payton, OD and Awbery, R and
+  Carvalho, FP and Oliveira, JM and Silva, L and Malta, M and Scott, TB
+author_list:
+- family: Keatley
+  given: AC
+- family: Martin
+  given: PG
+- family: Hallam
+  given: KR
+- family: Payton
+  given: OD
+- family: Awbery
+  given: R
+- family: Carvalho
+  given: FP
+- family: Oliveira
+  given: JM
+- family: Silva
+  given: L
+- family: Malta
+  given: M
+- family: Scott
+  given: TB
+journal: Journal of Environmental Radioactivity
+pages: 102--111
+publisher: Elsevier
+ref: keatley2018source
+time-added: 2020-10-23-22:05:37
+title: '{Source identification of uranium-containing materials at mine legacy sites
+  in Portugal}'
+type: article
+volume: '183'
+year: '2018'
