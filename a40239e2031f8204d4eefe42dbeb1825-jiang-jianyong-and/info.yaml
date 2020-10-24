@@ -1,6 +1,6 @@
-author: 'Jiang, Jianyong and Shimazoe, Kenji and Nakamura, Yasuaki and Takahashi,
-  Hiroyuki and Shikaze, Yoshiaki and Nishizawa, Yukiyasu and Yoshida, Mami and Sanada,
-  Yukihisa and Torii, Tatsuo and Yoshino, Masao and others'
+author: Jiang, Jianyong and Shimazoe, Kenji and Nakamura, Yasuaki and Takahashi, Hiroyuki
+  and Shikaze, Yoshiaki and Nishizawa, Yukiyasu and Yoshida, Mami and Sanada, Yukihisa
+  and Torii, Tatsuo and Yoshino, Masao and others
 author_list:
 - family: Jiang
   given: Jianyong
@@ -23,6 +23,8 @@ author_list:
 - family: Yoshino
   given: Masao
 - family: others
+files:
+- /home/klaxalk/Dropbox/papers/jiang-jia-2016-a-prototype-of-aerial-radiation-monitoring-system-using-an-unmanned-helicopter-mounting-a-gagg-scintillator-compton-camera.pdf
 journal: Journal of Nuclear Science and Technology
 number: '7'
 pages: 1067--1075
