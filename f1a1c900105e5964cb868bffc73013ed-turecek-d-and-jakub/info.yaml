@@ -1,0 +1,22 @@
+author: Turecek, D and Jakubek, J and Trojanova, E and Sefc, L
+author_list:
+- family: Turecek
+  given: D
+- family: Jakubek
+  given: J
+- family: Trojanova
+  given: E
+- family: Sefc
+  given: L
+files:
+- /home/klaxalk/Dropbox/papers/turecek-d-2020-single-layer-compton-camera-based-on-timepix3-technology.pdf
+journal: Journal of Instrumentation
+number: '01'
+pages: C01014
+publisher: IOP Publishing
+ref: turecek2020single
+time-added: 2020-10-27-13:31:36
+title: '{Single layer Compton camera based on Timepix3 technology}'
+type: article
+volume: '15'
+year: '2020'
