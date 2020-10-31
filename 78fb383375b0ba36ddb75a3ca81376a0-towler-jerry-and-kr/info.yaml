@@ -1,5 +1,8 @@
 author: Towler, Jerry and Krawiec, Bryan and Kochersberger, Kevin
+files:
+- /home/klaxalk/Dropbox/papers/towler-je-2012-radiation-mapping-in-post-disaster-environments-using-an-autonomous-helicopter.pdf
 journal: Remote Sensing
+keywords: uav, radiation
 number: '7'
 pages: 1995--2015
 publisher: Molecular Diversity Preservation International
@@ -8,4 +11,3 @@ title: Radiation mapping in post-disaster environments using an autonomous helic
 type: article
 volume: '4'
 year: '2012'
-keywords: uav, radiation
