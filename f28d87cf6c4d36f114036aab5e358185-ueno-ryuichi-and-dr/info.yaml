@@ -1,0 +1,15 @@
+author: Ueno, Ryuichi and Drouin, Pierre-Luc
+author_list:
+- family: Ueno
+  given: Ryuichi
+- family: Drouin
+  given: Pierre-Luc
+files:
+- /home/klaxalk/Dropbox/papers/ueno-ryui-2016-development-of-the-geant4-simulation-for-the-compton-gamma-ray-camera.pdf
+institution:
+  Defence Research and Development Canada --- Ottawa Research: null
+ref: ueno2016development
+time-added: 2020-10-31-13:03:26
+title: '{Development of the GEANT4 Simulation for the Compton Gamma-Ray Camera}'
+type: techreport
+year: '2016'
