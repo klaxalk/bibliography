@@ -9,16 +9,16 @@ author_list:
 - family: Saska
   given: M.
 doi: 10.1109/LRA.2020.2972827
-files:
-- /home/klaxalk/Dropbox/papers/saikin-d.-2020-wildfire-fighting-by-unmanned-aerial-system-exploiting-its-time-varying-mass.pdf
 journal: IEEE Robotics and Automation Letters
-number: '2'
 pages: 2674-2681
 ref: saikin2020wildfire
 time-added: 2020-04-22-13:11:58
 title: '{Wildfire Fighting by Unmanned Aerial System Exploiting Its Time-Varying Mass}'
 type: article
+number: '2'
 volume: '5'
 year: '2020'
 keywords: mine, phd_related, journal, if
 addendum: '{\textbf{25\% contribution, IF 3.608 (Q1 in Robotics), citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/saikin-d.-2020-wildfire-fighting-by-unmanned-aerial-system-exploiting-its-time-varying-mass.pdf
