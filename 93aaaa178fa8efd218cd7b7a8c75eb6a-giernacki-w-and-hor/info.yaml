@@ -6,7 +6,11 @@ title: '{Real-time model-free minimum-seeking autotuning method for unmanned aer
   vehicle controllers based on fibonacci-search algorithm}'
 type: article
 url: https://www.mdpi.com/1424-8220/19/2/312
+volume: '19'
+number: '2'
+pages: '312'
 year: '2019'
+publisher: 'Multidisciplinary Digital Publishing Institute'
 keywords: mine, phd_related, journal, if
 addendum: '{\textbf{25\% contribution, IF 3.031 (Q1 in Robotics), citations: 1 in
   WoS, 2 in Scopus, 13 in GS}}'
