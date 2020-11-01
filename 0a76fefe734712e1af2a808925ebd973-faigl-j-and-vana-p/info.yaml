@@ -1,12 +1,12 @@
-addendum: '{\textbf{10\% contribution, citations: 4 in WoS, 5 in Scopus, 9 in GS}}'
 author: Faigl, J and Vana, P and Saska, M and Baca, T and Spurny, V
 booktitle: '{2017 IEEE European Conference on Mobile Robots (ECMR)}'
-files:
-- /home/klaxalk/Dropbox/papers/faigl-j-2017-on-solution-of-the-dubins-touring-problem.pdf
-keywords: mine, conference, phd_related
 pages: 1--6
 ref: faigl2017onsolution
 title: '{On solution of the Dubins touring problem}'
 type: inproceedings
 url: http://ieeexplore.ieee.org/document/8098685/
 year: '2017'
+keywords: mine, conference, phd_related
+addendum: '{\textbf{10\% contribution, citations: 4 in WoS, 5 in Scopus, 9 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/faigl-j-2017-on-solution-of-the-dubins-touring-problem.pdf

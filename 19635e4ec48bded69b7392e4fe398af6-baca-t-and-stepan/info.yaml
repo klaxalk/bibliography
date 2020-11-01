@@ -1,11 +1,11 @@
-addendum: '{\textbf{33\% contribution, citations: 6 in WoS, 12 in Scopus, 45 in GS}}'
 author: Baca, T. and Stepan, P. and Saska, M.
 booktitle: '{IEEE European Conference on Mobile Robotics (ECMR)}'
-files:
-- /home/klaxalk/Dropbox/papers/baca-t-an-2017-autonomous-landing-on-a-moving-car-with-unmanned-aerial-vehicle.pdf
-keywords: mine, phd_related, conference
 organization: IEEE
 ref: baca2017autonomous
 title: '{Autonomous Landing On A Moving Car With Unmanned Aerial Vehicle}'
 type: inproceedings
 year: '2017'
+keywords: mine, phd_related, conference
+addendum: '{\textbf{33\% contribution, citations: 6 in WoS, 12 in Scopus, 45 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/baca-t-an-2017-autonomous-landing-on-a-moving-car-with-unmanned-aerial-vehicle.pdf
