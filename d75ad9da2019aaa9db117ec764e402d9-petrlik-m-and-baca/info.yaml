@@ -1,16 +1,16 @@
 author: Petrlik, M. and Baca, T. and Hert, D. and Vrba, M. and Krajnik, T. and Saska, M.
 doi: 10.1109/LRA.2020.2970980
-files:
-- /home/klaxalk/Dropbox/papers/petrlik-m-2020-a-robust-uav-system-for-operations-in-a-constrained-environment.pdf
 issn: 2169-2176
-volume: 5
-issue: 2
-month: 4
+volume: '5'
+issue: '2'
+month: '4'
 journal: IEEE Robotics and Automation Letters
-keywords: mine, phd_related, journal, if
 ref: petrlik2020robust
 title: '{A Robust UAV System for Operations in a Constrained Environment}'
 type: article
 url: https://ieeexplore.ieee.org/document/8979150
 year: '2020'
+keywords: mine, phd_related, journal, if
 addendum: '{\textbf{16\% contribution, IF 3.608 (Q1 in Robotics), citations: 0 in WoS, 0 in Scopus, 0 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/petrlik-m-2020-a-robust-uav-system-for-operations-in-a-constrained-environment.pdf
