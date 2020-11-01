@@ -1,6 +1,5 @@
 author: Baca, T. and Jilek, M. and Vertat, I. and Urban, M. and Nentvich, O. and Filgas,
   R. and Granja, C. and Inneman, A. and Daniel, V.
-files:
 number: '11'
 pages: C11010
 ref: baca2018timepix
@@ -10,8 +9,9 @@ type: article
 url: http://stacks.iop.org/1748-0221/13/i=11/a=C11010
 volume: '13'
 year: '2018'
+journal: Journal of Instrumentation
 keywords: mine, phd_unrelated, journal, if
 addendum: '{\textbf{60\% contribution, IF 1.366 (Q3 in Instruments \& Instrumentation),
   citations: 2 in WoS, 8 in Scopus, 11 in GS}}'
+files:
 - /home/klaxalk/Dropbox/papers/baca-t-2018-timepix-in-leo-orbit-onboard-the-vzlusat-1-nanosatellite-1-year-of-space-radiation-dosimetry-measurements.pdf
-journal: Journal of Instrumentation
