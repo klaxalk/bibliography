@@ -1,17 +1,17 @@
-addendum: '{\textbf{50\% contribution, IF 4.345 (Q1 in Robotics), citations: 4 in
-  WoS, 18 in Scopus, 27 in GS}}'
 author: Baca, T. and Stepan, P. and Spurny, B. and Hert, D. and Penicka, R. and Saska,
   M. and Thomas, J. and Loianno, G. and Kumar, V.
 doi: 10.1002/rob.21858
-files:
-- /home/klaxalk/Dropbox/papers/baca-t.-a-2019-autonomous-landing-on-a-moving-vehicle-with-an-unmanned-aerial-vehicle.pdf
-issue: '5'
 journal: '{Journal of Field Robotics}'
-keywords: mine, phd_related, journal, if
 pages: 874-891
 ref: baca2019autonomous
 title: '{Autonomous Landing on a Moving Vehicle with an Unmanned Aerial Vehicle}'
 type: article
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21858
 volume: '36'
+issue: '5'
 year: '2019'
+keywords: mine, phd_related, journal, if
+addendum: '{\textbf{50\% contribution, IF 4.345 (Q1 in Robotics), citations: 4 in
+  WoS, 18 in Scopus, 27 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/baca-t.-a-2019-autonomous-landing-on-a-moving-vehicle-with-an-unmanned-aerial-vehicle.pdf
