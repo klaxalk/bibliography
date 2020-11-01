@@ -1,12 +1,7 @@
-addendum: '{\textbf{52\% contribution, IF 1.366 (Q3 in Instruments \& Instrumentation),
-  citations: 32 in WoS, 38 in Scopus, 42 in GS}}'
 author: Baca, T. and Platkevic, M. and Jakubek, J. and Inneman, A. and Stehlikova,
   V. and Urban, M. and Nentvich, O. and Blazek, M. and McEntaffer, R. and Daniel,
   V.
-files:
-- /home/klaxalk/Dropbox/papers/baca-t.-a-2016-miniaturized-x-ray-telescope-for-vzlusat-1-nanosatellite-with-timepix-detector.pdf
 journal: Journal of Instrumentation
-keywords: mine, phd_unrelated, journal, if
 number: '10'
 pages: C10007
 ref: baca2016miniaturized
@@ -15,3 +10,8 @@ type: article
 url: http://stacks.iop.org/1748-0221/11/i=10/a=C10007
 volume: '11'
 year: '2016'
+keywords: mine, phd_unrelated, journal
+addendum: '{\textbf{52\% contribution, IF 1.366 (Q3 in Instruments \& Instrumentation),
+  citations: 32 in WoS, 38 in Scopus, 42 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/baca-t.-a-2016-miniaturized-x-ray-telescope-for-vzlusat-1-nanosatellite-with-timepix-detector.pdf

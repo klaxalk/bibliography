@@ -1,11 +1,6 @@
-addendum: '{\textbf{20\% contribution, IF 2.482 (Q1 in Engineering, Aerospace),
-  citations: 20 in WoS, 27 in Scopus, 28 in GS}}'
 author: Urban, M. and Nentvich, O. and Stehlikova, V. and Baca, T. and Daniel, V.
   and Hudec, R.
-files:
-- /home/klaxalk/Dropbox/papers/urban-m.-2017-vzlusat-1-nanosatellite-with-miniature-lobster-eye-x-ray-telescope-and-qualification-of-the-radiation-shielding-composite-for-space.pdf
 journal: Acta Astronautica
-keywords: mine, phd_unrelated, journal, if
 pages: 96--104
 publisher: Elsevier
 ref: urban2017vzlusat
@@ -14,3 +9,8 @@ title: '{VZLUSAT-1: Nanosatellite with miniature lobster eye X-ray telescope and
 type: article
 volume: '140'
 year: '2017'
+keywords: mine, phd_unrelated, journal
+addendum: '{\textbf{20\% contribution, IF 2.482 (Q1 in Engineering, Aerospace),
+  citations: 20 in WoS, 27 in Scopus, 28 in GS}}'
+files:
+- /home/klaxalk/Dropbox/papers/urban-m.-2017-vzlusat-1-nanosatellite-with-miniature-lobster-eye-x-ray-telescope-and-qualification-of-the-radiation-shielding-composite-for-space.pdf
