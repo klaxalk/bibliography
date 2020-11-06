@@ -1,0 +1,30 @@
+addendum: '{\textbf{20\% contribution}}'
+author: Stasinchuk, Yurii and Vrba, Matous and Petrlik, Matej and Baca, Tomas and
+  Spurny, Vojtech and Hert, Daniel and Zaitlik, David and Nascimento, Tiago and Saska,
+  Martin
+author_list:
+- family: Stasinchuk
+  given: Yurii
+- family: Vrba
+  given: Matous
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Spurny
+  given: Vojtech
+- family: Hert
+  given: Daniel
+- family: Zaitlik
+  given: David
+- family: Nascimento
+  given: Tiago
+- family: Saska
+  given: Martin
+keywords: mine, phd_related, submitted, journal
+note: '{submitted to IEEE RA-L}'
+ref: stasinchuk2020multiuav
+time-added: 2020-11-06-15:32:46
+title: '{A Multi-UAV System for Detection and Elimination of Multiple Targets}'
+type: article
+year: '2020'
