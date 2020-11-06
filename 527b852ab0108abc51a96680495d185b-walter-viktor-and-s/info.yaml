@@ -1,0 +1,24 @@
+author: Walter, Viktor and Spurny, Vojtech and Petrlik, Matej and Baca, Tomas and
+  Zaitlik, David and Saska, Martin
+author_list:
+- family: Walter
+  given: Viktor
+- family: Spurny
+  given: Vojtech
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Zaitlik
+  given: David
+- family: Saska
+  given: Martin
+note: '{submitted to IEEE RA-L}'
+ref: walter2020extinguishing
+time-added: 2020-11-06-15:37:20
+title: '{Extinguishing of Ground Fires by Fully Autonomous UAVs motivated by the MBZIRC
+  2020 Competition}'
+type: article
+year: '2020'
+keywords: mine, phd_related, submitted, journal
+addendum: '{\textbf{20\% contribution}}'
