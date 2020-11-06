@@ -4,7 +4,7 @@ issn: 2169-2176
 volume: '5'
 issue: '2'
 month: '4'
-journal: IEEE Robotics and Automation Letters
+journal: '{IEEE Robotics and Automation Letters}'
 ref: petrlik2020robust
 title: '{A Robust UAV System for Operations in a Constrained Environment}'
 type: article
