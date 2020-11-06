@@ -1,0 +1,26 @@
+author: Ahmad, Afzal and Walter, Viktor and Petracek, Pavel and Petrlik, Matej and
+  Baca, Tomas and Zaitlik, David and Saska, Martin
+author_list:
+- family: Ahmad
+  given: Afzal
+- family: Walter
+  given: Viktor
+- family: Petracek
+  given: Pavel
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Zaitlik
+  given: David
+- family: Saska
+  given: Martin
+note: '{submitted to IEEE RA-L}'
+ref: baca2020gamma
+time-added: 2020-11-06-15:30:03
+title: '{Autonomous Aerial Swarm in a Complex Environment without GNSS and without
+  Communication}'
+type: article
+year: '2020'
+keywords: mine, phd_related, submitted, journal
+addendum: '{\textbf{15\% contribution}}'
