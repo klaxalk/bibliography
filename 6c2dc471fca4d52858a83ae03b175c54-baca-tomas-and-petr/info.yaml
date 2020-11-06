@@ -18,8 +18,6 @@ author_list:
   given: Martin
 eprint: 2008.08050v2
 file: 2008.08050v2.pdf
-files:
-- baca-toma-2020-the-mrs-uav-system-pushing-the-frontiers-of-reproducible-research-real-world-deployment-and-education-with-autonomous-unmanned-ae.pdf
 month: '8'
 primaryclass: cs.RO
 ref: baca2020mrs
@@ -31,3 +29,6 @@ url: http://arxiv.org/abs/2008.08050v2
 year: '2020'
 note: 'arXiv preprint, arXiv:2008.08050'
 keywords: mine, phd_related, submitted, journal, core
+addendum: '{\textbf{70\% contribution}}'
+files:
+- baca-toma-2020-the-mrs-uav-system-pushing-the-frontiers-of-reproducible-research-real-world-deployment-and-education-with-autonomous-unmanned-ae.pdf
