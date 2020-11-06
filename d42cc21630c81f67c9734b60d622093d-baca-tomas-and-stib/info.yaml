@@ -17,8 +17,8 @@ author_list:
   given: Martin
 - family: Jakubek
   given: Jan
-eprint: 2008.08050v2
-note: arXiv preprint, arXiv:2008.08050
+eprint: 'arXiv: 2008.08050v2'
+note: '{submitted to IEEE 2021 ICRA}'
 ref: baca2020gamma
 time-added: 2020-11-06-15:08:32
 title: '{Gamma Radiation Source Localization for Micro Aerial Vehicles with a Miniature
