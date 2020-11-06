@@ -8,8 +8,8 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-journal: Accepted to Bioinspiration \& Biomimetics
-note: available~online~\url{http://mrs.felk.cvut.cz/data/papers/BB20swarm.pdf}
+journal: '{Bioinspiration \& Biomimetics}'
+note: '{Accepted, available~online~\url{http://mrs.felk.cvut.cz/data/papers/BB20swarm.pdf}}'
 ref: petracek2020bioinspired
 time-added: 2020-10-30-14:20:16
 title: '{Bio-Inspired Compact Swarms of Micro Aerial Vehicles without Communication
