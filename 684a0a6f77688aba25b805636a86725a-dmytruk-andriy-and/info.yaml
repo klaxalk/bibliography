@@ -1,0 +1,21 @@
+author: Dmytruk, Andriy and Nascimento, Tiago and Ahmad, Afzal and Baca, Tomas and
+  Saska, Martin
+author_list:
+- family: Dmytruk
+  given: Andriy
+- family: Nascimento
+  given: Tiago
+- family: Ahmad
+  given: Afzal
+- family: Baca
+  given: Tomas
+- family: Saska
+  given: Martin
+note: '{submitted to IEEE RA-L}'
+ref: dmytruk2020safe
+time-added: 2020-11-06-15:34:13
+title: '{Safe Tightly-Constrained UAV Swarming in GNSS-denied Environments}'
+type: article
+year: '2020'
+keywords: mine, phd_related, submitted, journal
+addendum: '{\textbf{20\% contribution}}'
