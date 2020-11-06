@@ -1,0 +1,29 @@
+author: Baca, Tomas and Stibinger, Petr and Doubravova, Daniela and Turecek, Daniel
+  and Solc, Jaroslav and Rusnak, Jan and Saska, Martin and Jakubek, Jan
+author_list:
+- family: Baca
+  given: Tomas
+- family: Stibinger
+  given: Petr
+- family: Doubravova
+  given: Daniela
+- family: Turecek
+  given: Daniel
+- family: Solc
+  given: Jaroslav
+- family: Rusnak
+  given: Jan
+- family: Saska
+  given: Martin
+- family: Jakubek
+  given: Jan
+eprint: 2008.08050v2
+note: arXiv preprint, arXiv:2008.08050
+ref: baca2020gamma
+time-added: 2020-11-06-15:08:32
+title: '{Gamma Radiation Source Localization for Micro Aerial Vehicles with a Miniature
+  Single-Detector Compton Event Camera}'
+type: inproceedings
+year: '2020'
+keywords: mine, phd_related, submitted, conference
+addendum: '{\textbf{70\% contribution}}'
