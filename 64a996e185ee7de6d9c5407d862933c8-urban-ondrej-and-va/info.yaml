@@ -1,0 +1,35 @@
+author: Urban, Ondrej and Vavroch, Ondrej and Polacek, Libor and Georgiev, Vjaceslav
+  and Burian, Petr and Turjanica, Pavel and Fiala, Pavel and Broulim, Pavel and Bergmann,
+  Benedikt
+author_list:
+- family: Urban
+  given: Ondrej
+- family: Vavroch
+  given: Ondrej
+- family: Polacek
+  given: Libor
+- family: Georgiev
+  given: Vjaceslav
+- family: Burian
+  given: Petr
+- family: Turjanica
+  given: Pavel
+- family: Fiala
+  given: Pavel
+- family: Broulim
+  given: Pavel
+- family: Bergmann
+  given: Benedikt
+files:
+- /home/klaxalk/Dropbox/papers/urban-ond-2020-hodoscope-with-timepix-detectors-for-pilsencube2-cubesat.pdf
+journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment'
+keywords: timepix
+pages: '164462'
+publisher: Elsevier
+ref: urban2020hodoscope
+time-added: 2020-11-09-18:08:30
+title: '{Hodoscope with Timepix detectors for PilsenCube2 cubesat}'
+type: article
+volume: '980'
+year: '2020'
