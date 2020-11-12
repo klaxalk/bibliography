@@ -1,0 +1,20 @@
+author: Burri, Michael and Datwiler, Manuel and Achtelik, Markus W and Siegwart, Roland
+author_list:
+- family: Burri
+  given: Michael
+- family: Datwiler
+  given: Manuel
+- family: Achtelik
+  given: Markus W
+- family: Siegwart
+  given: Roland
+booktitle: 2015 IEEE international conference on robotics and automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/burri-mic-2015-robust-state-estimation-for-micro-aerial-vehicles-based-on-system-dynamics.pdf
+organization: IEEE
+pages: 5278--5283
+ref: burri2015robust
+time-added: 2020-11-12-14:16:38
+title: '{Robust state estimation for micro aerial vehicles based on system dynamics}'
+type: inproceedings
+year: '2015'
