@@ -1,0 +1,27 @@
+author: Beul, Marius and Bultmann, Simon and Rochow, Andre and Rosu, Radu and Schleich,
+  Daniel and Splietker, Malte and Behnke, Sven
+author_list:
+- family: Beul
+  given: Marius
+- family: Bultmann
+  given: Simon
+- family: Rochow
+  given: Andre
+- family: Rosu
+  given: Radu
+- family: Schleich
+  given: Daniel
+- family: Splietker
+  given: Malte
+- family: Behnke
+  given: Sven
+booktitle: IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)
+files:
+- /home/klaxalk/Dropbox/papers/beul-mari-2020-visually-guided-balloon-popping-with-an-autonomous-mav-at-mbzirc-2020.pdf
+keywords: mbzirc
+month: '11'
+ref: beul2020visually
+time-added: 2020-11-12-11:02:24
+title: '{Visually Guided Balloon Popping with an Autonomous MAV at MBZIRC 2020}'
+type: inproceedings
+year: '2020'
