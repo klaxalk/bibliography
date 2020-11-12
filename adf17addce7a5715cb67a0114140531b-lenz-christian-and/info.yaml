@@ -1,0 +1,25 @@
+author: Lenz, Christian and Schwarz, Max and Rochow, Andre and Razlaw, Jan and Periyasamy,
+  Arul Selvam and Schreiber, Michael and Behnke, Sven
+author_list:
+- family: Lenz
+  given: Christian
+- family: Schwarz
+  given: Max
+- family: Rochow
+  given: Andre
+- family: Razlaw
+  given: Jan
+- family: Periyasamy
+  given: Arul Selvam
+- family: Schreiber
+  given: Michael
+- family: Behnke
+  given: Sven
+booktitle: '{IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)}'
+keywords: mbzirc
+month: '11'
+ref: lenz2020autonomous
+time-added: 2020-11-12-13:42:08
+title: '{Autonomous Wall Building with a UGV-UAV Team at MBZIRC 2020}'
+type: inproceedings
+year: '2020'
