@@ -1,30 +1,30 @@
-author: '{Tomic}, T. and {Schmid}, K. and {Lutz}, P. and {Domel}, A. and {Kassecker},
-  M. and {Mair}, E. and {Grixa}, I. L. and {Ruess}, F. and {Suppa}, M. and {Burschka},
+author: 'Tomic, T. and Schmid, K. and Lutz, P. and Domel, A. and Kassecker,
+  M. and Mair, E. and Grixa, I. L. and Ruess, F. and Suppa, M. and Burschka,
   D.'
 author_list:
-- family: '{Tomic}'
+- family: 'Tomic'
   given: T.
-- family: '{Schmid}'
+- family: 'Schmid'
   given: K.
-- family: '{Lutz}'
+- family: 'Lutz'
   given: P.
-- family: '{Domel}'
+- family: 'Domel'
   given: A.
-- family: '{Kassecker}'
+- family: 'Kassecker'
   given: M.
-- family: '{Mair}'
+- family: 'Mair'
   given: E.
-- family: '{Grixa}'
+- family: 'Grixa'
   given: I. L.
-- family: '{Ruess}'
+- family: 'Ruess'
   given: F.
-- family: '{Suppa}'
+- family: 'Suppa'
   given: M.
-- family: '{Burschka}'
+- family: 'Burschka'
   given: D.
 files:
 - /home/klaxalk/Dropbox/papers/tomic-t-2012-toward-a-fully-autonomous-uav-research-platform-for-indoor-and-outdoor-urban-search-and-rescue.pdf
-journal: IEEE Robotics Automation Magazine
+journal: IEEE Robotics and Automation Magazine
 number: '3'
 pages: 46-56
 ref: '6290694'
