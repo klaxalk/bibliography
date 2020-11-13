@@ -1,19 +1,19 @@
 author: 'Sanchez-Lopez, J. L. and Suarez Fernandez, R. A. and Bavle, H. and
   Sampedro, C. and Molina, M. and Pestana, J. and Campoy, P.'
 author_list:
-- family: '{Sanchez-Lopez}'
+- family: 'Sanchez-Lopez'
   given: J. L.
-- family: '{Suárez Fernández}'
+- family: 'Suarez Fernandez'
   given: R. A.
-- family: '{Bavle}'
+- family: 'Bavle'
   given: H.
-- family: '{Sampedro}'
+- family: 'Sampedro'
   given: C.
-- family: '{Molina}'
+- family: 'Molina'
   given: M.
-- family: '{Pestana}'
+- family: 'Pestana'
   given: J.
-- family: '{Campoy}'
+- family: 'Campoy'
   given: P.
 booktitle: 2016 International Conference on Unmanned Aircraft Systems (ICUAS)
 pages: 332-341
