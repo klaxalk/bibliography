@@ -1,0 +1,34 @@
+author: Bahnemann, Rik and Pantic, Michael and Popovic, Marija and Schindler, Dominik
+  and Tranzatto, Marco and Kamel, Mina and Grimm, Marius and Widauer, Jakob and Siegwart,
+  Roland and Nieto, Juan
+author_list:
+- family: Bahnemann
+  given: Rik
+- family: Pantic
+  given: Michael
+- family: Popovic
+  given: Marija
+- family: Schindler
+  given: Dominik
+- family: Tranzatto
+  given: Marco
+- family: Kamel
+  given: Mina
+- family: Grimm
+  given: Marius
+- family: Widauer
+  given: Jakob
+- family: Siegwart
+  given: Roland
+- family: Nieto
+  given: Juan
+journal: Journal of Field Robotics
+number: '1'
+pages: 78--103
+ref: bahnemann2019eth
+time-added: 2020-11-16-14:14:03
+title: '{The ETH-MAV Team in the MBZ International Robotics Challenge}'
+type: article
+volume: '36'
+year: '2019'
+keywords: mbzirc
