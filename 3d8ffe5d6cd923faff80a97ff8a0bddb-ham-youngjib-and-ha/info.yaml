@@ -1,0 +1,23 @@
+author: Ham, Youngjib and Han, Kevin K and Lin, Jacob J and Golparvar-Fard, Mani
+author_list:
+- family: Ham
+  given: Youngjib
+- family: Han
+  given: Kevin K
+- family: Lin
+  given: Jacob J
+- family: Golparvar-Fard
+  given: Mani
+files:
+- /home/klaxalk/Dropbox/papers/ham-young-2016-visual-monitoring-of-civil-infrastructure-systems-via-camera-equipped-unmanned-aerial-vehicles-uavs-a-review-of-related-works.pdf
+journal: Visualization in Engineering
+number: '1'
+pages: '1'
+publisher: Springer
+ref: ham2016visual
+time-added: 2020-11-16-13:38:44
+title: '{Visual monitoring of civil infrastructure systems via camera-equipped Unmanned
+  Aerial Vehicles (UAVs): a review of related works}'
+type: article
+volume: '4'
+year: '2016'
