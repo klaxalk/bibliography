@@ -1,0 +1,14 @@
+author: Lindsey, Quentin and Kumar, Vijay
+author_list:
+- family: Lindsey
+  given: Quentin
+- family: Kumar
+  given: Vijay
+booktitle: Algorithmic Foundations of Robotics X
+pages: 209--225
+publisher: Springer
+ref: lindsey2013distributed
+time-added: 2020-11-18-13:04:09
+title: Distributed construction of truss structures
+type: incollection
+year: '2013'
