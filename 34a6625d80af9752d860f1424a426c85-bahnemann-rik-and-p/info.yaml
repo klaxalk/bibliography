@@ -22,7 +22,10 @@ author_list:
   given: Roland
 - family: Nieto
   given: Juan
+files:
+- /home/klaxalk/Dropbox/papers/bahnemann-2019-the-eth-mav-team-in-the-mbz-international-robotics-challenge.pdf
 journal: Journal of Field Robotics
+keywords: mbzirc
 number: '1'
 pages: 78--103
 ref: bahnemann2019eth
@@ -31,4 +34,3 @@ title: '{The ETH-MAV Team in the MBZ International Robotics Challenge}'
 type: article
 volume: '36'
 year: '2019'
-keywords: mbzirc
