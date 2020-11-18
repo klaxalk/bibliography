@@ -1,0 +1,27 @@
+author: Ryll, Markus and Muscio, Giuseppe and Pierri, Francesco and Cataldi, Elisabetta
+  and Antonelli, Gianluca and Caccavale, Fabrizio and Franchi, Antonio
+author_list:
+- family: Ryll
+  given: Markus
+- family: Muscio
+  given: Giuseppe
+- family: Pierri
+  given: Francesco
+- family: Cataldi
+  given: Elisabetta
+- family: Antonelli
+  given: Gianluca
+- family: Caccavale
+  given: Fabrizio
+- family: Franchi
+  given: Antonio
+booktitle: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/ryll-mark-2017-6d-physical-interaction-with-a-fully-actuated-aerial-robot.pdf
+organization: IEEE
+pages: 5190--5195
+ref: ryll20176d
+time-added: 2020-11-18-13:08:38
+title: '{6D physical interaction with a fully actuated aerial robot}'
+type: inproceedings
+year: '2017'
