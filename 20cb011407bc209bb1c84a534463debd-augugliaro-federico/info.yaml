@@ -1,10 +1,13 @@
 author: Augugliaro, Federico and Mirjan, Ammar and Gramazio, Fabio and Kohler, Matthias
   and D'Andrea, Raffaello
-booktitle: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+booktitle: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/augugliaro-2013-building-tensile-structures-with-flying-machines.pdf
+keywords: uav, building
 organization: IEEE
 pages: 3487--3492
 ref: augugliaro2013building
 title: Building tensile structures with flying machines
 type: inproceedings
 year: '2013'
-keywords: uav
