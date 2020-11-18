@@ -18,6 +18,8 @@ author_list:
 - family: Nieto
   given: Juan
 booktitle: 2017 IEEE international conference on robotics and automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/gawel-abe-2017-aerial-picking-and-delivery-of-magnetic-objects-with-mavs.pdf
 organization: IEEE
 pages: 5746--5752
 ref: gawel2017aerial
