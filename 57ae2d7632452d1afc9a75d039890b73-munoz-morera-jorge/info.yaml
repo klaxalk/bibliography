@@ -1,0 +1,22 @@
+author: Munoz-Morera, Jorge and Maza, Ivan and Fernandez-Aguera, Carmelo J and Caballero,
+  Fernando and Ollero, Anibal
+author_list:
+- family: Munoz-Morera
+  given: Jorge
+- family: Maza
+  given: Ivan
+- family: Fernandez-Aguera
+  given: Carmelo J
+- family: Caballero
+  given: Fernando
+- family: Ollero
+  given: Anibal
+booktitle: 2015 International Conference on Unmanned Aircraft Systems (ICUAS)
+organization: IEEE
+pages: 1049--1058
+ref: munoz2015assembly
+time-added: 2020-11-18-13:20:30
+title: '{Assembly planning for the construction of structures with multiple UAS equipped
+  with robotic arms}'
+type: inproceedings
+year: '2015'
