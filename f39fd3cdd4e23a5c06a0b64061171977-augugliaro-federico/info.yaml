@@ -1,0 +1,21 @@
+author: Augugliaro, Federico and Mirjan, Ammar and Gramazio, Fabio and Kohler, Matthias
+  and D'Andrea, Raffaello
+author_list:
+- family: Augugliaro
+  given: Federico
+- family: Mirjan
+  given: Ammar
+- family: Gramazio
+  given: Fabio
+- family: Kohler
+  given: Matthias
+- family: D'Andrea
+  given: Raffaello
+booktitle: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (ICRA)
+organization: IEEE
+pages: 3487--3492
+ref: augugliaro2013building
+time-added: 2020-11-18-13:07:04
+title: '{Building tensile structures with flying machines}'
+type: inproceedings
+year: '2013'
