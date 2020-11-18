@@ -1,0 +1,27 @@
+author: Gawel, Abel and Kamel, Mina and Novkovic, Tonci and Widauer, Jakob and Schindler,
+  Dominik and Von Altishofen, Benjamin Pfyffer and Siegwart, Roland and Nieto, Juan
+author_list:
+- family: Gawel
+  given: Abel
+- family: Kamel
+  given: Mina
+- family: Novkovic
+  given: Tonci
+- family: Widauer
+  given: Jakob
+- family: Schindler
+  given: Dominik
+- family: Von Altishofen
+  given: Benjamin Pfyffer
+- family: Siegwart
+  given: Roland
+- family: Nieto
+  given: Juan
+booktitle: 2017 IEEE international conference on robotics and automation (ICRA)
+organization: IEEE
+pages: 5746--5752
+ref: gawel2017aerial
+time-added: 2020-11-18-13:09:48
+title: '{Aerial picking and delivery of magnetic objects with MAVs}'
+type: inproceedings
+year: '2017'
