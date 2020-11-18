@@ -1,0 +1,32 @@
+author: Beul, Marius and Nieuwenhuisen, Matthias and Quenzel, Jan and Rosu, Radu Alexandru
+  and Horn, Jannis and Pavlichenko, Dmytro and Houben, Sebastian and Behnke, Sven
+author_list:
+- family: Beul
+  given: Marius
+- family: Nieuwenhuisen
+  given: Matthias
+- family: Quenzel
+  given: Jan
+- family: Rosu
+  given: Radu Alexandru
+- family: Horn
+  given: Jannis
+- family: Pavlichenko
+  given: Dmytro
+- family: Houben
+  given: Sebastian
+- family: Behnke
+  given: Sven
+files:
+- /home/klaxalk/Dropbox/papers/beul-mari-2019-team-nimbro-at-mbzirc-2017-fast-landing-on-a-moving-target-and-treasure-hunting-with-a-team-of-micro-aerial-vehicles.pdf
+journal: Journal of Field Robotics
+number: '1'
+pages: 204--229
+publisher: Wiley Online Library
+ref: beul2019team
+time-added: 2020-11-18-14:05:50
+title: '{Team NimbRo at MBZIRC 2017: Fast landing on a moving target and treasure
+  hunting with a team of micro aerial vehicles}'
+type: article
+volume: '36'
+year: '2019'
