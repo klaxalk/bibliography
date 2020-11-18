@@ -1,0 +1,20 @@
+author: Thomas, Justin and Loianno, Giuseppe and Sreenath, Koushil and Kumar, Vijay
+author_list:
+- family: Thomas
+  given: Justin
+- family: Loianno
+  given: Giuseppe
+- family: Sreenath
+  given: Koushil
+- family: Kumar
+  given: Vijay
+booktitle: 2014 IEEE International Conference on Robotics and Automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/thomas-ju-2014-toward-image-based-visual-servoing-for-aerial-grasping-and-perching.pdf
+organization: IEEE
+pages: 2113--2118
+ref: thomas2014toward
+time-added: 2020-11-18-13:14:28
+title: Toward image based visual servoing for aerial grasping and perching
+type: inproceedings
+year: '2014'
