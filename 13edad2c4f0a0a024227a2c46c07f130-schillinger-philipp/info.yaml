@@ -1,0 +1,16 @@
+author: Schillinger, Philipp and Kohlbrecher, Stefan and von Stryk, Oskar
+author_list:
+- family: Schillinger
+  given: Philipp
+- family: Kohlbrecher
+  given: Stefan
+- family: von Stryk
+  given: Oskar
+booktitle: 2016 IEEE International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 2796--2802
+ref: schillinger2016human
+time-added: 2020-11-18-13:22:04
+title: Human-robot collaborative high-level control with application to rescue robotics
+type: inproceedings
+year: '2016'
