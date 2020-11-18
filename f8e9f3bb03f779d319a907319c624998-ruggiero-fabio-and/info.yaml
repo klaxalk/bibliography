@@ -1,0 +1,18 @@
+author: Ruggiero, Fabio and Lippiello, Vincenzo and Ollero, Anibal
+author_list:
+- family: Ruggiero
+  given: Fabio
+- family: Lippiello
+  given: Vincenzo
+- family: Ollero
+  given: Anibal
+journal: IEEE Robotics and Automation Letters
+number: '3'
+pages: 1957--1964
+publisher: IEEE
+ref: ruggiero2018aerial
+time-added: 2020-11-18-13:18:47
+title: '{Aerial manipulation: A literature review}'
+type: article
+volume: '3'
+year: '2018'
