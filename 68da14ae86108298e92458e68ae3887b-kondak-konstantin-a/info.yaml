@@ -1,0 +1,28 @@
+author: Kondak, Konstantin and Huber, Felix and Schwarzbach, Marc and Laiacker, Maximilian
+  and Sommer, Dominik and Bejar, Manuel and Ollero, Anibal
+author_list:
+- family: Kondak
+  given: Konstantin
+- family: Huber
+  given: Felix
+- family: Schwarzbach
+  given: Marc
+- family: Laiacker
+  given: Maximilian
+- family: Sommer
+  given: Dominik
+- family: Bejar
+  given: Manuel
+- family: Ollero
+  given: Anibal
+booktitle: 2014 IEEE international conference on robotics and automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/kondak-ko-2014-aerial-manipulation-robot-composed-of-an-autonomous-helicopter-and-a-7-degrees-of-freedom-industrial-manipulator.pdf
+organization: IEEE
+pages: 2107--2112
+ref: kondak2014aerial
+time-added: 2020-11-18-13:40:18
+title: Aerial manipulation robot composed of an autonomous helicopter and a 7 degrees
+  of freedom industrial manipulator
+type: inproceedings
+year: '2014'
