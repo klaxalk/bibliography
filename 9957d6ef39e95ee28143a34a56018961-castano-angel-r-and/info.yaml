@@ -1,0 +1,32 @@
+author: Castano, Angel R and Real, Fran and Ramon-Soria, Pablo and Capitan, Jesus
+  and Vega, Victor and Arrue, Begona C and Torres-Gonzalez, Arturo and Ollero, Anibal
+author_list:
+- family: Castano
+  given: Angel R
+- family: Real
+  given: Fran
+- family: Ramon-Soria
+  given: Pablo
+- family: Capitan
+  given: Jesus
+- family: Vega
+  given: Victor
+- family: Arrue
+  given: Begona C
+- family: Torres-Gonzalez
+  given: Arturo
+- family: Ollero
+  given: Anibal
+files:
+- /home/klaxalk/Dropbox/papers/castano-a-2019-al-robotics-team-a-cooperative-multi-unmanned-aerial-vehicle-approach-for-the-mohamed-bin-zayed-international-robotic-challenge.pdf
+journal: Journal of Field Robotics
+number: '1'
+pages: 104--124
+publisher: Wiley Online Library
+ref: castano2019robotics
+time-added: 2020-11-18-14:07:39
+title: '{Al-Robotics team: A cooperative multi-unmanned aerial vehicle approach for
+  the Mohamed Bin Zayed International Robotic Challenge}'
+type: article
+volume: '36'
+year: '2019'
