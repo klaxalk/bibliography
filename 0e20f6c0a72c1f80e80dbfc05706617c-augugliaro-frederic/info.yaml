@@ -1,0 +1,37 @@
+author: Augugliaro, Frederico and Lupashin, Sergei and Hamer, Michael and Male, Cason
+  and Hehn, Markus and Mueller, Mark W and Willmann, Jan Sebastian and Gramazio, Fabio
+  and Kohler, Matthias and D'Andrea, Raffaello
+author_list:
+- family: Augugliaro
+  given: Frederico
+- family: Lupashin
+  given: Sergei
+- family: Hamer
+  given: Michael
+- family: Male
+  given: Cason
+- family: Hehn
+  given: Markus
+- family: Mueller
+  given: Mark W
+- family: Willmann
+  given: Jan Sebastian
+- family: Gramazio
+  given: Fabio
+- family: Kohler
+  given: Matthias
+- family: D'Andrea
+  given: Raffaello
+files:
+- /home/klaxalk/Dropbox/papers/augugliaro-2014-the-flight-assembled-architecture-installation-cooperative-construction-with-flying-machines.pdf
+journal: IEEE Control Systems Magazine
+number: '4'
+pages: 46--64
+publisher: IEEE
+ref: augugliaro2014flight
+time-added: 2020-11-18-12:56:13
+title: 'The flight assembled architecture installation: Cooperative construction with
+  flying machines'
+type: article
+volume: '34'
+year: '2014'
