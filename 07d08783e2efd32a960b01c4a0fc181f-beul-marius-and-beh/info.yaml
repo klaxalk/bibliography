@@ -1,0 +1,16 @@
+author: Beul, Marius and Behnke, Sven
+author_list:
+- family: Beul
+  given: Marius
+- family: Behnke
+  given: Sven
+booktitle: 2017 International Conference on Unmanned Aircraft Systems (ICUAS)
+files:
+- /home/klaxalk/Dropbox/papers/beul-mari-2017-fast-full-state-trajectory-generation-for-multirotors.pdf
+organization: IEEE
+pages: 408--416
+ref: beul2017fast
+time-added: 2020-11-18-13:17:27
+title: Fast full state trajectory generation for multirotors
+type: inproceedings
+year: '2017'
