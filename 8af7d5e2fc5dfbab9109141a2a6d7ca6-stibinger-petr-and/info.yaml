@@ -1,0 +1,35 @@
+author: Stibinger, Petr and Broughton, George and Majer, Filip and Rozsypalek, Zdenek
+  and Wang, Anthony and Jindal, Kshitij and Zhou, Alex and Thakur, Dinesh and Loianno,
+  Giuseppe and Krajnik, Tomas and Saska, Martin
+author_list:
+- family: Stibinger
+  given: Petr
+- family: Broughton
+  given: George
+- family: Majer
+  given: Filip
+- family: Rozsypalek
+  given: Zdenek
+- family: Wang
+  given: Anthony
+- family: Jindal
+  given: Kshitij
+- family: Zhou
+  given: Alex
+- family: Thakur
+  given: Dinesh
+- family: Loianno
+  given: Giuseppe
+- family: Krajnik
+  given: Tomas
+- family: Saska
+  given: Martin
+eprint: 'arXiv: 2008.08050v2'
+journal: Submitted to Robotics and Automation Letters
+ref: stibinger2020mobile
+time-added: 2020-11-18-12:49:24
+title: '{Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement
+  of Construction Material in a Semi-structured Environment}'
+type: article
+url: http://arxiv.org/abs/2011.07972
+year: '2020'
