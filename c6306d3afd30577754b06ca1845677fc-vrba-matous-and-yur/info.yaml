@@ -1,0 +1,28 @@
+author: Vrba, Matous and Yurii, Stasinchuk and Baca, Tomas and Spurny, Vojtech and
+  Petrlik, Matej and Hert, Daniel and Zaitlik, David and Saska, Martin
+author_list:
+- family: Vrba
+  given: Matous
+- family: Yurii
+  given: Stasinchuk
+- family: Baca
+  given: Tomas
+- family: Spurny
+  given: Vojtech
+- family: Petrlik
+  given: Matej
+- family: Hert
+  given: Daniel
+- family: Zaitlik
+  given: David
+- family: Saska
+  given: Martin
+journal: submitted to IEEE Transactions on Systems, Man, and Cybernetics
+ref: vrba2020autonomous
+time-added: 2020-11-21-17:30:34
+title: '{Autonomous Capturing of Agile Flying Objects using MAVs: The MBZIRC 2020
+  Challenge}'
+type: article
+year: '2020'
+keywords: mine, phd_related, journal, mbzirc
+addendum: '{\textbf{20\% contribution}}'
