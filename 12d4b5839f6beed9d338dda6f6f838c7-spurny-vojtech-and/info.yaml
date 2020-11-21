@@ -1,0 +1,25 @@
+author: Spurny, Vojtech and Pritzl, Vaclav and Petrlik, Matej and Baca, Tomas and
+  Stepan, Petr and Zaitlik, David and Saska, Martin
+author_list:
+- family: Spurny
+  given: Vojtech
+- family: Pritzl
+  given: Vaclav
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Stepan
+  given: Petr
+- family: Zaitlik
+  given: David
+- family: Saska
+  given: Martin
+journal: submitted to IEEE Transactions on Systems, Man, and Cybernetics
+ref: vrba2020autonomous
+time-added: 2020-11-21-17:32:14
+title: '{Autonomous Firefighting Inside Buildings by an Unmanned Aerial Vehicle}'
+type: article
+year: '2020'
+keywords: mine, phd_related, journal, mbzirc, submitted
+addendum: '{\textbf{20\% contribution}}'
