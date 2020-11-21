@@ -1,0 +1,22 @@
+author: Baca, Tomas and Penicka, Robert and Stepan, Petr and Hert, Daniel and Saska,
+  Martin
+author_list:
+- family: Baca
+  given: Tomas
+- family: Penicka
+  given: Robert
+- family: Stepan
+  given: Petr
+- family: Hert
+  given: Daniel
+- family: Saska
+  given: Martin
+journal: submitted to Robotics and Autonomous System
+ref: baca2020autonomous
+time-added: 2020-11-21-17:41:03
+title: '{Autonomous Cooperative Wall Building by a Team of Unmanned Aerial Vehicles
+  in the MBZIRC 2020 competition}'
+type: article
+year: '2020'
+keywords: mine, phd_related, mbzirc, submitted, journal
+addendum: '{\textbf{30\% contribution}}'
