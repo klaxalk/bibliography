@@ -8,7 +8,7 @@ author_list:
   given: Markus W
 - family: Siegwart
   given: Roland
-booktitle: 2015 IEEE international conference on robotics and automation (ICRA)
+booktitle: 2015 IEEE international conference on robotics and automation
 files:
 - /home/klaxalk/Dropbox/papers/burri-mic-2015-robust-state-estimation-for-micro-aerial-vehicles-based-on-system-dynamics.pdf
 organization: IEEE
