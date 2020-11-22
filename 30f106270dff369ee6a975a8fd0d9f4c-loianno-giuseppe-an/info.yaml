@@ -1,6 +1,5 @@
 author: Loianno, Giuseppe and Thomas, Justin and Kumar, Vijay
-booktitle: '{IEEE International Conference on Robotics and Automation (ICRA)}'
-files: []
+booktitle: 'IEEE International Conference on Robotics and Automation'
 publisher: IEEE
 ref: loianno2015mapping
 title: '{Cooperative localization and mapping of MAVs using RGB-D sensors}'

@@ -17,7 +17,7 @@ author_list:
   given: Roland
 - family: Nieto
   given: Juan
-booktitle: 2017 IEEE international conference on robotics and automation (ICRA)
+booktitle: 2017 IEEE International Conference on Robotics and Automation
 files:
 - /home/klaxalk/Dropbox/papers/gawel-abe-2017-aerial-picking-and-delivery-of-magnetic-objects-with-mavs.pdf
 organization: IEEE

@@ -6,7 +6,7 @@ author_list:
   given: Stefan
 - family: von Stryk
   given: Oskar
-booktitle: 2016 IEEE International Conference on Robotics and Automation (ICRA)
+booktitle: 2016 IEEE International Conference on Robotics and Automation
 files:
 - /home/klaxalk/Dropbox/papers/schillinge-2016-human-robot-collaborative-high-level-control-with-application-to-rescue-robotics.pdf
 organization: IEEE

@@ -17,7 +17,7 @@ author_list:
   given: Rob
 - family: Ng
   given: Andrew Y
-booktitle: ICRA workshop on open source software
+booktitle: IEEE ICRA workshop on open source software
 files:
 - /home/klaxalk/Dropbox/papers/quigley-m-2009-ros-an-open-source-robot-operating-system.pdf
 number: '3.2'
