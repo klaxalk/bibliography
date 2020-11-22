@@ -8,13 +8,13 @@ author_list:
   given: Shengyang
 - family: Pan
   given: Feng
-booktitle: 2020 Chinese Control And Decision Conference (CCDC)
+booktitle: 2020 IEEE Chinese Control And Decision Conference
 files:
 - /home/klaxalk/Dropbox/papers/feng-kai-2020-packages-delivery-based-on-marker-detection-for-uavs.pdf
 organization: IEEE
 pages: 2094--2099
 ref: feng2020packages
 time-added: 2020-09-24-12:04:48
-title: Packages delivery based on marker detection for UAVs
+title: '{Packages delivery based on marker detection for UAVs}'
 type: inproceedings
 year: '2020'
