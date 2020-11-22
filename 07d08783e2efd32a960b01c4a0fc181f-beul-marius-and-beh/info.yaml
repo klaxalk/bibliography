@@ -4,7 +4,7 @@ author_list:
   given: Marius
 - family: Behnke
   given: Sven
-booktitle: 2017 International Conference on Unmanned Aircraft Systems (ICUAS)
+booktitle: 2017 IEEE International Conference on Unmanned Aircraft Systems
 files:
 - /home/klaxalk/Dropbox/papers/beul-mari-2017-fast-full-state-trajectory-generation-for-multirotors.pdf
 organization: IEEE
