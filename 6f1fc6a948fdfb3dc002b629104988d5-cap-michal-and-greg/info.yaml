@@ -1,11 +1,9 @@
 author: Cap, Michal and Gregoire, Jean and Frazzoli, Emilio
 booktitle: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
-files: []
 organization: IEEE
 pages: 5113--5118
 ref: cap:timewarping
-title: Provably safe and deadlock-free execution of multi-robot plans under delaying
-  disturbances
+title: 'Provably safe and deadlock-free execution of multi-robot plans under delaying disturbances'
 type: inproceedings
 year: '2016'
 keywords: planning

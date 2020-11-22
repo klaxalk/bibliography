@@ -4,8 +4,7 @@ author_list:
   given: Beat
 - family: others
   given: ''
-booktitle: '{2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)}'
+booktitle: '2016 IEEE/RSJ International Conference on Intelligent Robots and Systems'
 organization: IEEE
 ref: kueng2016low
 time-added: 2020-10-31-16:51:03
