@@ -1,8 +1,8 @@
 author: Ritz, Robin and D'Andrea, Raffaello
 organization: IEEE
-publisher: '{IEEE International Conference on Robotics \& Automation (ICRA)}'
+booktitle: '2014 IEEE International Conference on Robotics \& Automation'
 ref: tirz2014onboard
 title: '{An On-Board Learning Scheme for Open-Loop Quadrocopter Maneuvers Using Inertial Sensors and Control Inputs from an External Pilot}'
-type: article
+type: inproceedings
 year: '2014'
 keywords: uav, control
