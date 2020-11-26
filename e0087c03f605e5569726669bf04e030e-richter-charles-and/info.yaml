@@ -1,5 +1,8 @@
 author: Richter, Charles and Bry, Adam and Roy, Nicholas
 booktitle: Robotics Research
+files:
+- /home/klaxalk/Dropbox/papers/richter-c-2016-polynomial-trajectory-planning-for-aggressive-quadrotor-flight-in-dense-indoor-environments.pdf
+keywords: planning, uav
 pages: 649--666
 publisher: Springer
 ref: richter2016polynomial
@@ -7,4 +10,3 @@ title: Polynomial trajectory planning for aggressive quadrotor flight in dense i
   environments
 type: incollection
 year: '2016'
-keywords: planning, uav
