@@ -1,0 +1,19 @@
+author: Papachristos, C and Khattak, S and Mascarich, F and Alexis, K
+author_list:
+- family: Papachristos
+  given: C
+- family: Khattak
+  given: S
+- family: Mascarich
+  given: F
+- family: Alexis
+  given: K
+booktitle: 2019 IEEE Aerospace Conference
+doi: 10.1109/AERO.2019.8741532
+organization: IEEE
+pages: 1-8
+ref: apachristos2019autonomous
+time-added: 2020-12-02-11:18:44
+title: '{Autonomous Navigation and Mapping in Underground Mines Using Aerial Robots}'
+type: inproceedings
+year: '2019'
