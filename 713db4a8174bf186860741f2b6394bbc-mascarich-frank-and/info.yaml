@@ -10,6 +10,8 @@ author_list:
 - family: Alexis
   given: Kostas
 booktitle: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/mascarich-2018-radiation-source-localization-in-gps-denied-environments-using-aerial-robots.pdf
 organization: IEEE
 pages: 6537--6544
 ref: mascarich2018radiation
