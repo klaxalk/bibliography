@@ -10,6 +10,8 @@ author_list:
   given: K
 booktitle: 2019 IEEE Aerospace Conference
 doi: 10.1109/AERO.2019.8741532
+files:
+- /home/klaxalk/Dropbox/papers/papachrist-2019-autonomous-navigation-and-mapping-in-underground-mines-using-aerial-robots.pdf
 organization: IEEE
 pages: 1-8
 ref: apachristos2019autonomous
