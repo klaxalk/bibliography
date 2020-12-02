@@ -14,10 +14,13 @@ author_list:
 - family: Tadokoro
   given: Satoshi
 booktitle: 2011 IEEE International Symposium on Safety, Security, and Rescue Robotics
+files:
+- /home/klaxalk/Dropbox/papers/ohno-kazu-2011-robotic-control-vehicle-for-measuring-radiation-in-fukushima-daiichi-nuclear-power-plant.pdf
 organization: IEEE
 pages: 38--43
 ref: ohno2011robotic
 time-added: 2020-10-23-21:56:45
-title: '{Robotic control vehicle for measuring radiation in Fukushima Daiichi Nuclear Power Plant}'
+title: '{Robotic control vehicle for measuring radiation in Fukushima Daiichi Nuclear
+  Power Plant}'
 type: inproceedings
 year: '2011'
