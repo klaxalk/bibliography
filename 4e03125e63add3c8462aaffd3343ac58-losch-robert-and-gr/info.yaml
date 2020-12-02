@@ -1,0 +1,25 @@
+author: Losch, Robert and Grehl, Steve and Donner, Marc and Buhl, Claudia and Jung,
+  Bernhard
+author_list:
+- family: Losch
+  given: Robert
+- family: Grehl
+  given: Steve
+- family: Donner
+  given: Marc
+- family: Buhl
+  given: Claudia
+- family: Jung
+  given: Bernhard
+booktitle: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/losch-rob-2018-design-of-an-autonomous-robot-for-mapping-navigation-and-manipulation-in-underground-mines.pdf
+organization: IEEE
+pages: 1407--1412
+ref: losch2018design
+time-added: 2020-12-02-11:31:02
+title: Design of an autonomous robot for mapping, navigation, and manipulation in
+  underground mines
+type: inproceedings
+year: '2018'
