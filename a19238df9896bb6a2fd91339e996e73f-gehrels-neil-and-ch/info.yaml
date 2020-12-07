@@ -1,0 +1,36 @@
+author: 'Gehrels, Neil and Chincarini, Guido and Giommi, P and Mason, KO and Nousek,
+  John Andrew and Wells, AA and White, NE and Barthelmy, SD and Burrows, David Nelson
+  and Cominsky, LR and others, '
+author_list:
+- family: Gehrels
+  given: Neil
+- family: Chincarini
+  given: Guido
+- family: Giommi
+  given: P
+- family: Mason
+  given: KO
+- family: Nousek
+  given: John Andrew
+- family: Wells
+  given: AA
+- family: White
+  given: NE
+- family: Barthelmy
+  given: SD
+- family: Burrows
+  given: David Nelson
+- family: Cominsky
+  given: LR
+- family: others
+  given: ''
+journal: The Astrophysical Journal
+number: '2'
+pages: '1005'
+publisher: IOP Publishing
+ref: gehrels2004swift
+time-added: 2020-12-07-16:04:58
+title: '{The Swift gamma-ray burst mission}'
+type: article
+volume: '611'
+year: '2004'
