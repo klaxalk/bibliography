@@ -1,0 +1,26 @@
+author: Gohl, Stefan and Bergmann, Benedikt and Evans, Hugh and Nieminen, Petteri
+  and Owens, Alan and Posipsil, Stanislav
+author_list:
+- family: Gohl
+  given: Stefan
+- family: Bergmann
+  given: Benedikt
+- family: Evans
+  given: Hugh
+- family: Nieminen
+  given: Petteri
+- family: Owens
+  given: Alan
+- family: Posipsil
+  given: Stanislav
+journal: Advances in Space Research
+number: '5'
+pages: 1646--1660
+publisher: Elsevier
+ref: gohl2019study
+time-added: 2020-12-07-11:37:01
+title: '{Study of thy radiation fields in LEO with the Space Application of Timepix
+  Radiation Monitor (SATRAM)}'
+type: article
+volume: '63'
+year: '2019'
