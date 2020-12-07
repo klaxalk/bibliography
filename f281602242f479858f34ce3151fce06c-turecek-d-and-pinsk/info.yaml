@@ -13,6 +13,8 @@ author_list:
   given: N
 - family: Pospisil
   given: S
+files:
+- /home/klaxalk/Dropbox/papers/turecek-d-2011-small-dosimeter-based-on-timepix-device-for-international-space-station.pdf
 journal: Journal of Instrumentation
 number: '12'
 pages: C12037
