@@ -1,0 +1,20 @@
+author: Weisskopf, Martin C and Tananbaum, Harvey D and Van Speybroeck, Leon P and
+  O'Dell, Stephen L
+author_list:
+- family: Weisskopf
+  given: Martin C
+- family: Tananbaum
+  given: Harvey D
+- family: Van Speybroeck
+  given: Leon P
+- family: O'Dell
+  given: Stephen L
+booktitle: X-Ray Optics, Instruments, and Missions III
+organization: International Society for Optics and Photonics
+pages: 2--16
+ref: weisskopf2000chandra
+time-added: 2020-12-07-16:03:27
+title: '{Chandra X-ray Observatory (CXO): overview}'
+type: inproceedings
+volume: '4012'
+year: '2000'
