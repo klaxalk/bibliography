@@ -1,0 +1,19 @@
+author: Ballabriga, Rafael and Campbell, Michael and Llopart, Xavier
+author_list:
+- family: Ballabriga
+  given: Rafael
+- family: Campbell
+  given: Michael
+- family: Llopart
+  given: Xavier
+journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment'
+pages: 10--23
+publisher: Elsevier
+ref: ballabriga2018asic
+time-added: 2020-12-07-11:58:28
+title: '{Asic developments for radiation imaging applications: The medipix and timepix
+  family}'
+type: article
+volume: '878'
+year: '2018'
