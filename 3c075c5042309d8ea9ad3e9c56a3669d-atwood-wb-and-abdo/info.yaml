@@ -1,0 +1,36 @@
+author: 'Atwood, WB and Abdo, Aous A and Ackermann, Markus and Althouse, W and Anderson,
+  B and Axelsson, M and Baldini, Luca and Ballet, J and Band, DL and Barbiellini,
+  Guido and others, '
+author_list:
+- family: Atwood
+  given: WB
+- family: Abdo
+  given: Aous A
+- family: Ackermann
+  given: Markus
+- family: Althouse
+  given: W
+- family: Anderson
+  given: B
+- family: Axelsson
+  given: M
+- family: Baldini
+  given: Luca
+- family: Ballet
+  given: J
+- family: Band
+  given: DL
+- family: Barbiellini
+  given: Guido
+- family: others
+  given: ''
+journal: The Astrophysical Journal
+number: '2'
+pages: '1071'
+publisher: IOP Publishing
+ref: atwood2009large
+time-added: 2020-12-07-16:19:34
+title: '{The large area telescope on the Fermi gamma-ray space telescope mission}'
+type: article
+volume: '697'
+year: '2009'
