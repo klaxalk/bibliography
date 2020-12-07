@@ -1,0 +1,25 @@
+author: Turecek, D and Pinsky, L and Jakubek, J and Vykydal, Z and Stoffle, N and
+  Pospisil, S
+author_list:
+- family: Turecek
+  given: D
+- family: Pinsky
+  given: L
+- family: Jakubek
+  given: J
+- family: Vykydal
+  given: Z
+- family: Stoffle
+  given: N
+- family: Pospisil
+  given: S
+journal: Journal of Instrumentation
+number: '12'
+pages: C12037
+publisher: IOP Publishing
+ref: turecek2011small
+time-added: 2020-12-07-11:34:39
+title: '{Small dosimeter based on Timepix device for International Space Station}'
+type: article
+volume: '6'
+year: '2011'
