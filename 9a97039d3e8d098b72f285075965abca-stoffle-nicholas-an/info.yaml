@@ -1,14 +1,16 @@
 author: Stoffle, Nicholas and Pinsky, Lawrence and Kroupa, Martin and Hoang, Son and
   Idarraga, John and Amberboy, Clif and Rios, Ryan and Hauss, Jessica and Keller,
   John and Bahadori, Amir and others
+files:
+- /home/klaxalk/Dropbox/papers/stoffle-n-2015-timepix-based-radiation-environment-monitor-measurements-aboard-the-international-space-station.pdf
 journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
   Spectrometers, Detectors and Associated Equipment'
+keywords: timepix
 pages: 143--148
 publisher: Elsevier
 ref: stoffle2015timepix
 title: '{Timepix-based radiation environment monitor measurements aboard the International
-Space Station}'
+  Space Station}'
 type: article
 volume: '782'
 year: '2015'
-keywords: timepix
