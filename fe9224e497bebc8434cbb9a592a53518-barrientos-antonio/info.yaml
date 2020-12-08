@@ -1,0 +1,28 @@
+author: Barrientos, Antonio and Colorado, Julian and Cerro, Jaime del and Martinez,
+  Alexander and Rossi, Claudio and Sanz, David and Valente, Joao
+author_list:
+- family: Barrientos
+  given: Antonio
+- family: Colorado
+  given: Julian
+- family: Cerro
+  given: Jaime del
+- family: Martinez
+  given: Alexander
+- family: Rossi
+  given: Claudio
+- family: Sanz
+  given: David
+- family: Valente
+  given: Joao
+journal: Journal of Field Robotics
+number: '5'
+pages: 667--689
+publisher: Wiley Online Library
+ref: barrientos2011aerial
+time-added: 2020-12-08-15:01:06
+title: 'Aerial remote sensing in agriculture: A practical approach to area coverage
+  and path planning for fleets of mini aerial robots'
+type: article
+volume: '28'
+year: '2011'
