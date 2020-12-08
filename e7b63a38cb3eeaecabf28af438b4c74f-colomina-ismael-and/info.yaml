@@ -1,5 +1,9 @@
 author: Colomina, Ismael and Molina, Pere
+files:
+- /home/klaxalk/Dropbox/papers/colomina-2014-unmanned-aerial-systems-for-photogrammetry-and-remote-sensing-a-review.pdf
+- /home/klaxalk/Dropbox/papers/colomina-2014-unmanned-aerial-systems-for-photogrammetry-and-remote-sensing-a-review-a.pdf
 journal: ISPRS Journal of Photogrammetry and Remote Sensing
+keywords: uav, sensing
 pages: 79--97
 publisher: Elsevier
 ref: colomina2014unmanned
@@ -7,4 +11,3 @@ title: '{Unmanned aerial systems for photogrammetry and remote sensing: A review
 type: article
 volume: '92'
 year: '2014'
-keywords: uav, sensing
