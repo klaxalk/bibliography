@@ -15,6 +15,8 @@ author_list:
   given: David
 - family: Valente
   given: Joao
+files:
+- /home/klaxalk/Dropbox/papers/barrientos-2011-aerial-remote-sensing-in-agriculture-a-practical-approach-to-area-coverage-and-path-planning-for-fleets-of-mini-aerial-robots.pdf
 journal: Journal of Field Robotics
 number: '5'
 pages: 667--689
