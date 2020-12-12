@@ -1,0 +1,33 @@
+author: Jang, GyuJin and Kim, Jaeyoung and Yu, Ju-Kyung and Kim, Hak-Jin and Kim,
+  Yoonha and Kim, Dong-Wook and Kim, Kyung-Hwan and Lee, Chang Woo and Chung, Yong
+  Suk
+author_list:
+- family: Jang
+  given: GyuJin
+- family: Kim
+  given: Jaeyoung
+- family: Yu
+  given: Ju-Kyung
+- family: Kim
+  given: Hak-Jin
+- family: Kim
+  given: Yoonha
+- family: Kim
+  given: Dong-Wook
+- family: Kim
+  given: Kyung-Hwan
+- family: Lee
+  given: Chang Woo
+- family: Chung
+  given: Yong Suk
+journal: Remote Sensing
+number: '6'
+pages: '998'
+publisher: Multidisciplinary Digital Publishing Institute
+ref: jang2020cost
+time-added: 2020-12-12-20:31:51
+title: '{Cost-Effective Unmanned Aerial Vehicle (UAV) Platform for Field Plant Breeding
+  Application}'
+type: article
+volume: '12'
+year: '2020'
