@@ -1,6 +1,5 @@
-author: 'Fu, Zhaopeng and Jiang, Jie and Gao, Yang and Krienke, Brian and Wang, Meng
+author: Fu, Zhaopeng and Jiang, Jie and Gao, Yang and Krienke, Brian and Wang, Meng
   and Zhong, Kaitai and Cao, Qiang and Tian, Yongchao and Zhu, Yan and Cao, Weixing
-  and others, '
 author_list:
 - family: Fu
   given: Zhaopeng
@@ -22,8 +21,6 @@ author_list:
   given: Yan
 - family: Cao
   given: Weixing
-- family: others
-  given: ''
 journal: Remote Sensing
 number: '3'
 pages: '508'
