@@ -1,0 +1,19 @@
+author: '{Zhu}, B. and {Zaini}, A. H. B. and {Xie}, L.'
+author_list:
+- family: '{Zhu}'
+  given: B.
+- family: '{Zaini}'
+  given: A. H. B.
+- family: '{Xie}'
+  given: L.
+doi: 10.1109/TIE.2017.2677313
+journal: IEEE Transactions on Industrial Electronics
+number: '7'
+pages: 5648-5656
+ref: zhu2017distributed
+time-added: 2020-12-12-20:58:54
+title: '{Distributed Guidance for Interception by Using Multiple Rotary-Wing Unmanned
+  Aerial Vehicles}'
+type: article
+volume: '64'
+year: '2017'
