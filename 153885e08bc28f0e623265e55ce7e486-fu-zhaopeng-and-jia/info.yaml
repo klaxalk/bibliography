@@ -1,0 +1,37 @@
+author: 'Fu, Zhaopeng and Jiang, Jie and Gao, Yang and Krienke, Brian and Wang, Meng
+  and Zhong, Kaitai and Cao, Qiang and Tian, Yongchao and Zhu, Yan and Cao, Weixing
+  and others, '
+author_list:
+- family: Fu
+  given: Zhaopeng
+- family: Jiang
+  given: Jie
+- family: Gao
+  given: Yang
+- family: Krienke
+  given: Brian
+- family: Wang
+  given: Meng
+- family: Zhong
+  given: Kaitai
+- family: Cao
+  given: Qiang
+- family: Tian
+  given: Yongchao
+- family: Zhu
+  given: Yan
+- family: Cao
+  given: Weixing
+- family: others
+  given: ''
+journal: Remote Sensing
+number: '3'
+pages: '508'
+publisher: Multidisciplinary Digital Publishing Institute
+ref: fu2020wheat
+time-added: 2020-12-12-20:18:24
+title: Wheat growth monitoring and yield estimation based on multi-rotor unmanned
+  aerial vehicle
+type: article
+volume: '12'
+year: '2020'
