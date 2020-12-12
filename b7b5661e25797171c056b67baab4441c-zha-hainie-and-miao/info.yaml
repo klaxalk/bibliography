@@ -1,0 +1,30 @@
+author: Zha, Hainie and Miao, Yuxin and Wang, Tiantian and Li, Yue and Zhang, Jing
+  and Sun, Weichao and Feng, Zhengqi and Kusnierek, Krzysztof
+author_list:
+- family: Zha
+  given: Hainie
+- family: Miao
+  given: Yuxin
+- family: Wang
+  given: Tiantian
+- family: Li
+  given: Yue
+- family: Zhang
+  given: Jing
+- family: Sun
+  given: Weichao
+- family: Feng
+  given: Zhengqi
+- family: Kusnierek
+  given: Krzysztof
+journal: Remote Sensing
+number: '2'
+pages: '215'
+publisher: Multidisciplinary Digital Publishing Institute
+ref: zha2020improving
+time-added: 2020-12-12-20:21:30
+title: Improving unmanned aerial vehicle remote sensing-based rice nitrogen nutrition
+  index prediction with machine learning
+type: article
+volume: '12'
+year: '2020'
