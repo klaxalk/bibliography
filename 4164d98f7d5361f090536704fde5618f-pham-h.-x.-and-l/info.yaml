@@ -1,0 +1,21 @@
+author: '{Pham}, H. X. and {La}, H. M. and {Feil-Seifer}, D. and {Deans}, M. C.'
+author_list:
+- family: '{Pham}'
+  given: H. X.
+- family: '{La}'
+  given: H. M.
+- family: '{Feil-Seifer}'
+  given: D.
+- family: '{Deans}'
+  given: M. C.
+doi: 10.1109/TSMC.2018.2815988
+journal: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+number: '4'
+pages: 1537-1548
+ref: pham2020distributed
+time-added: 2020-12-12-20:55:33
+title: '{A Distributed Control Framework of Multiple Unmanned Aerial Vehicles for
+  Dynamic Wildfire Tracking}'
+type: article
+volume: '50'
+year: '2020'
