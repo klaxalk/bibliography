@@ -1,10 +1,10 @@
-author: '{Zhu}, B. and {Zaini}, A. H. B. and {Xie}, L.'
+author: 'Zhu, B. and Zaini, A. H. B. and Xie, L.'
 author_list:
-- family: '{Zhu}'
+- family: 'Zhu'
   given: B.
-- family: '{Zaini}'
+- family: 'Zaini'
   given: A. H. B.
-- family: '{Xie}'
+- family: 'Xie'
   given: L.
 doi: 10.1109/TIE.2017.2677313
 journal: IEEE Transactions on Industrial Electronics

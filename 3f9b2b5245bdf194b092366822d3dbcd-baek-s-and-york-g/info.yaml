@@ -1,0 +1,15 @@
+author: Baek, S and York, G
+author_list:
+- family: Baek
+  given: S
+- family: York
+  given: G
+booktitle: 2020 International Conference on Unmanned Aircraft Systems
+doi: 10.1109/ICUAS48674.2020.9213917
+pages: 1294-1300
+ref: baek2020optimal
+time-added: 2020-12-12-21:03:41
+title: '{Optimal Sensor Management for Multiple Target Tracking Using Cooperative
+  Unmanned Aerial Vehicles}'
+type: inproceedings
+year: '2020'
