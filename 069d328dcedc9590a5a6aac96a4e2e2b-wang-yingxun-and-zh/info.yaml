@@ -1,0 +1,26 @@
+author: Wang, Yingxun and Zhang, Tian and Cai, Zhihao and Zhao, Jiang and Wu, Kun
+author_list:
+- family: Wang
+  given: Yingxun
+- family: Zhang
+  given: Tian
+- family: Cai
+  given: Zhihao
+- family: Zhao
+  given: Jiang
+- family: Wu
+  given: Kun
+doi: https://doi.org/10.1016/j.cja.2020.04.028
+issn: 1000-9361
+journal: Chinese Journal of Aeronautics
+note: 'SI: Emerging Technologies of Unmanned Aerial Vehicles'
+number: '11'
+pages: 2877--2897
+ref: wang2020multiuav
+time-added: 2020-12-13-10:49:18
+title: '{Multi-UAV coordination control by chaotic grey wolf optimization based distributed
+  MPC with event-triggered strategy}'
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S1000936120302387
+volume: '33'
+year: '2020'
