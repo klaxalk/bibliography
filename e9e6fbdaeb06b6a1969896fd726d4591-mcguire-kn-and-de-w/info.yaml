@@ -1,0 +1,25 @@
+author: McGuire, KN and De Wagter, Christophe and Tuyls, Karl and Kappen, HJ and de
+  Croon, Guido CHE
+author_list:
+- family: McGuire
+  given: KN
+- family: De Wagter
+  given: Christophe
+- family: Tuyls
+  given: Karl
+- family: Kappen
+  given: HJ
+- family: de Croon
+  given: Guido CHE
+files:
+- /home/klaxalk/Dropbox/papers/mcguire-k-2019-minimal-navigation-solution-for-a-swarm-of-tiny-flying-robots-to-explore-an-unknown-environment.pdf
+journal: Science Robotics
+number: '35'
+publisher: Science Robotics
+ref: mcguire2019minimal
+time-added: 2020-12-13-11:27:19
+title: Minimal navigation solution for a swarm of tiny flying robots to explore an
+  unknown environment
+type: article
+volume: '4'
+year: '2019'
