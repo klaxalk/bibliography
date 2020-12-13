@@ -11,6 +11,8 @@ author_list:
 - family: Wu
   given: Kun
 doi: https://doi.org/10.1016/j.cja.2020.04.028
+files:
+- /home/klaxalk/Dropbox/papers/wang-ying-2020-multi-uav-coordination-control-by-chaotic-grey-wolf-optimization-based-distributed-mpc-with-event-triggered-strategy.pdf
 issn: 1000-9361
 journal: Chinese Journal of Aeronautics
 note: 'SI: Emerging Technologies of Unmanned Aerial Vehicles'
