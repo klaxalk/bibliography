@@ -1,8 +1,10 @@
 author: Mohta, Kartik and Watterson, Michael and Mulgaonkar, Yash and Liu, Sikang
   and Qu, Chao and Makineni, Anurag and Saulnier, Kelsey and Sun, Ke and Zhu, Alex
   and Delmerico, Jeffrey and others
-files: []
+files:
+- /home/klaxalk/Dropbox/papers/mohta-kar-2018-fast-autonomous-flight-in-gps-denied-and-cluttered-environments.pdf
 journal: '{Journal of Field Robotics}'
+keywords: control
 number: '1'
 pages: 101--120
 publisher: Wiley Online Library
@@ -11,4 +13,3 @@ title: '{Fast, autonomous flight in GPS-denied and cluttered environments}'
 type: article
 volume: '35'
 year: '2018'
-keywords: control
