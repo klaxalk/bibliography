@@ -1,0 +1,30 @@
+author: Lee, Jaehyun and Shim, David Hyunchul and Cho, Sungwook and Shin, Heemin and
+  Jung, Sunggoo and Lee, Dasol and Kang, Jaemin
+author_list:
+- family: Lee
+  given: Jaehyun
+- family: Shim
+  given: David Hyunchul
+- family: Cho
+  given: Sungwook
+- family: Shin
+  given: Heemin
+- family: Jung
+  given: Sunggoo
+- family: Lee
+  given: Dasol
+- family: Kang
+  given: Jaemin
+files:
+- /home/klaxalk/Dropbox/papers/lee-jaehy-2019-a-mission-management-system-for-complex-aerial-logistics-by-multiple-unmanned-aerial-vehicles-in-mbzirc-2017.pdf
+journal: Journal of Field Robotics
+number: '5'
+pages: 919--939
+publisher: Wiley Online Library
+ref: lee2019mission
+time-added: 2020-12-14-19:46:09
+title: '{A mission management system for complex aerial logistics by multiple unmanned
+  aerial vehicles in MBZIRC 2017}'
+type: article
+volume: '36'
+year: '2019'
