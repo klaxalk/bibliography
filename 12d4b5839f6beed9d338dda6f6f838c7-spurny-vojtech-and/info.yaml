@@ -1,20 +1,4 @@
-author: Spurny, Vojtech and Pritzl, Vaclav and Petrlik, Matej and Baca, Tomas and
-  Stepan, Petr and Zaitlik, David and Saska, Martin
-author_list:
-- family: Spurny
-  given: Vojtech
-- family: Pritzl
-  given: Vaclav
-- family: Petrlik
-  given: Matej
-- family: Baca
-  given: Tomas
-- family: Stepan
-  given: Petr
-- family: Zaitlik
-  given: David
-- family: Saska
-  given: Martin
+author: Spurny, Vojtech and Pritzl, Vaclav and Walter, Viktor and Petrlik, Matej and Baca, Tomas and Stepan, Petr and Zaitlik, David and Saska, Martin
 journal: '{submitted to IEEE Access}'
 ref: spurny2020autonomous
 time-added: 2020-11-21-17:32:14
