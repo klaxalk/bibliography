@@ -1,0 +1,20 @@
+author: Mellinger, Daniel and Shomin, Michael and Michael, Nathan and Kumar, Vijay
+author_list:
+- family: Mellinger
+  given: Daniel
+- family: Shomin
+  given: Michael
+- family: Michael
+  given: Nathan
+- family: Kumar
+  given: Vijay
+booktitle: The 10th International Symposium Distributed Autonomous Robotic Systems
+doi: 10.1007/978-3-642-32723-0_39
+pages: 545--558
+publisher: Springer
+ref: mellinger2013collaborative
+time-added: 2020-12-14-19:14:19
+title: '{Cooperative Grasping and Transport Using Multiple Quadrotors}'
+type: inproceedings
+url: https://doi.org/10.1007/978-3-642-32723-0_39
+year: '2013'
