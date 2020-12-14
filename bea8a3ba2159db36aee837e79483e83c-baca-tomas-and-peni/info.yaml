@@ -6,8 +6,10 @@ time-added: 2020-11-21-17:41:03
 title: '{Autonomous Cooperative Wall Building by a Team of Unmanned Aerial Vehicles in the MBZIRC 2020 Competition}'
 type: article
 year: '2020'
+month: '12'
 eprint: '2012.05946'
 url: http://arxiv.org/abs/2012.05946
 primaryclass: cs.RO
+archiveprefix: arXiv
 keywords: mine, phd_related, mbzirc, submitted, journal
-addendum: '{\textbf{30\% contribution}}'
+addendum: '{\textbf{25\% contribution}}'
