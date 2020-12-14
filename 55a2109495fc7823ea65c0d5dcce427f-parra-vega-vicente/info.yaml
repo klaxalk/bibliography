@@ -13,6 +13,8 @@ author_list:
   given: Francisco
 day: '01'
 doi: 10.1007/s10846-012-9743-0
+files:
+- /home/klaxalk/Dropbox/papers/parra-vega-2013-toward-aerial-grasping-and-manipulation-with-multiple-uavs.pdf
 issn: 1573-0409
 journal: Journal of Intelligent \& Robotic Systems
 month: Apr
