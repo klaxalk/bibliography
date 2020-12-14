@@ -1,0 +1,27 @@
+author: Parra-Vega, Vicente and Sanchez, Anand and Izaguirre, Carlos and Garcia, Octavio
+  and Ruiz-Sanchez, Francisco
+author_list:
+- family: Parra-Vega
+  given: Vicente
+- family: Sanchez
+  given: Anand
+- family: Izaguirre
+  given: Carlos
+- family: Garcia
+  given: Octavio
+- family: Ruiz-Sanchez
+  given: Francisco
+day: '01'
+doi: 10.1007/s10846-012-9743-0
+issn: 1573-0409
+journal: Journal of Intelligent \& Robotic Systems
+month: Apr
+number: '1'
+pages: 575--593
+ref: parravega2013toward
+time-added: 2020-12-14-19:16:55
+title: '{Toward Aerial Grasping and Manipulation with Multiple UAVs}'
+type: article
+url: https://doi.org/10.1007/s10846-012-9743-0
+volume: '70'
+year: '2013'
