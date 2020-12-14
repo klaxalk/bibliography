@@ -1,0 +1,26 @@
+author: Dias, Jorge and Lima, Pedro U and Seneviratne, Lakmal and Khatib, Oussama
+  and Tadokoro, Satoshi and Dario, Paolo
+author_list:
+- family: Dias
+  given: Jorge
+- family: Lima
+  given: Pedro U
+- family: Seneviratne
+  given: Lakmal
+- family: Khatib
+  given: Oussama
+- family: Tadokoro
+  given: Satoshi
+- family: Dario
+  given: Paolo
+journal: Journal of Field Robotics
+number: '1'
+pages: 3--5
+publisher: Wiley Online Library
+ref: dias2019journal
+time-added: 2020-12-14-19:54:39
+title: '{Journal of Field Robotics special issue on MBZIRC 2017 Challenges in Autonomous
+  Field Robotics}'
+type: article
+volume: '36'
+year: '2019'
