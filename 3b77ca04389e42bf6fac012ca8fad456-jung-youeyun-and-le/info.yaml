@@ -1,0 +1,16 @@
+author: Jung, Youeyun and Lee, Dongjin and Bang, Hyochoong
+author_list:
+- family: Jung
+  given: Youeyun
+- family: Lee
+  given: Dongjin
+- family: Bang
+  given: Hyochoong
+booktitle: IEEE International Conference on Automation Science and Engineering (CASE)
+organization: IEEE
+pages: 342--347
+ref: jung2015close
+time-added: 2020-12-15-14:19:25
+title: '{Close-range vision navigation and guidance for rotary UAV autonomous landing}'
+type: inproceedings
+year: '2015'
