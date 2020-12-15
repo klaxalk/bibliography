@@ -1,0 +1,34 @@
+author: Li, Zhaoxi and Meng, Cai and Zhou, Fugen and Ding, Xilun and Wang, Xueqiang
+  and Zhang, Huan and Guo, Pin and Meng, Xin
+author_list:
+- family: Li
+  given: Zhaoxi
+- family: Meng
+  given: Cai
+- family: Zhou
+  given: Fugen
+- family: Ding
+  given: Xilun
+- family: Wang
+  given: Xueqiang
+- family: Zhang
+  given: Huan
+- family: Guo
+  given: Pin
+- family: Meng
+  given: Xin
+doi: https://doi.org/10.1002/rob.21815
+eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21815
+files:
+- /home/klaxalk/Dropbox/papers/li-zhaoxi-2019-fast-vision-based-autonomous-detection-of-moving-cooperative-target-for-unmanned-aerial-vehicle-landing.pdf
+journal: Journal of Field Robotics
+number: '1'
+pages: 34-48
+ref: li2019fast
+time-added: 2020-12-15-11:00:45
+title: '{Fast vision-based autonomous detection of moving cooperative target for unmanned
+  aerial vehicle landing}'
+type: article
+url: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21815
+volume: '36'
+year: '2019'
