@@ -1,0 +1,23 @@
+author: Krizmancic, Marko and Arbanas, Barbara and Petrovic, Tamara and Petric, Frano
+  and Bogdan, Stjepan
+author_list:
+- family: Krizmancic
+  given: Marko
+- family: Arbanas
+  given: Barbara
+- family: Petrovic
+  given: Tamara
+- family: Petric
+  given: Frano
+- family: Bogdan
+  given: Stjepan
+journal: IEEE Robotics and Automation Letters
+number: '2'
+pages: 798--805
+publisher: IEEE
+ref: krizmancic2020cooperative
+time-added: 2020-12-15-15:02:07
+title: '{Cooperative Aerial-Ground Multi-Robot System for Automated Construction Tasks}'
+type: article
+volume: '5'
+year: '2020'
