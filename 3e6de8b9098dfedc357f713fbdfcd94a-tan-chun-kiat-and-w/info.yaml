@@ -1,5 +1,8 @@
 author: Tan, Chun Kiat and Wang, Jianliang and Paw, Yew Chai and Liao, Fang
+files:
+- /home/klaxalk/Dropbox/papers/tan-chun-2016-autonomous-ship-deck-landing-of-a-quadrotor-using-invariant-ellipsoid-method.pdf
 journal: Transactions on Aerospace and Electronic Systems
+keywords: uav, control
 number: '2'
 organization: IEEE
 pages: 891--903
@@ -8,4 +11,3 @@ title: '{Autonomous ship deck landing of a quadrotor using invariant ellipsoid m
 type: article
 volume: '52'
 year: '2016'
-keywords: uav, control

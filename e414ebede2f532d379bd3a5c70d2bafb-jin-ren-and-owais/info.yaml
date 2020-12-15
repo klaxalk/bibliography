@@ -1,0 +1,23 @@
+author: Jin, Ren and Owais, Hafiz Muhammad and Lin, Defu and Song, Tao and Yuan, Yifang
+author_list:
+- family: Jin
+  given: Ren
+- family: Owais
+  given: Hafiz Muhammad
+- family: Lin
+  given: Defu
+- family: Song
+  given: Tao
+- family: Yuan
+  given: Yifang
+journal: Journal of Field Robotics
+number: '1'
+pages: 6--16
+publisher: Wiley Online Library
+ref: jin2019ellipse
+time-added: 2020-12-15-11:24:40
+title: Ellipse proposal and convolutional neural network discriminant for autonomous
+  landing marker detection
+type: article
+volume: '36'
+year: '2019'
