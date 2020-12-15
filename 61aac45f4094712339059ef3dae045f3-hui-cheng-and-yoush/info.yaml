@@ -1,0 +1,19 @@
+author: Hui, Cheng and Yousheng, Chen and Xiaokun, Li and Shing, Wong Wing
+author_list:
+- family: Hui
+  given: Cheng
+- family: Yousheng
+  given: Chen
+- family: Xiaokun
+  given: Li
+- family: Shing
+  given: Wong Wing
+booktitle: Chinese Control Conference (CCC)
+organization: IEEE
+pages: 5895--5901
+ref: hui2013autonomous
+time-added: 2020-12-15-14:25:53
+title: '{Autonomous takeoff, tracking and landing of a UAV on a moving UGV using onboard
+  monocular vision}'
+type: inproceedings
+year: '2013'

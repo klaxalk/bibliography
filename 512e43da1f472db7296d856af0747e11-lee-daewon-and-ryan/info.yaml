@@ -1,0 +1,17 @@
+author: Lee, Daewon and Ryan, Tyler and Kim, H Jin
+author_list:
+- family: Lee
+  given: Daewon
+- family: Ryan
+  given: Tyler
+- family: Kim
+  given: H Jin
+booktitle: IEEE International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 971--976
+ref: lee2012autonomous
+time-added: 2020-12-15-14:25:18
+title: '{Autonomous landing of a VTOL UAV on a moving platform using image-based visual
+  servoing}'
+type: inproceedings
+year: '2012'
