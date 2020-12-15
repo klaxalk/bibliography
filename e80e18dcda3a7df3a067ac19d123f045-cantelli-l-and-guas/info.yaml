@@ -21,6 +21,8 @@ author_list:
   given: C
 booktitle: 20th International Conference on Climbing and Walking Robots and the Support
   Technologies for Mobile Machines
+files:
+- /home/klaxalk/Dropbox/papers/cantelli-2017-autonomous-landing-of-a-uav-on-a-moving-vehicle-for-the-mbzirc.pdf
 organization: World Scientific
 ref: cantelli2017autonomous
 time-added: 2020-12-15-11:10:43
