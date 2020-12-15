@@ -1,0 +1,19 @@
+author: Lin, Shanggang and Garratt, Matthew A and Lambert, Andrew J
+author_list:
+- family: Lin
+  given: Shanggang
+- family: Garratt
+  given: Matthew A
+- family: Lambert
+  given: Andrew J
+journal: Autonomous Robots
+number: '4'
+pages: 881--901
+publisher: Springer
+ref: lin2017monocular
+time-added: 2020-12-15-14:18:06
+title: '{Monocular vision-based real-time target recognition and tracking for autonomously
+  landing an UAV in a cluttered shipboard environment}'
+type: article
+volume: '41'
+year: '2017'
