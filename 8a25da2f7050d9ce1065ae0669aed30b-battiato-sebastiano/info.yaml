@@ -1,0 +1,36 @@
+author: 'Battiato, Sebastiano and Cantelli, Luciano and D’Urso, Fabio and Farinella,
+  Giovanni Maria and Guarnera, Luca and Guastella, Dario and Melita, Carmelo Donato
+  and Muscato, Giovanni and Ortis, Alessandro and Ragusa, Francesco and others, '
+author_list:
+- family: Battiato
+  given: Sebastiano
+- family: Cantelli
+  given: Luciano
+- family: D’Urso
+  given: Fabio
+- family: Farinella
+  given: Giovanni Maria
+- family: Guarnera
+  given: Luca
+- family: Guastella
+  given: Dario
+- family: Melita
+  given: Carmelo Donato
+- family: Muscato
+  given: Giovanni
+- family: Ortis
+  given: Alessandro
+- family: Ragusa
+  given: Francesco
+- family: others
+  given: ''
+booktitle: International Conference on Image Analysis and Processing
+files:
+- /home/klaxalk/Dropbox/papers/battiato-2017-a-system-for-autonomous-landing-of-a-uav-on-a-moving-vehicle.pdf
+organization: Springer
+pages: 129--139
+ref: battiato2017system
+time-added: 2020-12-15-11:09:33
+title: '{A System for Autonomous Landing of a UAV on a Moving Vehicle}'
+type: inproceedings
+year: '2017'
