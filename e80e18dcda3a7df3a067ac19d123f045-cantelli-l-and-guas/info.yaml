@@ -1,0 +1,29 @@
+author: Cantelli, L and Guastella, D and Melita, CD and Muscato, G and Battiato, S
+  and D’urso, F and Farinella, GM and Ortis, A and Santoro, C
+author_list:
+- family: Cantelli
+  given: L
+- family: Guastella
+  given: D
+- family: Melita
+  given: CD
+- family: Muscato
+  given: G
+- family: Battiato
+  given: S
+- family: D’urso
+  given: F
+- family: Farinella
+  given: GM
+- family: Ortis
+  given: A
+- family: Santoro
+  given: C
+booktitle: 20th International Conference on Climbing and Walking Robots and the Support
+  Technologies for Mobile Machines
+organization: World Scientific
+ref: cantelli2017autonomous
+time-added: 2020-12-15-11:10:43
+title: '{Autonomous landing of a UAV on a moving vehicle for the MBZIRC}'
+type: inproceedings
+year: '2017'
