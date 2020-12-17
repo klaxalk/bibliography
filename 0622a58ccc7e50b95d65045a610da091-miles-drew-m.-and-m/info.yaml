@@ -1,0 +1,51 @@
+author: Miles, Drew M. and McEntaffer, Randall L. and Schultz, Ted B. and Donovan,
+  Benjamin D. and Tutt, James H. and Yastishock, Daniel and Steiner, Tyler and Hillman,
+  Christopher R. and McCoy, Jake A. and Wages, Mitchell and Hull, Sam and Falcone,
+  Abe and Burrows, David N. and Anderson, Tyler and McQuaide, Maria and Chattopadhyay,
+  Tanmoy
+author_list:
+- family: Miles
+  given: Drew M.
+- family: McEntaffer
+  given: Randall L.
+- family: Schultz
+  given: Ted B.
+- family: Donovan
+  given: Benjamin D.
+- family: Tutt
+  given: James H.
+- family: Yastishock
+  given: Daniel
+- family: Steiner
+  given: Tyler
+- family: Hillman
+  given: Christopher R.
+- family: McCoy
+  given: Jake A.
+- family: Wages
+  given: Mitchell
+- family: Hull
+  given: Sam
+- family: Falcone
+  given: Abe
+- family: Burrows
+  given: David N.
+- family: Anderson
+  given: Tyler
+- family: McQuaide
+  given: Maria
+- family: Chattopadhyay
+  given: Tanmoy
+booktitle: UV, X-Ray, and Gamma-Ray Space Instrumentation for Astronomy XX
+doi: 10.1117/12.2274249
+editor: Siegmund, Oswald H.
+isbn: '9781510612518'
+month: aug
+pages: '28'
+publisher: SPIE
+ref: miles2017introduction
+time-added: 2020-12-17-15:29:06
+title: '{An introduction to the water recovery x-ray rocket}'
+type: inproceedings
+url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10397/2274249/An-introduction-to-the-water-recovery-x-ray-rocket/10.1117/12.2274249.full
+year: '2017'
