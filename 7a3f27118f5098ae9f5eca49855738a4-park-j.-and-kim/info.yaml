@@ -1,0 +1,19 @@
+author: '{Park}, J. and {Kim}, J. and {Jang}, I. and {Kim}, H. J.'
+author_list:
+- family: '{Park}'
+  given: J.
+- family: '{Kim}'
+  given: J.
+- family: '{Jang}'
+  given: I.
+- family: '{Kim}'
+  given: H. J.
+booktitle: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+doi: 10.1109/ICRA40945.2020.9197162
+pages: 434-440
+ref: park2020efficient
+time-added: 2020-12-22-16:28:31
+title: Efficient Multi-Agent Trajectory Planning with Feasibility Guarantee using
+  Relative Bernstein Polynomial
+type: inproceedings
+year: '2020'
