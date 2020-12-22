@@ -10,6 +10,8 @@ author_list:
   given: H. J.
 booktitle: 2020 IEEE International Conference on Robotics and Automation (ICRA)
 doi: 10.1109/ICRA40945.2020.9197162
+files:
+- /home/klaxalk/Dropbox/papers/park-j.-2020-efficient-multi-agent-trajectory-planning-with-feasibility-guarantee-using-relative-bernstein-polynomial.pdf
 pages: 434-440
 ref: park2020efficient
 time-added: 2020-12-22-16:28:31
