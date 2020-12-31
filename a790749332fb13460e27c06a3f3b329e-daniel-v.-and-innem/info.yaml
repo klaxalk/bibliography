@@ -1,4 +1,3 @@
-addendum: '{\textbf{10\% contribution, citations: 14 in WoS, 15 in Scopus, 9 in GS}}'
 author: Daniel, V. and Inneman, A. and Pina, L. and Zadrazil, V. and Baca, T. and
   Stehlikova, V. and Nentvich, O. and Urban, M. and Marsikova, V. and McEntaffer,
   R. and Tutt, J. and Schulz, T.
@@ -6,10 +5,11 @@ booktitle: '{EUV and X-Ray Optics: Synergy Between Laboratory And Space V}'
 doi: 10.1117/12.2277515
 files:
 - /home/klaxalk/Dropbox/papers/daniel-v.-2017-x-ray-lobster-eye-all-sky-monitor-for-rocket-experiment.pdf
-keywords: mine, conference, phd_unrelated
 organization: '{SPIE}'
 ref: daniel2017xray
 title: '{X-ray Lobster Eye All-sky Monitor for Rocket Experiment}'
 type: inproceedings
 volume: '10235'
 year: '2017'
+keywords: mine, conference, phd_unrelated
+addendum: '{\textbf{10\% contribution, citations: 11 in WoS, 16 in Scopus, 16 in GS}}'
