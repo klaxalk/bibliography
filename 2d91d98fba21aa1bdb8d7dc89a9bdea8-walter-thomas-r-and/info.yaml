@@ -11,13 +11,16 @@ author_list:
   given: Tatiana
 - family: Auer
   given: Andreas
+files:
+- /home/klaxalk/Dropbox/papers/walter-th-2020-the-2019-eruption-dynamics-and-morphology-at-ebeko-volcano-monitored-by-unoccupied-aircraft-systems-uas-and-field-stations.pdf
 journal: Remote Sensing
 number: '12'
 pages: '1961'
 publisher: Multidisciplinary Digital Publishing Institute
 ref: walter2020eruption
 time-added: 2021-01-01-18:51:11
-title: '{The 2019 Eruption Dynamics and Morphology at Ebeko Volcano Monitored by Unoccupied Aircraft Systems (UAS) and Field Stations}'
+title: '{The 2019 Eruption Dynamics and Morphology at Ebeko Volcano Monitored by Unoccupied
+  Aircraft Systems (UAS) and Field Stations}'
 type: article
 volume: '12'
 year: '2020'
