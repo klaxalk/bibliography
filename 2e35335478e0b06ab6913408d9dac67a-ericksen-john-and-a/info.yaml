@@ -1,0 +1,19 @@
+author: Ericksen, John and Aggarwal, Abhinav and Fricke, G Matthew and Moses, Melanie
+  E
+author_list:
+- family: Ericksen
+  given: John
+- family: Aggarwal
+  given: Abhinav
+- family: Fricke
+  given: G Matthew
+- family: Moses
+  given: Melanie E
+booktitle: 2020 IEEE International Conference on Robotic Computing (IRC)
+organization: IEEE
+pages: 113--120
+ref: ericksen2020locus
+time-added: 2021-01-01-19:00:49
+title: '{LOCUS: A multi-robot loss-tolerant algorithm for surveying volcanic plumes}'
+type: inproceedings
+year: '2020'
