@@ -14,9 +14,10 @@ doi: 10.1109/IROS40897.2019.8968471
 files:
 - /home/klaxalk/Dropbox/papers/hentzen-d-2019-disturbance-estimation-and-rejection-for-high-precision-multirotor-position-control.pdf
 pages: 2797-2804
-ref: '8968471'
+ref: 'hentzen2019disturbnace'
 time-added: 2021-01-01-18:36:57
 title: '{Disturbance Estimation and Rejection for High-Precision Multirotor Position
   Control}'
 type: inproceedings
 year: '2019'
+publisher: IEEE
