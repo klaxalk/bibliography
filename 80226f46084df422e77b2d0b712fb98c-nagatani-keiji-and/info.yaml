@@ -1,0 +1,35 @@
+author: Nagatani, Keiji and Kiribayashi, Seiga and Yajima, Ryosuke and Hada, Yasushi
+  and Izu, Tomoaki and Zeniya, Akira and Kanai, Hiromichi and Kanasaki, Hiroyuki and
+  Minagawa, Jun and Moriyama, Yuji
+author_list:
+- family: Nagatani
+  given: Keiji
+- family: Kiribayashi
+  given: Seiga
+- family: Yajima
+  given: Ryosuke
+- family: Hada
+  given: Yasushi
+- family: Izu
+  given: Tomoaki
+- family: Zeniya
+  given: Akira
+- family: Kanai
+  given: Hiromichi
+- family: Kanasaki
+  given: Hiroyuki
+- family: Minagawa
+  given: Jun
+- family: Moriyama
+  given: Yuji
+journal: Journal of Field Robotics
+number: '8'
+pages: 1222--1241
+publisher: Wiley Online Library
+ref: nagatani2018micro
+time-added: 2021-01-01-18:56:48
+title: '{Micro-Unmanned Aerial Vehicle-based Volcano Observation System for Debris Flow
+  Evacuation Warning}'
+type: article
+volume: '35'
+year: '2018'
