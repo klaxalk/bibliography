@@ -22,14 +22,16 @@ author_list:
   given: Jun
 - family: Moriyama
   given: Yuji
+files:
+- /home/klaxalk/Dropbox/papers/nagatani-2018-micro-unmanned-aerial-vehicle-based-volcano-observation-system-for-debris-flow-evacuation-warning.pdf
 journal: Journal of Field Robotics
 number: '8'
 pages: 1222--1241
 publisher: Wiley Online Library
 ref: nagatani2018micro
 time-added: 2021-01-01-18:56:48
-title: '{Micro-Unmanned Aerial Vehicle-based Volcano Observation System for Debris Flow
-  Evacuation Warning}'
+title: '{Micro-Unmanned Aerial Vehicle-based Volcano Observation System for Debris
+  Flow Evacuation Warning}'
 type: article
 volume: '35'
 year: '2018'
