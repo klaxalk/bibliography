@@ -1,0 +1,20 @@
+author: Mahony, Robert and Kumar, Vijay and Corke, Peter
+author_list:
+- family: Mahony
+  given: Robert
+- family: Kumar
+  given: Vijay
+- family: Corke
+  given: Peter
+files:
+- /home/klaxalk/Dropbox/papers/mahony-ro-2012-multirotor-aerial-vehicles-modeling-estimation-and-control-of-quadrotor.pdf
+journal: IEEE Robotics and Automation magazine
+number: '3'
+pages: 20--32
+publisher: IEEE
+ref: mahony2012multirotor
+time-added: 2021-01-01-18:41:40
+title: '{Multirotor aerial vehicles: Modeling, estimation, and control of quadrotor}'
+type: article
+volume: '19'
+year: '2012'
