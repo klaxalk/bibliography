@@ -10,6 +10,8 @@ author_list:
 - family: Moses
   given: Melanie E
 booktitle: 2020 IEEE International Conference on Robotic Computing (IRC)
+files:
+- /home/klaxalk/Dropbox/papers/ericksen-2020-locus-a-multi-robot-loss-tolerant-algorithm-for-surveying-volcanic-plumes.pdf
 organization: IEEE
 pages: 113--120
 ref: ericksen2020locus
