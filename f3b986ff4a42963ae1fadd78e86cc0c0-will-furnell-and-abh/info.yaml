@@ -1,12 +1,13 @@
 archiveprefix: arXiv
 author: Furnell, Will and Shenoy, Abhishek and Fox, Elliot and others
 eprint: arXiv:1810.12876
-files: []
+files:
+- /home/klaxalk/Dropbox/papers/furnell-w-2018-first-results-from-the-lucid-timepix-spacecraft-payload-onboard-the-techdemosat-1-satellite-in-low-earth-orbit.pdf
 journal: Advances in Space Research
+keywords: timepix
 publisher: Elsevier
 ref: furnell2018first
 title: '{First results from the LUCID-Timepix spacecraft payload onboard the TechDemoSat-1
   satellite in Low Earth Orbit}'
 type: article
 year: '2018'
-keywords: timepix
