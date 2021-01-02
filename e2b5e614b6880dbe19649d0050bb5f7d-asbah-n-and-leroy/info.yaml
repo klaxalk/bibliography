@@ -1,0 +1,23 @@
+author: Asbah, N and Leroy, C and Pospisil, S and Soueid, P
+author_list:
+- family: Asbah
+  given: N
+- family: Leroy
+  given: C
+- family: Pospisil
+  given: S
+- family: Soueid
+  given: P
+files:
+- /home/klaxalk/Dropbox/papers/asbah-n-a-2014-measurement-of-the-efficiency-of-the-pattern-recognition-of-tracks-generated-by-ionizing-radiation-in-a-timepix-detector.pdf
+journal: Journal of Instrumentation
+number: '05'
+pages: C05021
+publisher: IOP Publishing
+ref: asbah2014measurement
+time-added: 2021-01-02-10:41:57
+title: '{Measurement of the efficiency of the pattern recognition of tracks generated
+  by ionizing radiation in a Timepix detector}'
+type: article
+volume: '9'
+year: '2014'
