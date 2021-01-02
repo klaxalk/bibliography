@@ -16,8 +16,8 @@ author_list:
   given: Daniel
 - family: Saska
   given: Martin
-eprint: 'arXiv: 2008.08050v2'
-file: 2008.08050v2.pdf
+eprint: 'arXiv: 2008.08050'
+file: 2008.08050.pdf
 month: '8'
 journal: '{submitted to JINT, after the 1st revision}'
 primaryclass: cs.RO
@@ -26,7 +26,7 @@ time-added: 2020-09-29-15:57:33
 title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world
   Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
 type: article
-url: http://arxiv.org/abs/2008.08050v2
+url: http://arxiv.org/abs/2008.08050
 year: '2020'
 keywords: mine, phd_related, submitted, journal, core
 addendum: '{\textbf{Contributions: TB: 60\%, MP: 10\%, VM: 6\%, VS: 6\%, RP: 6\%, DH: 6\%, MS: 6\%}}'
