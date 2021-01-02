@@ -1,0 +1,28 @@
+author: Holy, Tomas and Jakubek, Jan and Pospisil, Stanislav and Uher, Josef and Vavrik,
+  Daniel and Vykydal, Zdenek
+author_list:
+- family: Holy
+  given: Tomas
+- family: Jakubek
+  given: Jan
+- family: Pospisil
+  given: Stanislav
+- family: Uher
+  given: Josef
+- family: Vavrik
+  given: Daniel
+- family: Vykydal
+  given: Zdenek
+files:
+- /home/klaxalk/Dropbox/papers/holy-toma-2006-data-acquisition-and-processing-software-package-for-medipix2.pdf
+journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment'
+number: '1'
+pages: 254--258
+publisher: Elsevier
+ref: holy2006data
+time-added: 2021-01-02-10:55:03
+title: '{Data acquisition and processing software package for Medipix2}'
+type: article
+volume: '563'
+year: '2006'
