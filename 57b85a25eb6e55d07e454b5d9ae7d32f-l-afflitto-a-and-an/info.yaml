@@ -1,0 +1,24 @@
+author: L'Afflitto, A and Anderson, R B and Mohammadi, K
+author_list:
+- family: L'Afflitto
+  given: A
+- family: Anderson
+  given: R B
+- family: Mohammadi
+  given: K
+doi: 10.1109/MCS.2018.2810559
+files:
+- /home/klaxalk/Dropbox/papers/l-afflitto-2018-an-introduction-to-nonlinear-robust-control-for-unmanned-quadrotor-aircraft-how-to-design-control-algorithms-for-quadrotors-using-sl.pdf
+issn: 1941-000X
+journal: IEEE Control Systems Magazine
+month: June
+number: '3'
+pages: 102-121
+ref: '8361125'
+time-added: 2021-01-04-17:29:32
+title: '{An Introduction to Nonlinear Robust Control for Unmanned Quadrotor Aircraft:
+  How to Design Control Algorithms for Quadrotors Using Sliding Mode Control and Adaptive
+  Control Techniques [Focus on Education]}'
+type: article
+volume: '38'
+year: '2018'
