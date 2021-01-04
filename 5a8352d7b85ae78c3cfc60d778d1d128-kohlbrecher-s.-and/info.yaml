@@ -8,8 +8,9 @@ author_list:
   given: O.
 - family: Klingauf
   given: U.
-booktitle: IEEE International Symposium on Safety, Security and Rescue Robotics
-  (SSRR)
+booktitle: IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR)
+files:
+- /home/klaxalk/Dropbox/papers/kohlbreche-2011-a-flexible-and-scalable-slam-system-with-full-3d-motion-estimation.pdf
 month: November
 organization: IEEE
 ref: kohlbrecher2011flexible
