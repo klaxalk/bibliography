@@ -1,0 +1,19 @@
+author: Burri, Michael and Oleynikova, Helen and and Achtelik, Markus W. and Siegwart,
+  Roland
+author_list:
+- family: Burri
+  given: Michael
+- family: Oleynikova
+  given: Helen
+- family: and Achtelik
+  given: Markus W.
+- family: Siegwart
+  given: Roland
+booktitle: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems
+month: Sept
+ref: burri2015realtime
+time-added: 2021-01-04-18:17:35
+title: '{Real-Time Visual-Inertial Mapping, Re-localization and Planning Onboard MAVs
+  in Unknown Environments}'
+type: inproceedings
+year: '2015'
