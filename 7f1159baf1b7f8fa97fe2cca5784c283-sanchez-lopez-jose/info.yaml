@@ -9,6 +9,8 @@ author_list:
   given: Miguel A
 - family: Voos
   given: Holger
+files:
+- /home/klaxalk/Dropbox/papers/sanchez-lo-2020-trajectory-tracking-for-aerial-robots-an-optimization-based-planning-and-control-approach.pdf
 journal: Journal of Intelligent \& Robotic Systems
 pages: 1--44
 publisher: Springer
