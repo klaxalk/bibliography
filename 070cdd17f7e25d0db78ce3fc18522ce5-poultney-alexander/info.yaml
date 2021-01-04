@@ -1,0 +1,22 @@
+author: Poultney, Alexander and Kennedy, Christopher and Clayton, Garrett and Ashrafiuon,
+  Hashem
+author_list:
+- family: Poultney
+  given: Alexander
+- family: Kennedy
+  given: Christopher
+- family: Clayton
+  given: Garrett
+- family: Ashrafiuon
+  given: Hashem
+journal: IEEE/ASME Transactions on Mechatronics
+number: '3'
+pages: 1126--1137
+publisher: IEEE
+ref: poultney2018robust
+time-added: 2021-01-04-14:27:31
+title: '{{Robust tracking control of quadrotors based on differential flatness: Simulations
+  and experiments}}'
+type: article
+volume: '23'
+year: '2018'
