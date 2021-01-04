@@ -9,6 +9,8 @@ author_list:
   given: Garrett
 - family: Ashrafiuon
   given: Hashem
+files:
+- /home/klaxalk/Dropbox/papers/poultney-2018-robust-tracking-control-of-quadrotors-based-on-differential-flatness-simulations-and-experiments.pdf
 journal: IEEE/ASME Transactions on Mechatronics
 number: '3'
 pages: 1126--1137
