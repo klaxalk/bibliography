@@ -1,0 +1,22 @@
+author: Schiano, Fabrizio and Alonso-Mora, Javier and Rudin, Konrad and Beardsley,
+  Paul and Siegwart, Roland Y and Sicilianok, Bruno
+author_list:
+- family: Schiano
+  given: Fabrizio
+- family: Alonso-Mora
+  given: Javier
+- family: Rudin
+  given: Konrad
+- family: Beardsley
+  given: Paul
+- family: Siegwart
+  given: Roland Y
+- family: Sicilianok
+  given: Bruno
+booktitle: International Micro Air Vehicle Conference and Competition 2014
+pages: 134--141
+ref: schiano2014towards
+time-added: 2021-01-05-18:00:39
+title: '{Towards estimation and correction of wind effects on a quadrotor UAV}'
+type: inproceedings
+year: '2014'
