@@ -1,0 +1,20 @@
+author: Benallegue, Abdelaziz and Mokhtari, Abdellah and Fridman, Leonid
+author_list:
+- family: Benallegue
+  given: Abdelaziz
+- family: Mokhtari
+  given: Abdellah
+- family: Fridman
+  given: Leonid
+files:
+- /home/klaxalk/Dropbox/papers/benallegue-2008-high-order-sliding-mode-observer-for-a-quadrotor-uav.pdf
+journal: 'International Journal of Robust and Nonlinear Control: IFAC-Affiliated Journal'
+number: 4-5
+pages: 427--440
+publisher: Wiley Online Library
+ref: benallegue2008high
+time-added: 2021-01-05-16:28:13
+title: '{High-order sliding-mode observer for a quadrotor UAV}'
+type: article
+volume: '18'
+year: '2008'
