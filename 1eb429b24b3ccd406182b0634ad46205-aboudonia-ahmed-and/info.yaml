@@ -1,0 +1,21 @@
+author: Aboudonia, Ahmed and Rashad, Ramy and El-Badawy, Ayman
+author_list:
+- family: Aboudonia
+  given: Ahmed
+- family: Rashad
+  given: Ramy
+- family: El-Badawy
+  given: Ayman
+files:
+- /home/klaxalk/Dropbox/papers/aboudonia-2018-composite-hierarchical-anti-disturbance-control-of-a-quadrotor-uav-in-the-presence-of-matched-and-mismatched-disturbances.pdf
+journal: Journal of Intelligent \& Robotic Systems
+number: 1-2
+pages: 201--216
+publisher: Springer
+ref: aboudonia2018composite
+time-added: 2021-01-05-16:30:25
+title: '{Composite hierarchical anti-disturbance control of a quadrotor UAV in the
+  presence of matched and mismatched disturbances}'
+type: article
+volume: '90'
+year: '2018'
