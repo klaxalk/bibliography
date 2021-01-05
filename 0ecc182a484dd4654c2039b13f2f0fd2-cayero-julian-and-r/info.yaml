@@ -1,0 +1,21 @@
+author: Cayero, Julian and Rotondo, Damiano and Morcego, Bernardo and Puig, Vicenc
+author_list:
+- family: Cayero
+  given: Julian
+- family: Rotondo
+  given: Damiano
+- family: Morcego
+  given: Bernardo
+- family: Puig
+  given: Vicenc
+journal: International Journal of Applied Mathematics and Computer Science
+number: '1'
+pages: 99--109
+publisher: Sciendo
+ref: cayero2019optimal
+time-added: 2021-01-05-16:24:47
+title: '{Optimal state observation using quadratic boundedness: Application to UAV
+  disturbance estimation}'
+type: article
+volume: '29'
+year: '2019'
