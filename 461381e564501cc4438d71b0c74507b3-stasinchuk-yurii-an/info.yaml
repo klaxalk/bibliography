@@ -20,10 +20,10 @@ author_list:
   given: Tiago
 - family: Saska
   given: Martin
-note: '{submitted to IEEE ICRA}'
+note: '{submitted to Field Robotics}'
 ref: stasinchuk2020multiuav
 time-added: 2020-11-06-15:32:46
-title: '{A Multi-UAV System for Detection and Elimination of Multiple Targets}'
+title: '{A Multi-MAV System For Autonomous Multiple Targets Elimination in the MBZIRC 2020 competition}'
 type: article
 year: '2020'
 keywords: mine, phd_related, submitted, journal, mbzirc
