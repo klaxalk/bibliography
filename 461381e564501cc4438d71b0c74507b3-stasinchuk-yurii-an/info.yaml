@@ -12,12 +12,12 @@ author_list:
   given: Tomas
 - family: Spurny
   given: Vojtech
+- family: Petrlik
+  given: Matej
 - family: Hert
   given: Daniel
 - family: Zaitlik
   given: David
-- family: Nascimento
-  given: Tiago
 - family: Saska
   given: Martin
 note: '{submitted to Field Robotics}'
