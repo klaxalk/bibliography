@@ -1,0 +1,22 @@
+author: Walter, Viktor and Petrlik, Matej and Baca, Tomas and Zaitlik, David and Demkiv,
+  Luybomyr and Saska, Martin
+author_list:
+- family: Walter
+  given: Viktor
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Zaitlik
+  given: David
+- family: Demkiv
+  given: Luybomyr
+- family: Saska
+  given: Martin
+keywords: mine, phd_related, submitted, journal, mbzirc
+note: submitted to Field Robotics
+ref: walter2021extinguishing
+time-added: 2021-01-20-10:20:19
+title: '{Extinguishing of Real Fires by Fully Autonomous MAVs in the MBZIRC 2020 Competition}'
+type: article
+year: '2021'
