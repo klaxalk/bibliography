@@ -1,0 +1,56 @@
+author: Roucek, Tomas and Pecka, Martin and Cizek, Petr and Petricek, Tomas and Bayer,
+  Jan and Salansky, Vojtech and Hert, Daniel and Petrlik, Matej and Baca, Tomas and
+  Spurny, Vojtech and Kratky, Vit and Petracek, Pavel and Baril, Dominic and Vaidis,
+  Maxime and Kubelka, Vladimir and Pomerleau, Francois and Faigl, Jan and Zimmerman,
+  Karel and Saska, Martin and Svoboda, Tomas and Krajnik, Tomas
+author_list:
+- family: Roucek
+  given: Tomas
+- family: Pecka
+  given: Martin
+- family: Cizek
+  given: Petr
+- family: Petricek
+  given: Tomas
+- family: Bayer
+  given: Jan
+- family: Salansky
+  given: Vojtech
+- family: Hert
+  given: Daniel
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Spurny
+  given: Vojtech
+- family: Kratky
+  given: Vit
+- family: Petracek
+  given: Pavel
+- family: Baril
+  given: Dominic
+- family: Vaidis
+  given: Maxime
+- family: Kubelka
+  given: Vladimir
+- family: Pomerleau
+  given: Francois
+- family: Faigl
+  given: Jan
+- family: Zimmerman
+  given: Karel
+- family: Saska
+  given: Martin
+- family: Svoboda
+  given: Tomas
+- family: Krajnik
+  given: Tomas
+note: submitted to Field Robotics
+ref: roucek2021system
+time-added: 2021-01-20-10:39:43
+title: '{System for multi-robotic exploration of underground environments CTU-CRAS-NORLAB
+  in the DARPA Subterranean Challenge}'
+type: article
+year: '2021'
+keywords: mine, phd_related, submitted, journal
