@@ -1,0 +1,21 @@
+author: F, Mascarichand C, Papachristos and T, Wilson and K, Alexis
+author_list:
+- family: Mascarich
+  given: F
+- family: Papachristos
+  given: C
+- family: Wilson
+  given: T
+- family: Alexis
+  given: K
+booktitle: 2019 International Conference on Robotics and Automation (ICRA)
+doi: 10.1109/ICRA.2019.8794402
+files:
+- /home/klaxalk/Dropbox/papers/f-mascari-2019-distributed-radiation-field-estimation-and-informative-path-planning-for-nuclear-environment-characterization.pdf
+pages: 2318-2324
+ref: mascarich2019distributed
+time-added: 2021-03-07-22:00:55
+title: '{Distributed Radiation Field Estimation and Informative Path Planning for
+  Nuclear Environment Characterization}'
+type: inproceedings
+year: '2019'
