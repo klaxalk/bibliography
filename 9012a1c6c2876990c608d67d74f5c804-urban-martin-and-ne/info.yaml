@@ -24,12 +24,11 @@ author_list:
   given: Randall
 - family: Pina
   given: Ladislav
-note: submitted to Acta Astronautica
-ref: urban2020rex
+ref: urban2021rex
 time-added: 2020-11-06-16:00:29
-title: '{REX: X-ray experiment on~the~Water Recovery Rocket}'
+title: '{REX: X-ray experiment on the Water Recovery Rocket}'
 type: article
 year: '2020'
+pages: '1--28'
 keywords: mine, phd_unrelated, submitted, journal
-eprint: '2011.10072'
 addendum: '{\textbf{20\% contribution}}'
