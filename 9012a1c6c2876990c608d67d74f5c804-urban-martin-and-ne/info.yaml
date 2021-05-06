@@ -18,10 +18,12 @@ author_list:
   given: Adolf
 - family: Pina
   given: Ladislav
-- family: Tutt
-  given: James
 - family: McEntaffer
   given: Randall
+- family: Schultz
+  given:  Ted
+- family: Tutt
+  given: James
 ref: urban2021rex
 time-added: 2020-11-06-16:00:29
 title: '{REX: X-ray experiment on the Water Recovery Rocket}'
