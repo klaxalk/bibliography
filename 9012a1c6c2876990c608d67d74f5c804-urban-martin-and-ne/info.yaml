@@ -1,4 +1,4 @@
-author: Urban, Martin and Nentvich, Ondrej and Baca, Tomas and Vertat, Ivo and Marsikova, Veronika and Doubravova, Daniela and Daniel, Vladimir and Inneman, Adolf and Pina, Ladislav and McEntaffer, Randall
+author: Urban, Martin and Nentvich, Ondrej and Baca, Tomas and Vertat, Ivo and Marsikova, Veronika and Doubravova, Daniela and Daniel, Vladimir and Inneman, Adolf and Pina, Ladislav and McEntaffer, Randall and Schultz, Ted and Miles, Drew and Tutt, James
 author_list:
 - family: Urban
   given: Martin
@@ -22,6 +22,8 @@ author_list:
   given: Randall
 - family: Schultz
   given:  Ted
+- family: Miles
+  given:  Drew
 - family: Tutt
   given: James
 ref: urban2021rex
@@ -29,7 +31,7 @@ time-added: 2020-11-06-16:00:29
 title: '{REX: X-ray experiment on the Water Recovery Rocket}'
 type: article
 year: '2021'
-pages: '1--10
+pages: '1--10'
 volume: '184'
 journal: 'Acta Astronautica'
 doi: 10.1016/j.actaastro.2021.03.019
