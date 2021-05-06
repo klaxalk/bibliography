@@ -24,8 +24,11 @@ time-added: 2020-09-29-15:57:33
 title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world
   Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
 type: article
-url: http://arxiv.org/abs/2008.08050
-year: '2020'
+url: 'https://link.springer.com/article/10.1007/s10846-021-01383-5'
+year: '2021'
+pages: '1--28'
+volume: '26'
+doi: '10.1007/s10846-021-01383-5'
 keywords: mine, phd_related, submitted, journal, core
 addendum: '{\textbf{Contributions: TB: 60\%, MP: 10\%, VM: 6\%, VS: 6\%, RP: 6\%, DH: 6\%, MS: 6\%}}'
 files:
