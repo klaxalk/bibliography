@@ -16,12 +16,10 @@ author_list:
   given: Daniel
 - family: Saska
   given: Martin
-eprint: 'arXiv: 2008.08050'
-file: 2008.08050.pdf
-month: '8'
-journal: '{submitted to JINT, after the 1st revision}'
-primaryclass: cs.RO
-ref: baca2020mrs
+month: 'April'
+journal: '{Journal of Intelligent {\&} Robotic Systems}'
+ref: baca2021mrs
+publisher: 'Springer'
 time-added: 2020-09-29-15:57:33
 title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world
   Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
