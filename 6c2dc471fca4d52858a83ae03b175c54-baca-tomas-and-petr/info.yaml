@@ -15,7 +15,7 @@ author_list:
   given: Daniel
 - family: Saska
   given: Martin
-month: 'April'
+month: 'May'
 journal: '{Journal of Intelligent {\&} Robotic Systems}'
 ref: baca2021mrs
 publisher: 'Springer'
@@ -26,7 +26,9 @@ type: article
 url: 'https://link.springer.com/article/10.1007/s10846-021-01383-5'
 year: '2021'
 pages: '1--28'
-volume: '26'
+volume: '102'
+issue: 1
+number: 26
 doi: '10.1007/s10846-021-01383-5'
 keywords: mine, phd_related, submitted, journal, core
 addendum: '{\textbf{Contributions: TB: 60\%, MP: 10\%, VM: 6\%, VS: 6\%, RP: 6\%, DH: 6\%, MS: 6\%}}'
