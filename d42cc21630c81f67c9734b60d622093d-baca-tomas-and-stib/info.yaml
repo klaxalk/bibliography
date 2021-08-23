@@ -1,6 +1,6 @@
 author: Baca, Tomas and Stibinger, Petr and Doubravova, Daniela and Turecek, Daniel
   and Solc, Jaroslav and Rusnak, Jan and Saska, Martin and Jakubek, Jan
-booktitle: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems'
+booktitle: '2021 International Conference on Unmanned Aircraft Systems (ICUAS)'
 author_list:
 - family: Baca
   given: Tomas
@@ -29,3 +29,4 @@ year: '2020'
 volume: ''
 number: ''
 addendum: '{\textbf{70\% contribution}}'
+pages: 1--9
