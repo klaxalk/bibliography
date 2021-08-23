@@ -18,13 +18,13 @@ author_list:
   given: Martin
 - family: Jakubek
   given: Jan
-eprint: 'arXiv: 2011.03356'
 files:
 - /home/klaxalk/Dropbox/papers/baca-toma-2020-gamma-radiation-source-localization-for-micro-aerial-vehicles-with-a-miniature-single-detector-compton-event-camera.pdf
-keywords: mine, phd_related, submitted, conference
-note: '{submitted to IEEE ICRA}'
-ref: baca2020gamma
+keywords: mine, phd_related, conference
+ref: baca2021gamma
 time-added: 2020-11-06-15:08:32
 title: '{Gamma Radiation Source Localization for Micro Aerial Vehicles with a Miniature Single-Detector Compton Event Camera}'
 type: inproceedings
 year: '2020'
+volume: ''
+number: ''
