@@ -1,6 +1,6 @@
-addendum: '{\textbf{70\% contribution}}'
 author: Baca, Tomas and Stibinger, Petr and Doubravova, Daniela and Turecek, Daniel
   and Solc, Jaroslav and Rusnak, Jan and Saska, Martin and Jakubek, Jan
+booktitle: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems'
 author_list:
 - family: Baca
   given: Tomas
@@ -28,3 +28,4 @@ type: inproceedings
 year: '2020'
 volume: ''
 number: ''
+addendum: '{\textbf{70\% contribution}}'
