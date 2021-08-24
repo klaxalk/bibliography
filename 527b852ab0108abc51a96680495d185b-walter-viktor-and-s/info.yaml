@@ -13,12 +13,14 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-note: '{submitted to IEEE ICRA}'
+note: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 ref: walter2020extinguishing
 time-added: 2020-11-06-15:37:20
 title: '{Extinguishing of Ground Fires by Fully Autonomous UAVs motivated by the MBZIRC
   2020 Competition}'
 type: article
-year: '2020'
-keywords: mine, phd_related, submitted, journal, mbzirc
+year: '2021'
+keywords: mine, phd_related, conference
 addendum: '{\textbf{20\% contribution}}'
+month: 'June'
+pages: 787--793
