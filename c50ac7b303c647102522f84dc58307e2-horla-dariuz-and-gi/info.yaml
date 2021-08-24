@@ -1,0 +1,27 @@
+author: Horla, Dariuz and Giernacki, Wojciech and Baca, Tomas and Spurny, Vojtech
+  and Saska, Martin
+author_list:
+- family: Horla
+  given: Dariuz
+- family: Giernacki
+  given: Wojciech
+- family: Baca
+  given: Tomas
+- family: Spurny
+  given: Vojtech
+- family: Saska
+  given: Martin
+doi: https://doi.org/10.1007/s10846-021-01441-y
+issue: '1'
+journal: Journal of Intelligent {\&} Robotic Systems
+month: June
+number: '5'
+pages: 1--16
+publisher: Springer
+ref: horla2021altune
+time-added: 2021-08-24-15:41:03
+title: '{AL-TUNE: In-flight tuning of an altitude controller for UAVs}'
+type: article
+url: https://link.springer.com/article/10.1007/s10846-021-01441-y
+volume: '103'
+year: '2021'
