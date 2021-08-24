@@ -17,10 +17,10 @@ author_list:
   given: Martin
 ref: ahmad2021autonomous
 time-added: 2020-11-06-15:30:03
-title: '{Autonomous Aerial Swarm in a Complex Environment without GNSS and without
-  Communication}'
+title: '{Autonomous Aerial Swarming in GNSS-denied Environments with High Obstacle Density}'
 type: article
 year: '2021'
-keywords: mine, phd_related, submitted, journal
+month: 'June'
+keywords: mine, phd_related, conference
 booktitle: 'IEEE International Conference on Robotics and Automation'
 addendum: '{\textbf{15\% contribution}}'
