@@ -8,12 +8,12 @@ author_list:
   given: Tiago
 - family: Saska
   given: Martin
-note: '{submitted to IEEE ICRA}'
-ref: smrcka2020admittance
+note: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+ref: smrcka2021admittance
 time-added: 2020-11-06-15:35:48
 title: '{Admittance Force-Based UAV-Wall Stabilization and Press Exertion for Documentation
   and Inspection of Historical Buildings}'
 type: article
-year: '2020'
-keywords: mine, phd_related, submitted, journal
+year: '2021'
+keywords: mine, phd_related, conference
 addendum: '{\textbf{25\% contribution}}'
