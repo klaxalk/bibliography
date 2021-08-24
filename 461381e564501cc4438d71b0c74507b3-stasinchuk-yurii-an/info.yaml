@@ -18,11 +18,11 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-note: '{submitted to Field Robotics}'
-ref: stasinchuk2020multiuav
+note: '{Field Robotics}'
+ref: stasinchuk2021multiuav
 time-added: 2020-11-06-15:32:46
 title: '{A Multi-MAV System For Autonomous Multiple Targets Elimination in the MBZIRC 2020 competition}'
 type: article
-year: '2020'
-keywords: mine, phd_related, submitted, journal
+year: '2021'
+keywords: mine, phd_related, journal
 addendum: '{\textbf{20\% contribution}}'
