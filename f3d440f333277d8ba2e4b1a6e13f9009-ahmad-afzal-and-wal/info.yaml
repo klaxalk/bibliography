@@ -15,11 +15,12 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-ref: ahmad2020autonomous
+ref: ahmad2021autonomous
 time-added: 2020-11-06-15:30:03
 title: '{Autonomous Aerial Swarm in a Complex Environment without GNSS and without
   Communication}'
 type: article
-year: '2020'
+year: '2021'
 keywords: mine, phd_related, submitted, journal
+booktitle: 'IEEE International Conference on Robotics and Automation'
 addendum: '{\textbf{15\% contribution}}'
