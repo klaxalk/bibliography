@@ -46,6 +46,9 @@ author_list:
   given: Tomas
 - family: Krajnik
   given: Tomas
+files:
+- /home/klaxalk/Dropbox/papers/roucek-to-2021-system-for-multi-robotic-exploration-of-underground-environments-ctu-cras-norlab-in-the-darpa-subterranean-challenge.pdf
+keywords: mine, phd_related, journal
 note: submitted to Field Robotics
 ref: roucek2021system
 time-added: 2021-01-20-10:39:43
@@ -53,4 +56,3 @@ title: '{System for multi-robotic exploration of underground environments CTU-CR
   in the DARPA Subterranean Challenge}'
 type: article
 year: '2021'
-keywords: mine, phd_related, journal
