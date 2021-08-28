@@ -12,8 +12,11 @@ author_list:
 - family: Saska
   given: Martin
 doi: https://doi.org/10.1007/s10846-021-01441-y
+files:
+- /home/klaxalk/Dropbox/papers/horla-dar-2021-al-tune-in-flight-tuning-of-an-altitude-controller-for-uavs.pdf
 issue: '1'
 journal: Journal of Intelligent {\&} Robotic Systems
+keywords: mine, journal, phd_related
 month: June
 number: '5'
 pages: 1--16
@@ -25,4 +28,3 @@ type: article
 url: https://link.springer.com/article/10.1007/s10846-021-01441-y
 volume: '103'
 year: '2021'
-keywords: mine, journal, phd_related
