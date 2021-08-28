@@ -1,3 +1,4 @@
+addendum: '{\textbf{25\% contribution}}'
 author: Kratky, Vit and Petracek, Pavel and Baca, Tomas and Saska, Martin
 author_list:
 - family: Kratky
@@ -8,13 +9,15 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-journal: 'Journal of Field Robotics'
+files:
+- /home/klaxalk/Dropbox/papers/kratky-vi-2021-an-autonomous-unmanned-aerial-vehicle-system-for-fast-exploration-of-large-complex-indoor-environments.pdf
+journal: Journal of Field Robotics
+keywords: mine, phd_related, journal
+month: May
+pages: 1--24
 ref: kratky2021autonomous2
 time-added: 2020-10-30-14:01:36
-title: '{An Autonomous Unmanned Aerial Vehicle System for Fast Exploration of Large Complex Indoor Environments}'
+title: '{An Autonomous Unmanned Aerial Vehicle System for Fast Exploration of Large
+  Complex Indoor Environments}'
 type: article
-keywords: mine, phd_related, journal
 year: 2021
-addendum: '{\textbf{25\% contribution}}'
-pages: 1--24
-month: 'May'
