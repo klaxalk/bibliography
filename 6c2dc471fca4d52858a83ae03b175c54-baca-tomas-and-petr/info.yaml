@@ -15,7 +15,7 @@ author_list:
   given: Daniel
 - family: Saska
   given: Martin
-month: 'May'
+month: '05'
 journal: '{Journal of Intelligent {\&} Robotic Systems}'
 ref: baca2021mrs
 publisher: 'Springer'
