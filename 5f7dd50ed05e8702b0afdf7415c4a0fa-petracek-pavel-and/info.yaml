@@ -1,0 +1,26 @@
+author: Petracek, Pavel and Kratky, Vit and Petrlik, Matej and Baca, Tomas and Kratochvil,
+  Radim and Saska, Martin
+author_list:
+- family: Petracek
+  given: Pavel
+- family: Kratky
+  given: Vit
+- family: Petrlik
+  given: Matej
+- family: Baca
+  given: Tomas
+- family: Kratochvil
+  given: Radim
+- family: Saska
+  given: Martin
+doi: 10.1109/LRA.2021.3098304
+journal: IEEE Robotics and Automation Letters
+month: October
+number: '4'
+pages: 7596-7603
+ref: petracek2021large
+time-added: 2021-09-01-15:58:16
+title: '{Large-Scale Exploration of Cave Environments by Unmanned Aerial Vehicles}'
+type: article
+volume: '6'
+year: '2021'
