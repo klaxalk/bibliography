@@ -8,7 +8,7 @@ author_list:
   given: Martin
 booktitle: '2021 International Conference on Unmanned Aircraft Systems (ICUAS)'
 doi: 10.1109/ICUAS51884.2021.9476789
-month: June
+month: '06'
 organization: IEEE
 pages: 1139--1147
 ref: horyna2021autonomous
