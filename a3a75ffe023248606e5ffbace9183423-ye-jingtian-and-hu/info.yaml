@@ -1,0 +1,22 @@
+address: Cham
+author: Ye, Jingtian and Hu, Bin-Bin and Xu, Zhecheng and Liu, Bin and Zhang, Hai-Tao
+author_list:
+- family: Ye
+  given: Jingtian
+- family: Hu
+  given: Bin-Bin
+- family: Xu
+  given: Zhecheng
+- family: Liu
+  given: Bin
+- family: Zhang
+  given: Hai-Tao
+booktitle: Intelligent Robotics and Applications
+pages: 611--621
+publisher: Springer International Publishing
+ref: some_paper@2021
+time-added: 2021-10-25-10:38:01
+title: Autonomous Landing Allocation of Multiple Unmanned Aerial Vehicles on Multiple
+  Unmanned Surface Vessels Subject to Energy Consumption
+type: inproceedings
+year: '2021'
