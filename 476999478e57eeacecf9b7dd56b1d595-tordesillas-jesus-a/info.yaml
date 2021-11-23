@@ -1,0 +1,13 @@
+author: Tordesillas, Jesus and How, Jonathan P
+author_list:
+- family: Tordesillas
+  given: Jesus
+- family: How
+  given: Jonathan P
+journal: IEEE Transactions on Robotics
+publisher: IEEE
+ref: tordesillas2021mader
+time-added: 2021-11-23-16:01:16
+title: 'MADER: Trajectory planner in multiagent and dynamic environments'
+type: article
+year: '2021'
