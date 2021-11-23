@@ -4,6 +4,8 @@ author_list:
   given: Jesus
 - family: How
   given: Jonathan P
+files:
+- /home/klaxalk/Dropbox/papers/tordesilla-2021-mader-trajectory-planner-in-multiagent-and-dynamic-environments.pdf
 journal: IEEE Transactions on Robotics
 publisher: IEEE
 ref: tordesillas2021mader
