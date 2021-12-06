@@ -5,10 +5,12 @@ author_list:
 - family: Franchi
   given: Antonio
 doi: 10.1109/LRA.2020.3045654
+files:
+- /home/klaxalk/Dropbox/papers/jacquet-m-2021-motor-and-perception-constrained-nmpc-for-torque-controlled-generic-aerial-vehicles.pdf
 journal: IEEE Robotics and Automation Letters
 number: '2'
 pages: 518-525
-ref: 'jacquet2021motor'
+ref: jacquet2021motor
 time-added: 2021-12-06-11:36:00
 title: Motor and Perception Constrained NMPC for Torque-Controlled Generic Aerial
   Vehicles
