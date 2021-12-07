@@ -1,0 +1,17 @@
+author: Knotek, Stefan and Hengster-Movric, Kristian and Sebek, Michael
+author_list:
+- family: Knotek
+  given: Steafan
+- family: Hengster-Movric
+  given: Kristian
+- family: Sebek
+  given: Michael
+files:
+- /home/klaxalk/Dropbox/papers/knotek-st-2020-distributed-estimation-on-sensor-networks-with-measurement-uncertainties.pdf
+journal: IEEE Transactions on Control Systems Technology
+publisher: IEEE
+ref: knotek2020distributed
+time-added: 2021-12-07-10:26:47
+title: Distributed Estimation on Sensor Networks With Measurement Uncertainties
+type: article
+year: '2020'
