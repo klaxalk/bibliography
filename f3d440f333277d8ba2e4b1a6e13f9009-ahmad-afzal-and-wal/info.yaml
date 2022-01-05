@@ -1,3 +1,4 @@
+addendum: '{\textbf{15\% contribution}}'
 author: Ahmad, Afzal and Walter, Viktor and Petracek, Pavel and Petrlik, Matej and
   Baca, Tomas and Zaitlik, David and Saska, Martin
 author_list:
@@ -15,12 +16,14 @@ author_list:
   given: David
 - family: Saska
   given: Martin
+booktitle: IEEE International Conference on Robotics and Automation
+files:
+- /home/klaxalk/Dropbox/papers/ahmad-afz-2021-autonomous-aerial-swarming-in-gnss-denied-environments-with-high-obstacle-density.pdf
+keywords: mine, phd_related, conference
+month: June
 ref: ahmad2021autonomous
 time-added: 2020-11-06-15:30:03
-title: '{Autonomous Aerial Swarming in GNSS-denied Environments with High Obstacle Density}'
+title: '{Autonomous Aerial Swarming in GNSS-denied Environments with High Obstacle
+  Density}'
 type: article
 year: '2021'
-month: 'June'
-keywords: mine, phd_related, conference
-booktitle: 'IEEE International Conference on Robotics and Automation'
-addendum: '{\textbf{15\% contribution}}'
