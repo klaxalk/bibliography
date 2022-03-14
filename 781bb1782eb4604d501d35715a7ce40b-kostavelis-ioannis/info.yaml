@@ -1,0 +1,16 @@
+author: Kostavelis, Ioannis and Gasteratos, Antonios
+author_list:
+- family: Kostavelis
+  given: Ioannis
+- family: Gasteratos
+  given: Antonios
+journal: Robotics and Autonomous Systems
+pages: 86--103
+publisher: Elsevier
+ref: kostavelis2015semantic
+time-added: 2022-03-14-09:09:38
+title: '{Semantic mapping for mobile robotics tasks: A survey}'
+type: article
+volume: '66'
+year: '2015'
+keywords: slam, review
