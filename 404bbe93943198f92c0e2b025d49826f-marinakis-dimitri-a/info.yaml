@@ -1,0 +1,19 @@
+author: Marinakis, Dimitri and Dudek, Gregory
+author_list:
+- family: Marinakis
+  given: Dimitri
+- family: Dudek
+  given: Gregory
+files:
+- /home/klaxalk/Dropbox/papers/marinakis-2010-pure-topological-mapping-in-mobile-robotics.pdf
+journal: IEEE Transactions on Robotics
+keywords: mapping, gacr
+number: '6'
+pages: 1051--1064
+publisher: IEEE
+ref: marinakis2010pure
+time-added: 2022-03-14-09:30:21
+title: Pure topological mapping in mobile robotics
+type: article
+volume: '26'
+year: '2010'
