@@ -2,7 +2,10 @@ author: Thrun, Sebastian
 author_list:
 - family: Thrun
   given: Sebastian
+files:
+- /home/klaxalk/Dropbox/papers/thrun-seb-1998-learning-metric-topological-maps-for-indoor-mobile-robot-navigation.pdf
 journal: Artificial Intelligence
+keywords: mapping
 number: '1'
 pages: 21--71
 publisher: Elsevier
@@ -12,4 +15,3 @@ title: '{Learning metric-topological maps for indoor mobile robot navigation}'
 type: article
 volume: '99'
 year: '1998'
-keywords: mapping
