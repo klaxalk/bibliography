@@ -1,0 +1,16 @@
+author: Cioffi, Giovanni and Cieslewski, Titus and Scaramuzza, Davide
+author_list:
+- family: Cioffi
+  given: Giovanni
+- family: Cieslewski
+  given: Titus
+- family: Scaramuzza
+  given: Davide
+journal: IEEE Robotics and Automation Letters
+publisher: IEEE
+ref: cioffi2022continuous
+time-added: 2022-03-14-09:21:04
+title: '{Contiuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study}'
+type: article
+year: '2022'
+keywords: slam, gacr
