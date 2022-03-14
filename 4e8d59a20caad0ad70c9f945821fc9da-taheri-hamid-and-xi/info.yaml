@@ -1,0 +1,18 @@
+author: Taheri, Hamid and Xia, Zhao Chun
+author_list:
+- family: Taheri
+  given: Hamid
+- family: Xia
+  given: Zhao Chun
+files:
+- /home/klaxalk/Dropbox/papers/taheri-ha-2021-slam-definition-and-evolution.pdf
+journal: Engineering Applications of Artificial Intelligence
+keywords: slam, gacr, review
+pages: '104032'
+publisher: Elsevier
+ref: taheri2021slam
+time-added: 2022-03-14-09:32:10
+title: '{SLAM; definition and evolution}'
+type: article
+volume: '97'
+year: '2021'
