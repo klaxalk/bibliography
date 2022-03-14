@@ -7,11 +7,13 @@ author_list:
 - family: Leonard
   given: John
 booktitle: IEEE 2019 international conference on robotics and automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/doherty-k-2019-multimodal-semantic-slam-with-probabilistic-data-association.pdf
+keywords: slam
 organization: IEEE
 pages: 2419--2425
 ref: doherty2019multimodal
 time-added: 2022-03-14-09:00:09
 title: Multimodal semantic SLAM with probabilistic data association
 type: inproceedings
-keywords: slam
 year: '2019'
