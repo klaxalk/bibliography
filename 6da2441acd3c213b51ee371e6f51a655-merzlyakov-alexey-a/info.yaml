@@ -6,6 +6,9 @@ author_list:
   given: Steve
 booktitle: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/merzlyakov-2021-a-comparison-of-modern-general-purpose-visual-slam-approaches.pdf
+keywords: slam, review
 organization: IEEE
 pages: 9190--9197
 ref: merzlyakov2021comparison
@@ -13,4 +16,3 @@ time-added: 2022-03-14-09:23:58
 title: '{A comparison of modern general-purpose visual slam approaches}'
 type: inproceedings
 year: '2021'
-keywords: slam, review
