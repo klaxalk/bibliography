@@ -1,0 +1,18 @@
+ref: roriz2021automotive
+author: Roriz, Ricardo and Cabral, Jorge and Gomes, Tiago
+author_list:
+- family: Roriz
+  given: Ricardo
+- family: Cabral
+  given: Jorge
+- family: Gomes
+  given: Tiago
+files:
+- /home/klaxalk/Dropbox/papers/roriz-ric-2021-automotive-lidar-technology-a-survey.pdf
+journal: IEEE Transactions on Intelligent Transportation Systems
+keywords: slam, review, gacr
+publisher: IEEE
+time-added: 2022-03-14-10:52:53
+title: 'Automotive LiDAR technology: A survey'
+type: article
+year: '2021'
