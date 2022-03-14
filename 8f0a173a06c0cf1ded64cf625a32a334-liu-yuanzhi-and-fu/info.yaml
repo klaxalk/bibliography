@@ -13,10 +13,12 @@ author_list:
   given: Wei
 - family: Zhao
   given: Hui
+files:
+- /home/klaxalk/Dropbox/papers/liu-yuanz-2021-simultaneous-localization-and-mapping-related-datasets-a-comprehensive-survey.pdf
 journal: arXiv preprint arXiv:2102.04036
+keywords: slam, review
 ref: tsardoulias2017robotic
 time-added: 2022-03-14-09:07:57
 title: '{Simultaneous Localization and Mapping Related Datasets: A Comprehensive Survey}'
 type: article
 year: '2021'
-keywords: slam, review
