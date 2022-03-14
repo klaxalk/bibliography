@@ -1,0 +1,21 @@
+author: Yousif, Khalid and Bab-Hadiashar, Alireza and Hoseinnezhad, Reza
+author_list:
+- family: Yousif
+  given: Khalid
+- family: Bab-Hadiashar
+  given: Alireza
+- family: Hoseinnezhad
+  given: Reza
+files:
+- /home/klaxalk/Dropbox/papers/yousif-kh-2015-an-overview-to-visual-odometry-and-visual-slam-applications-to-mobile-robotics.pdf
+journal: Intelligent Industrial Systems
+keywords: slam, review, gacr
+number: '4'
+pages: 289--311
+publisher: Springer
+ref: yousif2015overview
+time-added: 2022-03-14-10:32:22
+title: '{An overview to visual odometry and visual SLAM: Applications to mobile robotics}'
+type: article
+volume: '1'
+year: '2015'
