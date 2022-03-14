@@ -5,6 +5,9 @@ author_list:
 - family: Kaelbling
   given: Leslie Pack
 booktitle: IJCAI (2)
+files:
+- /home/klaxalk/Dropbox/papers/shatkay-h-1997-learning-topological-maps-with-weak-local-odometric-information.pdf
+keywords: mapping, gacr
 organization: Citeseer
 pages: 920--929
 ref: shatkay1997learning
@@ -12,4 +15,3 @@ time-added: 2022-03-14-09:33:55
 title: '{Learning topological maps with weak local odometric information}'
 type: inproceedings
 year: '1997'
-keywords: mapping, gacr
