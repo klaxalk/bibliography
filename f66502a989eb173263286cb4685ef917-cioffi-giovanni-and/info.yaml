@@ -6,11 +6,13 @@ author_list:
   given: Titus
 - family: Scaramuzza
   given: Davide
+files:
+- /home/klaxalk/Dropbox/papers/cioffi-gi-2022-contiuous-time-vs.-discrete-time-vision-based-slam-a-comparative-study.pdf
 journal: IEEE Robotics and Automation Letters
+keywords: slam, gacr
 publisher: IEEE
 ref: cioffi2022continuous
 time-added: 2022-03-14-09:21:04
 title: '{Contiuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study}'
 type: article
 year: '2022'
-keywords: slam, gacr
