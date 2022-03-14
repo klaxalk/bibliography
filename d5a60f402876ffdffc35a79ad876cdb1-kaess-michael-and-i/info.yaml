@@ -1,0 +1,21 @@
+author: Kaess, Michael and Ila, Viorela and Roberts, Richard and Dellaert, Frank
+author_list:
+- family: Kaess
+  given: Michael
+- family: Ila
+  given: Viorela
+- family: Roberts
+  given: Richard
+- family: Dellaert
+  given: Frank
+booktitle: Algorithmic Foundations of Robotics IX
+files:
+- /home/klaxalk/Dropbox/papers/kaess-mic-2010-the-bayes-tree-an-algorithmic-foundation-for-probabilistic-robot-mapping.pdf
+keywords: mapping, gacr
+pages: 157--173
+publisher: Springer
+ref: kaess2010bayes
+time-added: 2022-03-14-09:22:43
+title: '{The Bayes tree: An algorithmic foundation for probabilistic robot mapping}'
+type: incollection
+year: '2010'
