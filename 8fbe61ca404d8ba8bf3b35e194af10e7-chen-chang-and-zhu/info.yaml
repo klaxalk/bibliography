@@ -1,0 +1,22 @@
+author: Chen, Chang and Zhu, Hua and Li, Menggang and You, Shaoze
+author_list:
+- family: Chen
+  given: Chang
+- family: Zhu
+  given: Hua
+- family: Li
+  given: Menggang
+- family: You
+  given: Shaoze
+journal: Robotics
+number: '3'
+pages: '45'
+publisher: Multidisciplinary Digital Publishing Institute
+ref: chen2018review
+time-added: 2022-03-14-09:03:21
+title: '{A review of visual-inertial simultaneous localization and mapping from filtering-based
+  and optimization-based perspectives}'
+type: article
+volume: '7'
+year: '2018'
+keywords: slam, review
