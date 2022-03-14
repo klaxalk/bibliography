@@ -1,0 +1,28 @@
+ref: krajnik2010simple
+author: Krajnik, Tomas and Faigl, Jan and Vonasek, Vojtech and Kosnar, Karel and Kulich,
+  Miroslav and Preucil, Libor
+author_list:
+- family: Krajnik
+  given: Tomas
+- family: Faigl
+  given: Jan
+- family: Vonasek
+  given: Vojtech
+- family: Kosnar
+  given: Karel
+- family: Kulich
+  given: Miroslav
+- family: Preucil
+  given: Libor
+files:
+- /home/klaxalk/Dropbox/papers/krajnik-t-2010-simple-yet-stable-bearing-only-navigation.pdf
+journal: Journal of Field Robotics
+keywords: uav, trajectory, generation
+number: '5'
+pages: 511--533
+publisher: Wiley Online Library
+time-added: 2022-03-14-16:02:34
+title: Simple yet stable bearing-only navigation
+type: article
+volume: '27'
+year: '2010'
