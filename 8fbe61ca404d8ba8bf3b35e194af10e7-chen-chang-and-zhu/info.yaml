@@ -8,7 +8,10 @@ author_list:
   given: Menggang
 - family: You
   given: Shaoze
+files:
+- /home/klaxalk/Dropbox/papers/chen-chan-2018-a-review-of-visual-inertial-simultaneous-localization-and-mapping-from-filtering-based-and-optimization-based-perspectives.pdf
 journal: Robotics
+keywords: slam, review
 number: '3'
 pages: '45'
 publisher: Multidisciplinary Digital Publishing Institute
@@ -19,4 +22,3 @@ title: '{A review of visual-inertial simultaneous localization and mapping from 
 type: article
 volume: '7'
 year: '2018'
-keywords: slam, review
