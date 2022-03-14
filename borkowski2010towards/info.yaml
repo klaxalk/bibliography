@@ -1,4 +1,4 @@
-ref: borkowski2010towards
+ref: random
 author: Borkowski, Adam and Siemiatkowska, Barbara and Szklarski, Jacek
 author_list:
 - family: Borkowski
@@ -10,7 +10,7 @@ author_list:
 booktitle: Graph transformations and model-driven engineering
 pages: 719--748
 publisher: Springer
-time-added: 2022-03-14-09:51:26
+time-added: 2022-03-14-09:52:48
 title: Towards semantic navigation in mobile robotics
 type: incollection
 year: '2010'
