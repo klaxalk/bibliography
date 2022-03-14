@@ -1,0 +1,26 @@
+author: Quimbita, Stalin and Chuquitarco, Diego and Hallo, Vicente and Velasco, Nancy
+  and Mendoza, Dario
+author_list:
+- family: Quimbita
+  given: Stalin
+- family: Chuquitarco
+  given: Diego
+- family: Hallo
+  given: Vicente
+- family: Velasco
+  given: Nancy
+- family: Mendoza
+  given: Dario
+booktitle: 2018 International Conference on Machine Vision (ICMV)
+files:
+- /home/klaxalk/Dropbox/papers/quimbita-2019-systematic-and-comparative-analysis-of-techniques-for-slam-development-in-mobile-robotics.pdf
+keywords: slam, review
+organization: SPIE
+pages: 802--809
+ref: quimbita2019systematic
+time-added: 2022-03-14-10:03:16
+title: '{Systematic and comparative analysis of techniques for SLAM development in
+  mobile robotics}'
+type: inproceedings
+volume: '11041'
+year: '2019'
