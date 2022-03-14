@@ -1,0 +1,22 @@
+ref: yu2022aggressive
+author: Yu, Gan and Cabecinhas, David and Cunha, Rita and Silvestre, Carlos
+author_list:
+- family: Yu
+  given: Gan
+- family: Cabecinhas
+  given: David
+- family: Cunha
+  given: Rita
+- family: Silvestre
+  given: Carlos
+files:
+- /home/klaxalk/Dropbox/papers/yu-gan-an-2022-aggressive-maneuvers-for-a-quadrotor-slung-load-system-through-fast-trajectory-generation-and-tracking.pdf
+journal: Autonomous Robots
+keywords: uav, trajectory, generation
+pages: 1--15
+publisher: Springer
+time-added: 2022-03-14-15:59:07
+title: Aggressive maneuvers for a quadrotor-slung-load system through fast trajectory
+  generation and tracking
+type: article
+year: '2022'
