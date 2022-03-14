@@ -1,0 +1,25 @@
+author: Saputra, Muhamad Risqi U and Lu, Chris Xiaoxuan and de Gusmao, Pedro Porto
+  B and Wang, Bing and Markham, Andrew and Trigoni, Niki
+author_list:
+- family: Saputra
+  given: Muhamad Risqi U
+- family: Lu
+  given: Chris Xiaoxuan
+- family: de Gusmao
+  given: Pedro Porto B
+- family: Wang
+  given: Bing
+- family: Markham
+  given: Andrew
+- family: Trigoni
+  given: Niki
+files:
+- /home/klaxalk/Dropbox/papers/saputra-m-2021-graph-based-thermal-inertial-slam-with-probabilistic-neural-networks.pdf
+journal: IEEE Transactions on Robotics
+keywords: slam, gacr
+publisher: IEEE
+ref: saputra2021thermal
+time-added: 2022-03-14-10:47:41
+title: Graph-Based Thermal-Inertial SLAM With Probabilistic Neural Networks
+type: article
+year: '2021'
