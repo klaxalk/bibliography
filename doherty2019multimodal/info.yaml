@@ -1,0 +1,16 @@
+ref: doherty2019multimodal
+author: Doherty, Kevin and Fourie, Dehann and Leonard, John
+author_list:
+- family: Doherty
+  given: Kevin
+- family: Fourie
+  given: Dehann
+- family: Leonard
+  given: John
+booktitle: 2019 international conference on robotics and automation (ICRA)
+organization: IEEE
+pages: 2419--2425
+time-added: 2022-03-14-08:57:13
+title: Multimodal semantic SLAM with probabilistic data association
+type: inproceedings
+year: '2019'
