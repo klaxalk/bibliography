@@ -1,3 +1,4 @@
+ref: taheri2021slam
 author: Taheri, Hamid and Xia, Zhao Chun
 author_list:
 - family: Taheri
@@ -10,7 +11,6 @@ journal: Engineering Applications of Artificial Intelligence
 keywords: slam, gacr, review
 pages: '104032'
 publisher: Elsevier
-ref: taheri2021slam
 time-added: 2022-03-14-09:32:10
 title: '{SLAM; definition and evolution}'
 type: article

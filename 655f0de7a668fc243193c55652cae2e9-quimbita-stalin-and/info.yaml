@@ -1,3 +1,4 @@
+ref: quimbita2019systematic
 author: Quimbita, Stalin and Chuquitarco, Diego and Hallo, Vicente and Velasco, Nancy
   and Mendoza, Dario
 author_list:
@@ -17,7 +18,6 @@ files:
 keywords: slam, review
 organization: SPIE
 pages: 802--809
-ref: quimbita2019systematic
 time-added: 2022-03-14-10:03:16
 title: '{Systematic and comparative analysis of techniques for SLAM development in
   mobile robotics}'

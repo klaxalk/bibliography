@@ -1,3 +1,4 @@
+ref: yousif2015overview
 author: Yousif, Khalid and Bab-Hadiashar, Alireza and Hoseinnezhad, Reza
 author_list:
 - family: Yousif
@@ -13,7 +14,6 @@ keywords: slam, review, gacr
 number: '4'
 pages: 289--311
 publisher: Springer
-ref: yousif2015overview
 time-added: 2022-03-14-10:32:22
 title: '{An overview to visual odometry and visual SLAM: Applications to mobile robotics}'
 type: article
