@@ -1,0 +1,26 @@
+author: Galindo, Cipriano and Saffiotti, Alessandro and Coradeschi, Silvia and Buschka,
+  Par and Fernandez-Madrigal, Juan-Antonio and Gonzalez, Javier
+author_list:
+- family: Galindo
+  given: Cipriano
+- family: Saffiotti
+  given: Alessandro
+- family: Coradeschi
+  given: Silvia
+- family: Buschka
+  given: Par
+- family: Fernandez-Madrigal
+  given: Juan-Antonio
+- family: Gonzalez
+  given: Javier
+booktitle: 2005 IEEE/RSJ international conference on intelligent robots and systems
+files:
+- /home/klaxalk/Dropbox/papers/galindo-c-2005-multi-hierarchical-semantic-maps-for-mobile-robotics.pdf
+keywords: mapping, review
+organization: IEEE
+pages: 2278--2283
+ref: galindo2005multi
+time-added: 2022-03-14-09:12:25
+title: '{Multi-hierarchical semantic maps for mobile robotics}'
+type: inproceedings
+year: '2005'
