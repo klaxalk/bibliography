@@ -6,11 +6,12 @@ author_list:
   given: Dehann
 - family: Leonard
   given: John
-booktitle: 2019 international conference on robotics and automation (ICRA)
+booktitle: IEEE 2019 international conference on robotics and automation (ICRA)
 organization: IEEE
 pages: 2419--2425
 ref: doherty2019multimodal
 time-added: 2022-03-14-09:00:09
 title: Multimodal semantic SLAM with probabilistic data association
 type: inproceedings
+keywords: slam
 year: '2019'
