@@ -1,0 +1,27 @@
+ref: khan2021comparative
+author: Khan, Misha Urooj and Zaidi, Syed Azhar Ali and Ishtiaq, Arslan and Bukhari,
+  Syeda Ume Rubab and Samer, Sana and Farman, Ayesha
+author_list:
+- family: Khan
+  given: Misha Urooj
+- family: Zaidi
+  given: Syed Azhar Ali
+- family: Ishtiaq
+  given: Arslan
+- family: Bukhari
+  given: Syeda Ume Rubab
+- family: Samer
+  given: Sana
+- family: Farman
+  given: Ayesha
+booktitle: 2021 Mohammad Ali Jinnah University International Conference on Computing
+  (MAJICC)
+files:
+- /home/klaxalk/Dropbox/papers/khan-mish-2021-a-comparative-survey-of-lidar-slam-and-lidar-based-sensor-technologies.pdf
+keywords: slam, review, gacr
+organization: IEEE
+pages: 1--8
+time-added: 2022-03-14-10:51:46
+title: A comparative survey of lidar-slam and lidar based sensor technologies
+type: inproceedings
+year: '2021'
