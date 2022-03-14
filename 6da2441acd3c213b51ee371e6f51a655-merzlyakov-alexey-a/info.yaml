@@ -1,0 +1,16 @@
+author: Merzlyakov, Alexey and Macenski, Steve
+author_list:
+- family: Merzlyakov
+  given: Alexey
+- family: Macenski
+  given: Steve
+booktitle: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+organization: IEEE
+pages: 9190--9197
+ref: merzlyakov2021comparison
+time-added: 2022-03-14-09:23:58
+title: '{A comparison of modern general-purpose visual slam approaches}'
+type: inproceedings
+year: '2021'
+keywords: slam, review
