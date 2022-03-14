@@ -1,0 +1,19 @@
+author: Borkowski, Adam and Siemiatkowska, Barbara and Szklarski, Jacek
+author_list:
+- family: Borkowski
+  given: Adam
+- family: Siemiatkowska
+  given: Barbara
+- family: Szklarski
+  given: Jacek
+booktitle: Graph transformations and model-driven engineering
+files:
+- /home/klaxalk/Dropbox/papers/borkowski-2010-towards-semantic-navigation-in-mobile-robotics.pdf
+keywords: mapping, gacr
+pages: 719--748
+publisher: Springer
+ref: borkowski2010towards
+time-added: 2022-03-14-09:57:21
+title: '{Towards semantic navigation in mobile robotics}'
+type: incollection
+year: '2010'
