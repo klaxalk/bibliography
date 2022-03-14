@@ -1,0 +1,24 @@
+author: Kunze, Lars and Hawes, Nick and Duckett, Tom and Hanheide, Marc and Krajnik,
+  Tomas
+author_list:
+- family: Kunze
+  given: Lars
+- family: Hawes
+  given: Nick
+- family: Duckett
+  given: Tom
+- family: Hanheide
+  given: Marc
+- family: Krajnik
+  given: Tomas
+journal: IEEE Robotics and Automation Letters
+number: '4'
+pages: 4023--4030
+publisher: IEEE
+ref: kunze2018artificial
+time-added: 2022-03-14-10:30:06
+title: '{Artificial intelligence for long-term robot autonomy: A survey}'
+type: article
+volume: '3'
+year: '2018'
+keywords: gacr
