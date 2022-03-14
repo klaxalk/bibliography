@@ -4,7 +4,10 @@ author_list:
   given: Ioannis
 - family: Gasteratos
   given: Antonios
+files:
+- /home/klaxalk/Dropbox/papers/kostavelis-2015-semantic-mapping-for-mobile-robotics-tasks-a-survey.pdf
 journal: Robotics and Autonomous Systems
+keywords: slam, review
 pages: 86--103
 publisher: Elsevier
 ref: kostavelis2015semantic
@@ -13,4 +16,3 @@ title: '{Semantic mapping for mobile robotics tasks: A survey}'
 type: article
 volume: '66'
 year: '2015'
-keywords: slam, review
