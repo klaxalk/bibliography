@@ -1,0 +1,18 @@
+author: Hong, Ziyang and Petillot, Yvan and Wang, Sen
+author_list:
+- family: Hong
+  given: Ziyang
+- family: Petillot
+  given: Yvan
+- family: Wang
+  given: Sen
+booktitle: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+organization: IEEE
+pages: 5164--5170
+ref: hong2020radarslam
+time-added: 2022-03-14-10:34:17
+title: '{Radarslam: Radar based large-scale slam in all weathers}'
+type: inproceedings
+year: '2020'
+keywords: slam, gacr
