@@ -1,0 +1,14 @@
+author: Thrun, Sebastian and Bucken, Arno
+author_list:
+- family: Thrun
+  given: Sebastian
+- family: Bucken
+  given: Arno
+booktitle: Proceedings of the national conference on artificial intelligence
+pages: 944--951
+ref: thrun1996integrating
+time-added: 2022-03-14-09:58:58
+title: '{Integrating grid-based and topological maps for mobile robot navigation}'
+type: inproceedings
+year: '1996'
+keywords: mapping, gacr
