@@ -1,0 +1,26 @@
+author: Helmberger, Michael and Morin, Kristian and Kumar, Nitish and Wang, Danwei
+  and Yue, Yufeng and Cioffi, Giovanni and Scaramuzza, Davide
+author_list:
+- family: Helmberger
+  given: Michael
+- family: Morin
+  given: Kristian
+- family: Kumar
+  given: Nitish
+- family: Wang
+  given: Danwei
+- family: Yue
+  given: Yufeng
+- family: Cioffi
+  given: Giovanni
+- family: Scaramuzza
+  given: Davide
+files:
+- /home/klaxalk/Dropbox/papers/helmberger-2021-the-hilti-slam-challenge-dataset.pdf
+journal: arXiv preprint arXiv:2109.11316
+keywords: slam, gacr, dataset
+ref: helmberger2021hilti
+time-added: 2022-03-14-10:05:17
+title: '{The Hilti SLAM Challenge Dataset}'
+type: article
+year: '2021'
