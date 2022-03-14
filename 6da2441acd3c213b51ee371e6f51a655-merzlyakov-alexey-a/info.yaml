@@ -1,3 +1,4 @@
+ref: merzlyakov2021comparison
 author: Merzlyakov, Alexey and Macenski, Steve
 author_list:
 - family: Merzlyakov
@@ -11,7 +12,6 @@ files:
 keywords: slam, review, gacr
 organization: IEEE
 pages: 9190--9197
-ref: merzlyakov2021comparison
 time-added: 2022-03-14-09:23:58
 title: '{A comparison of modern general-purpose visual slam approaches}'
 type: inproceedings
