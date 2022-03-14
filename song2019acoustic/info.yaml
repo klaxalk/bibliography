@@ -1,0 +1,26 @@
+ref: song2019acoustic
+author: Jiang, Min and Song, Sanming and Li, Yiping and Jin, Wenming and Liu, Jian
+  and Feng, Xisheng
+author_list:
+- family: Jiang
+  given: Min
+- family: Song
+  given: Sanming
+- family: Li
+  given: Yiping
+- family: Jin
+  given: Wenming
+- family: Liu
+  given: Jian
+- family: Feng
+  given: Xisheng
+booktitle: International Conference on Intelligent Robotics and Applications
+files:
+- /home/klaxalk/Dropbox/papers/jiang-min-2019-a-survey-of-underwater-acoustic-slam-system.pdf
+keywords: slam, review, gacr
+organization: Springer
+pages: 159--170
+time-added: 2022-03-14-10:50:12
+title: A survey of underwater acoustic SLAM system
+type: inproceedings
+year: '2019'
