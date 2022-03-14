@@ -1,3 +1,4 @@
+ref: tsardoulias2017robotic
 author: Liu, Yuanzhi and Fu, Yujia and Chen, Fengdong and Goossens, Bart and Tao,
   Wei and Zhao, Hui
 author_list:
@@ -17,7 +18,6 @@ files:
 - /home/klaxalk/Dropbox/papers/liu-yuanz-2021-simultaneous-localization-and-mapping-related-datasets-a-comprehensive-survey.pdf
 journal: arXiv preprint arXiv:2102.04036
 keywords: slam, review, gacr
-ref: tsardoulias2017robotic
 time-added: 2022-03-14-09:07:57
 title: '{Simultaneous Localization and Mapping Related Datasets: A Comprehensive Survey}'
 type: article
