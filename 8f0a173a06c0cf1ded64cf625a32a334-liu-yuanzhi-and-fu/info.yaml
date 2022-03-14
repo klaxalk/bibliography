@@ -1,0 +1,22 @@
+author: Liu, Yuanzhi and Fu, Yujia and Chen, Fengdong and Goossens, Bart and Tao,
+  Wei and Zhao, Hui
+author_list:
+- family: Liu
+  given: Yuanzhi
+- family: Fu
+  given: Yujia
+- family: Chen
+  given: Fengdong
+- family: Goossens
+  given: Bart
+- family: Tao
+  given: Wei
+- family: Zhao
+  given: Hui
+journal: arXiv preprint arXiv:2102.04036
+ref: tsardoulias2017robotic
+time-added: 2022-03-14-09:07:57
+title: '{Simultaneous Localization and Mapping Related Datasets: A Comprehensive Survey}'
+type: article
+year: '2021'
+keywords: slam, review
