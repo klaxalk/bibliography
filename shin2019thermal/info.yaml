@@ -1,0 +1,17 @@
+ref: shin2019thermal
+author: Shin, Young-Sik and Kim, Ayoung
+author_list:
+- family: Shin
+  given: Young-Sik
+- family: Kim
+  given: Ayoung
+journal: IEEE Robotics and Automation Letters
+keywords: slam, gacr
+number: '3'
+pages: 2918--2925
+publisher: IEEE
+time-added: 2022-03-14-10:43:22
+title: Sparse depth enhanced direct thermal-infrared SLAM beyond the visible spectrum
+type: article
+volume: '4'
+year: '2019'
