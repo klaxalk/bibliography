@@ -1,0 +1,19 @@
+author: Pfingsthorn, Max and Birk, Andreas
+author_list:
+- family: Pfingsthorn
+  given: Max
+- family: Birk
+  given: Andreas
+files:
+- /home/klaxalk/Dropbox/papers/pfingsthor-2016-generalized-graph-slam-solving-local-and-global-ambiguities-through-multimodal-and-hyperedge-constraints.pdf
+journal: The International Journal of Robotics Research
+keywords: slam
+number: '6'
+pages: 601--630
+ref: pfingsthorn2016generalized
+time-added: 2022-03-14-09:14:44
+title: '{Generalized graph SLAM: Solving local and global ambiguities through multimodal
+  and hyperedge constraints}'
+type: article
+volume: '35'
+year: '2016'
