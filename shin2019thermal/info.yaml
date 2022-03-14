@@ -5,12 +5,14 @@ author_list:
   given: Young-Sik
 - family: Kim
   given: Ayoung
+files:
+- /home/klaxalk/Dropbox/papers/shin-youn-2019-sparse-depth-enhanced-direct-thermal-infrared-slam-beyond-the-visible-spectrum.pdf
 journal: IEEE Robotics and Automation Letters
 keywords: slam, gacr
 number: '3'
 pages: 2918--2925
 publisher: IEEE
-time-added: 2022-03-14-10:43:22
+time-added: 2022-03-14-10:44:04
 title: Sparse depth enhanced direct thermal-infrared SLAM beyond the visible spectrum
 type: article
 volume: '4'
