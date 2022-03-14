@@ -7,6 +7,9 @@ author_list:
 - family: Winner
   given: Hermann
 booktitle: 2019 IEEE Intelligent Vehicles Symposium (IV)
+files:
+- /home/klaxalk/Dropbox/papers/holder-ma-2019-real-time-pose-graph-slam-based-on-radar.pdf
+keywords: slam, gacr
 organization: IEEE
 pages: 1145--1151
 ref: holder2019real
@@ -14,4 +17,3 @@ time-added: 2022-03-14-10:35:54
 title: '{Real-time pose graph SLAM based on radar}'
 type: inproceedings
 year: '2019'
-keywords: slam, gacr
