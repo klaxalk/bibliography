@@ -1,0 +1,19 @@
+ref: debeunne2020review
+author: Debeunne, Cesar and Vivet, Damien
+author_list:
+- family: Debeunne
+  given: Cesar
+- family: Vivet
+  given: Damien
+files:
+- /home/klaxalk/Dropbox/papers/debeunne-2020-a-review-of-visual-lidar-fusion-based-simultaneous-localization-and-mapping.pdf
+journal: Sensors
+keywords: slam, review
+number: '7'
+pages: '2068'
+publisher: Multidisciplinary Digital Publishing Institute
+time-added: 2022-03-16-15:20:28
+title: A review of visual-LiDAR fusion based simultaneous localization and mapping
+type: article
+volume: '20'
+year: '2020'
