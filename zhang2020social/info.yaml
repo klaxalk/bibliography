@@ -1,0 +1,24 @@
+ref: zhang2020social
+author: Zhang, Jiadong and Wang, Wei and Qi, Xianyu and Liao, Ziwei
+author_list:
+- family: Zhang
+  given: Jiadong
+- family: Wang
+  given: Wei
+- family: Qi
+  given: Xianyu
+- family: Liao
+  given: Ziwei
+files:
+- /home/klaxalk/Dropbox/papers/zhang-jia-2020-social-and-robust-navigation-for-indoor-robots-based-on-object-semantic-grid-and-topological-map.pdf
+journal: Applied Sciences
+keywords: gacr, mapping
+number: '24'
+pages: '8991'
+publisher: Multidisciplinary Digital Publishing Institute
+time-added: 2022-03-17-11:00:22
+title: Social and Robust Navigation for Indoor Robots Based on Object Semantic Grid
+  and Topological Map
+type: article
+volume: '10'
+year: '2020'
