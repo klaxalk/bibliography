@@ -1,0 +1,23 @@
+ref: vasudevan2007cognitive
+author: Vasudevan, Shrihari and G\"achter, Stefan and Nguyen, Viet and Siegwart, Roland
+author_list:
+- family: Vasudevan
+  given: Shrihari
+- family: G\"achter
+  given: Stefan
+- family: Nguyen
+  given: Viet
+- family: Siegwart
+  given: Roland
+files:
+- /home/klaxalk/Dropbox/papers/vasudevan-2007-cognitive-maps-for-mobile-robots-an-object-based-approach.pdf
+journal: Robotics and Autonomous Systems
+keywords: gacr, mapping
+number: '5'
+pages: 359--371
+publisher: Elsevier
+time-added: 2022-03-17-10:52:28
+title: Cognitive maps for mobile robots—an object based approach
+type: article
+volume: '55'
+year: '2007'
