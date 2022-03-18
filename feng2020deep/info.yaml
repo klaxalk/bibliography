@@ -1,0 +1,33 @@
+ref: feng2020deep
+author: Feng, Di and Haase-Sch\"utz, Christian and Rosenbaum, Lars and Hertlein, Heinz
+  and Glaeser, Claudius and Timm, Fabian and Wiesbeck, Werner and Dietmayer, Klaus
+author_list:
+- family: Feng
+  given: Di
+- family: Haase-Sch\"utz
+  given: Christian
+- family: Rosenbaum
+  given: Lars
+- family: Hertlein
+  given: Heinz
+- family: Glaeser
+  given: Claudius
+- family: Timm
+  given: Fabian
+- family: Wiesbeck
+  given: Werner
+- family: Dietmayer
+  given: Klaus
+files:
+- /home/klaxalk/Dropbox/papers/feng-di-a-2020-deep-multi-modal-object-detection-and-semantic-segmentation-for-autonomous-driving-datasets-methods-and-challenges.pdf
+journal: IEEE Transactions on Intelligent Transportation Systems
+keywords: gacr, semantic
+number: '3'
+pages: 1341--1360
+publisher: IEEE
+time-added: 2022-03-18-12:25:35
+title: 'Deep multi-modal object detection and semantic segmentation for autonomous
+  driving: Datasets, methods, and challenges'
+type: article
+volume: '22'
+year: '2020'
