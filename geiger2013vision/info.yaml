@@ -1,0 +1,23 @@
+ref: geiger2013vision
+author: Geiger, Andreas and Lenz, Philip and Stiller, Christoph and Urtasun, Raquel
+author_list:
+- family: Geiger
+  given: Andreas
+- family: Lenz
+  given: Philip
+- family: Stiller
+  given: Christoph
+- family: Urtasun
+  given: Raquel
+files:
+- /home/klaxalk/Dropbox/papers/geiger-an-2013-vision-meets-robotics-the-kitti-dataset.pdf
+journal: The International Journal of Robotics Research
+keywords: gacr, dataset
+number: '11'
+pages: 1231--1237
+publisher: 'Sage Publications Sage UK: London, England'
+time-added: 2022-03-24-14:22:38
+title: 'Vision meets robotics: The kitti dataset'
+type: article
+volume: '32'
+year: '2013'
