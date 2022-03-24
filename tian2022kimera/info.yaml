@@ -1,0 +1,26 @@
+ref: tian2022kimera
+author: Tian, Yulun and Chang, Yun and Arias, Fernando Herrera and Nieto-Granda, Carlos
+  and How, Jonathan P and Carlone, Luca
+author_list:
+- family: Tian
+  given: Yulun
+- family: Chang
+  given: Yun
+- family: Arias
+  given: Fernando Herrera
+- family: Nieto-Granda
+  given: Carlos
+- family: How
+  given: Jonathan P
+- family: Carlone
+  given: Luca
+files:
+- /home/klaxalk/Dropbox/papers/tian-yulu-2022-kimera-multi-robust-distributed-dense-metric-semantic-slam-for-multi-robot-systems.pdf
+journal: IEEE Transactions on Robotics
+keywords: gacr, slam
+publisher: IEEE
+time-added: 2022-03-24-11:25:09
+title: 'Kimera-multi: Robust, distributed, dense metric-semantic slam for multi-robot
+  systems'
+type: article
+year: '2022'
