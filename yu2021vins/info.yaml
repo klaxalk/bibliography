@@ -1,0 +1,19 @@
+ref: yu2021vins
+author: Yu, Zhelin and Zhu, Lidong and Lu, Guoyu
+author_list:
+- family: Yu
+  given: Zhelin
+- family: Zhu
+  given: Lidong
+- family: Lu
+  given: Guoyu
+booktitle: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/yu-zhelin-2021-vins-motion-tightly-coupled-fusion-of-vins-and-motion-constraint.pdf
+keywords: gacr, slam
+organization: IEEE
+pages: 7672--7678
+time-added: 2022-03-24-10:56:29
+title: 'VINS-Motion: Tightly-coupled Fusion of VINS and Motion Constraint'
+type: inproceedings
+year: '2021'
