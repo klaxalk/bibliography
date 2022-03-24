@@ -1,0 +1,27 @@
+ref: campos2021orb
+author: Campos, Carlos and Elvira, Richard and Rodr\iguez, Juan J Gomez and Montiel,
+  Jose MM and Tardos, Juan D
+author_list:
+- family: Campos
+  given: Carlos
+- family: Elvira
+  given: Richard
+- family: Rodr\iguez
+  given: Juan J Gomez
+- family: Montiel
+  given: Jose MM
+- family: Tardos
+  given: Juan D
+files:
+- /home/klaxalk/Dropbox/papers/campos-ca-2021-orb-slam3-an-accurate-open-source-library-for-visual-visual-inertial-and-multimap-slam.pdf
+journal: IEEE Transactions on Robotics
+keywords: gacr, slam
+number: '6'
+pages: 1874--1890
+publisher: IEEE
+time-added: 2022-03-24-10:59:39
+title: 'Orb-slam3: An accurate open-source library for visual, visual--inertial, and
+  multimap slam'
+type: article
+volume: '37'
+year: '2021'
