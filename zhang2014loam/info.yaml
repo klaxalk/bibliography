@@ -13,7 +13,7 @@ number: '9'
 organization: Berkeley, CA
 pages: 1--9
 time-added: 2022-03-24-14:42:45
-title: 'LOAM: Lidar Odometry and Mapping in Real-time.'
+title: '{LOAM: Lidar Odometry and Mapping in Real-time}'
 type: inproceedings
 volume: '2'
 year: '2014'
