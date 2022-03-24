@@ -1,0 +1,19 @@
+ref: zhang2014loam
+author: Zhang, Ji and Singh, Sanjiv
+author_list:
+- family: Zhang
+  given: Ji
+- family: Singh
+  given: Sanjiv
+booktitle: 'Robotics: Science and Systems'
+files:
+- /home/klaxalk/Dropbox/papers/zhang-ji-2014-loam-lidar-odometry-and-mapping-in-real-time..pdf
+keywords: gacr, slam
+number: '9'
+organization: Berkeley, CA
+pages: 1--9
+time-added: 2022-03-24-14:42:45
+title: 'LOAM: Lidar Odometry and Mapping in Real-time.'
+type: inproceedings
+volume: '2'
+year: '2014'
