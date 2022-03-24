@@ -1,0 +1,33 @@
+ref: cadena2016past
+author: Cadena, Cesar and Carlone, Luca and Carrillo, Henry and Latif, Yasir and Scaramuzza,
+  Davide and Neira, Jose and Reid, Ian and Leonard, John J
+author_list:
+- family: Cadena
+  given: Cesar
+- family: Carlone
+  given: Luca
+- family: Carrillo
+  given: Henry
+- family: Latif
+  given: Yasir
+- family: Scaramuzza
+  given: Davide
+- family: Neira
+  given: Jose
+- family: Reid
+  given: Ian
+- family: Leonard
+  given: John J
+files:
+- /home/klaxalk/Dropbox/papers/cadena-ce-2016-past-present-and-future-of-simultaneous-localization-and-mapping-toward-the-robust-perception-age.pdf
+journal: IEEE Transactions on robotics
+keywords: gacr, dataset
+number: '6'
+pages: 1309--1332
+publisher: IEEE
+time-added: 2022-03-24-15:51:46
+title: 'Past, present, and future of simultaneous localization and mapping: Toward
+  the robust-perception age'
+type: article
+volume: '32'
+year: '2016'
