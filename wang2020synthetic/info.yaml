@@ -1,0 +1,27 @@
+ref: wang2020synthetic
+author: Wang, Senbo and Yue, Jiguang and Dong, Yanchao and He, Shibo and Wang, Haotian
+  and Ning, Shaochun
+author_list:
+- family: Wang
+  given: Senbo
+- family: Yue
+  given: Jiguang
+- family: Dong
+  given: Yanchao
+- family: He
+  given: Shibo
+- family: Wang
+  given: Haotian
+- family: Ning
+  given: Shaochun
+files:
+- /home/klaxalk/Dropbox/papers/wang-senb-2020-a-synthetic-dataset-for-visual-slam-evaluation.pdf
+journal: Robotics and Autonomous Systems
+keywords: gacr, dataset
+pages: '103336'
+publisher: Elsevier
+time-added: 2022-03-24-14:19:33
+title: A synthetic dataset for Visual SLAM evaluation
+type: article
+volume: '124'
+year: '2020'
