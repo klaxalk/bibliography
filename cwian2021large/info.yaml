@@ -1,5 +1,5 @@
 ref: cwian2021large
-author: Cwian, Krzysztof and Nowicki, Michal R and Wietrzykowski, Jan and Skrzypczynski,
+author: Cwian, Krzysztof and Nowicki, Micha\l R and Wietrzykowski, Jan and Skrzypczynski,
   Piotr
 author_list:
 - family: Cwian
@@ -17,8 +17,9 @@ keywords: gacr, slam
 number: '10'
 pages: '3445'
 publisher: Multidisciplinary Digital Publishing Institute
-time-added: 2022-03-24-14:02:29
-title: '{Large-scale LiDAR SLAM with factor graph optimization on high-level geometric features}'
+time-added: 2022-03-24-14:13:27
+title: Large-scale LiDAR SLAM with factor graph optimization on high-level geometric
+  features
 type: article
 volume: '21'
 year: '2021'
