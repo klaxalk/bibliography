@@ -1,0 +1,27 @@
+ref: bujanca2021robust
+author: Bujanca, Mihai and Shi, Xuesong and Spear, Matthew and Zhao, Pengpeng and
+  Lennox, Barry and Lujan, Mikel
+author_list:
+- family: Bujanca
+  given: Mihai
+- family: Shi
+  given: Xuesong
+- family: Spear
+  given: Matthew
+- family: Zhao
+  given: Pengpeng
+- family: Lennox
+  given: Barry
+- family: Lujan
+  given: Mikel
+booktitle: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/bujanca-m-2021-robust-slam-systems-are-we-there-yet.pdf
+keywords: gacr, slam
+organization: IEEE
+pages: 5320--5327
+time-added: 2022-03-24-10:13:00
+title: 'Robust SLAM Systems: Are We There Yet?'
+type: inproceedings
+year: '2021'
