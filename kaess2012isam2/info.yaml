@@ -1,0 +1,28 @@
+ref: kaess2012isam2
+author: Kaess, Michael and Johannsson, Hordur and Roberts, Richard and Ila, Viorela
+  and Leonard, John J and Dellaert, Frank
+author_list:
+- family: Kaess
+  given: Michael
+- family: Johannsson
+  given: Hordur
+- family: Roberts
+  given: Richard
+- family: Ila
+  given: Viorela
+- family: Leonard
+  given: John J
+- family: Dellaert
+  given: Frank
+files:
+- /home/klaxalk/Dropbox/papers/kaess-mic-2012-isam2-incremental-smoothing-and-mapping-using-the-bayes-tree.pdf
+journal: The International Journal of Robotics Research
+keywords: gacr, slam
+number: '2'
+pages: 216--235
+publisher: 'Sage Publications Sage UK: London, England'
+time-added: 2022-03-25-16:09:50
+title: 'iSAM2: Incremental smoothing and mapping using the Bayes tree'
+type: article
+volume: '31'
+year: '2012'
