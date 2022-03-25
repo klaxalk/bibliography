@@ -1,0 +1,27 @@
+ref: wang2021semnatic
+author: Wang, Chaoqun and Cheng, Jiyu and Chi, Wenzheng and Yan, Tingfang and Meng,
+  Max Q.-H.
+author_list:
+- family: Wang
+  given: Chaoqun
+- family: Cheng
+  given: Jiyu
+- family: Chi
+  given: Wenzheng
+- family: Yan
+  given: Tingfang
+- family: Meng
+  given: Max Q.-H.
+doi: 10.1109/TSMC.2019.2946646
+files:
+- /home/klaxalk/Dropbox/papers/wang-chao-2021-semantic-aware-informative-path-planning-for-efficient-object-search-using-mobile-robot.pdf
+journal: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+keywords: gacr, mapping
+number: '8'
+pages: 5230--5243
+time-added: 2022-03-25-15:48:55
+title: Semantic-Aware Informative Path Planning for Efficient Object Search Using
+  Mobile Robot
+type: article
+volume: '51'
+year: '2021'
