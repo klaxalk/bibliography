@@ -1,0 +1,26 @@
+ref: hornung2013octomap
+author: Hornung, Armin and Wurm, Kai M and Bennewitz, Maren and Stachniss, Cyrill
+  and Burgard, Wolfram
+author_list:
+- family: Hornung
+  given: Armin
+- family: Wurm
+  given: Kai M
+- family: Bennewitz
+  given: Maren
+- family: Stachniss
+  given: Cyrill
+- family: Burgard
+  given: Wolfram
+files:
+- /home/klaxalk/Dropbox/papers/hornung-a-2013-octomap-an-efficient-probabilistic-3d-mapping-framework-based-on-octrees.pdf
+journal: Autonomous robots
+keywords: gacr, mapping
+number: '3'
+pages: 189--206
+publisher: Springer
+time-added: 2022-03-25-15:41:54
+title: 'OctoMap: An efficient probabilistic 3D mapping framework based on octrees'
+type: article
+volume: '34'
+year: '2013'
