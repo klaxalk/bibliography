@@ -1,0 +1,17 @@
+author: Engel, Jakob and Schops, Thomas and Cremers, Daniel
+author_list:
+- family: Engel
+  given: Jakob
+- family: Schops
+  given: Thomas
+- family: Cremers
+  given: Daniel
+booktitle: European conference on computer vision
+organization: Springer
+pages: 834--849
+ref: engel2014lsd
+time-added: 2022-04-01-10:19:09
+title: '{LSD-SLAM: Large-scale direct monocular SLAM}'
+type: inproceedings
+year: '2014'
+keywords: gacr, slam
