@@ -14,14 +14,13 @@ author_list:
   given: Carlo
 - family: Rus
   given: Daniela
-booktitle: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)
+booktitle: '2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 files:
 - /home/klaxalk/Dropbox/papers/shan-tixi-2020-lio-sam-tightly-coupled-lidar-inertial-odometry-via-smoothing-and-mapping.pdf
 keywords: gacr, dataset
 organization: IEEE
 pages: 5135--5142
 time-added: 2022-03-24-15:02:52
-title: 'Lio-sam: Tightly-coupled lidar inertial odometry via smoothing and mapping'
+title: '{LIO-SAM: Tightly-coupled lidar inertial odometry via smoothing and mapping}'
 type: inproceedings
 year: '2020'
