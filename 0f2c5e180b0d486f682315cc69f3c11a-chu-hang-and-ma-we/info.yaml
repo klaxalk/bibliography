@@ -1,0 +1,21 @@
+author: Chu, Hang and Ma, Wei-Chiu and Kundu, Kaustav and Urtasun, Raquel and Fidler,
+  Sanja
+author_list:
+- family: Chu
+  given: Hang
+- family: Ma
+  given: Wei-Chiu
+- family: Kundu
+  given: Kaustav
+- family: Urtasun
+  given: Raquel
+- family: Fidler
+  given: Sanja
+booktitle: '{The Conference on Computer Vision and Pattern Recognition (CVPR)}'
+keywords: gacr, slam
+month: June
+ref: chu2018surfconf
+time-added: 2022-04-01-10:28:47
+title: '{{SurfConv}: Bridging 3D and 2D Convolution for RGBD Images}'
+type: inproceedings
+year: '2018'
