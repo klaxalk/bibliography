@@ -1,0 +1,20 @@
+author: Li, Chengyang and Song, Dan and Tong, Ruofeng and Tang, Min
+author_list:
+- family: Li
+  given: Chengyang
+- family: Song
+  given: Dan
+- family: Tong
+  given: Ruofeng
+- family: Tang
+  given: Min
+journal: Pattern Recognition
+keywords: gacr, slam
+pages: 161--171
+publisher: Elsevier
+ref: li2019rgbt
+time-added: 2022-04-01-10:27:10
+title: '{Illumination-aware faster R-CNN for robust multispectral pedestrian detection}'
+type: article
+volume: '85'
+year: '2019'
