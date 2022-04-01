@@ -1,0 +1,19 @@
+author: Hazirbas, Caner and Ma, Lingni and Domokos, Csaba and Cremers, Daniel
+author_list:
+- family: Hazirbas
+  given: Caner
+- family: Ma
+  given: Lingni
+- family: Domokos
+  given: Csaba
+- family: Cremers
+  given: Daniel
+booktitle: '{Asian Conference on Computer Vision (ACCV)}'
+isbn: 978-3-319-54181-5
+keywords: gacr, slam
+pages: 213--228
+ref: hazirbas2016fusenet
+time-added: 2022-04-01-10:31:36
+title: '{FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-Based CNN Architecture}'
+type: inproceedings
+year: '2017'

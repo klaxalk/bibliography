@@ -1,0 +1,17 @@
+author: Park, Seong-Jin and Hong, Ki-Sang and Lee, Seungyong
+author_list:
+- family: Park
+  given: Seong-Jin
+- family: Hong
+  given: Ki-Sang
+- family: Lee
+  given: Seungyong
+booktitle: '{International Conference on Computer Vision (ICCV)}'
+keywords: gacr, slam
+month: Oct
+ref: park2017rdfnet
+time-added: 2022-04-01-10:29:43
+title: '{RDFNet: RGB-D Multi-Level Residual Feature Fusion for Indoor Semantic
+  Segmentation}'
+type: inproceedings
+year: '2017'
