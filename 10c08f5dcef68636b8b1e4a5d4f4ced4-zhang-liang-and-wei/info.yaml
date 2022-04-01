@@ -1,0 +1,25 @@
+author: Zhang, Liang and Wei, Leqi and Shen, Peiyi and Wei, Wei and Zhu, Guangming
+  and Song, Juan
+author_list:
+- family: Zhang
+  given: Liang
+- family: Wei
+  given: Leqi
+- family: Shen
+  given: Peiyi
+- family: Wei
+  given: Wei
+- family: Zhu
+  given: Guangming
+- family: Song
+  given: Juan
+doi: 10.1109/ACCESS.2018.2873617
+journal: IEEE Access
+keywords: gacr, slam
+pages: 75545--75559
+ref: zhang2018SSLAM
+time-added: 2022-04-01-10:21:34
+title: '{Semantic {SLAM} Based on Object Detection and Improved Octomap}'
+type: article
+volume: '6'
+year: '2018'
