@@ -1,0 +1,19 @@
+author: Wu, Zongwei and Allibert, Guillaume and Stolz, Christophe and Demonceaux,
+  Cedric
+author_list:
+- family: Wu
+  given: Zongwei
+- family: Allibert
+  given: Guillaume
+- family: Stolz
+  given: Christophe
+- family: Demonceaux
+  given: Cedric
+booktitle: '{Asian Conference on Computer Vision (ACCV)}'
+keywords: gacr, slam
+month: November
+ref: wu2020zacn
+time-added: 2022-04-01-10:27:34
+title: '{Depth-Adapted CNN for RGB-D cameras}'
+type: inproceedings
+year: '2020'
