@@ -1,0 +1,13 @@
+author: Redmon, Joseph and Farhadi, Ali
+author_list:
+- family: Redmon
+  given: Joseph
+- family: Farhadi
+  given: Ali
+journal: arXiv preprint arXiv:1804.02767
+keywords: gacr, slam
+ref: redmon2018yolov3
+time-added: 2022-04-01-10:26:28
+title: '{YOLOv3}: An incremental improvement'
+type: article
+year: '2018'

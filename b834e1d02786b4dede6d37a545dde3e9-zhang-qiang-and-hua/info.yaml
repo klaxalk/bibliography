@@ -1,0 +1,25 @@
+author: Zhang, Qiang and Huang, Nianchang and Yao, Lin and Zhang, Dingwen and Shan,
+  Caifeng and Han, Jungong
+author_list:
+- family: Zhang
+  given: Qiang
+- family: Huang
+  given: Nianchang
+- family: Yao
+  given: Lin
+- family: Zhang
+  given: Dingwen
+- family: Shan
+  given: Caifeng
+- family: Han
+  given: Jungong
+doi: 10.1109/TIP.2019.2959253
+journal: IEEE Transactions on Image Processing
+keywords: gacr, slam
+pages: 3321-3335
+ref: zhang2020rgbt
+time-added: 2022-04-01-10:26:49
+title: '{RGB-T Salient Object Detection via Fusing Multi-Level {CNN} Features}'
+type: article
+volume: '29'
+year: '2020'
