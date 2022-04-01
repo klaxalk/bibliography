@@ -11,7 +11,7 @@ journal: Sensors
 keywords: slam, review
 number: '4'
 time-added: 2022-03-14-16:20:20
-title: 'Role of Deep Learning in Loop Closure Detection for Visual and Lidar SLAM: A Survey'
+title: '{Role of Deep Learning in Loop Closure Detection for Visual and Lidar SLAM: A Survey}'
 type: article
 volume: '21'
 year: '2021'
