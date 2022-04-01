@@ -20,7 +20,7 @@ number: '3'
 pages: 189--206
 publisher: Springer
 time-added: 2022-03-25-15:41:54
-title: 'OctoMap: An efficient probabilistic 3D mapping framework based on octrees'
+title: '{OctoMap: An efficient probabilistic 3D mapping framework based on octrees}'
 type: article
 volume: '34'
 year: '2013'
