@@ -1,0 +1,17 @@
+author: Trevor, Alexander J. B. and Rogers, John G. and Christensen, Henrik I.
+author_list:
+- family: Trevor
+  given: Alexander J. B.
+- family: Rogers
+  given: John G.
+- family: Christensen
+  given: Henrik I.
+booktitle: '{2014 International Conference on Robotics and Automation (ICRA)}'
+doi: 10.1109/ICRA.2014.6907122
+keywords: gacr, slam
+pages: 1983-1990
+ref: trevor2014omnimapper
+time-added: 2022-04-01-10:25:48
+title: '{OmniMapper}: A modular multimodal mapping framework'
+type: inproceedings
+year: '2014'

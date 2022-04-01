@@ -1,0 +1,20 @@
+author: Bavle, Hriday and De La Puente, Paloma and How, Jonathan P. and Campoy, Pascual
+author_list:
+- family: Bavle
+  given: Hriday
+- family: De La Puente
+  given: Paloma
+- family: How
+  given: Jonathan P.
+- family: Campoy
+  given: Pascual
+doi: 10.1109/ACCESS.2020.2983121
+journal: Access
+keywords: gacr, slam
+pages: 60704-60718
+ref: bavle2020SSLAM
+time-added: 2022-04-01-10:24:21
+title: '{VPS-SLAM}: Visual Planar Semantic {SLAM} for Aerial Robotic Systems'
+type: article
+volume: '8'
+year: '2020'
