@@ -6,7 +6,7 @@ author_list:
   given: Tianyan
 files:
 - /home/klaxalk/Dropbox/papers/schwertfeg-2016-matching-paths-in-topological-maps.pdf
-journal: IFAC-PapersOnLine
+journal: '{IFAC-PapersOnLine}'
 keywords: mapping, gacr
 number: '15'
 pages: 224--229
