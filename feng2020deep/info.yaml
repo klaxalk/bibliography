@@ -1,10 +1,10 @@
 ref: feng2020deep
-author: Feng, Di and Haase-Sch\"utz, Christian and Rosenbaum, Lars and Hertlein, Heinz
+author: Feng, Di and Haase-Schutz, Christian and Rosenbaum, Lars and Hertlein, Heinz
   and Glaeser, Claudius and Timm, Fabian and Wiesbeck, Werner and Dietmayer, Klaus
 author_list:
 - family: Feng
   given: Di
-- family: Haase-Sch\"utz
+- family: Haase-Schutz
   given: Christian
 - family: Rosenbaum
   given: Lars
@@ -26,8 +26,8 @@ number: '3'
 pages: 1341--1360
 publisher: IEEE
 time-added: 2022-03-18-12:25:35
-title: 'Deep multi-modal object detection and semantic segmentation for autonomous
-  driving: Datasets, methods, and challenges'
+title: '{Deep multi-modal object detection and semantic segmentation for autonomous
+  driving: Datasets, methods, and challenges}'
 type: article
 volume: '22'
 year: '2020'
