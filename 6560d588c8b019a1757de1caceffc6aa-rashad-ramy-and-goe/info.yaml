@@ -1,0 +1,25 @@
+author: Rashad, Ramy and Goerres, Jelmer and Aarts, Ronald and Engelen, Johan BC and
+  Stramigioli, Stefano
+author_list:
+- family: Rashad
+  given: Ramy
+- family: Goerres
+  given: Jelmer
+- family: Aarts
+  given: Ronald
+- family: Engelen
+  given: Johan BC
+- family: Stramigioli
+  given: Stefano
+files:
+- /home/klaxalk/Dropbox/papers/rashad-ra-2020-fully-actuated-multirotor-uavs-a-literature-review.pdf
+journal: IEEE Robotics \& Automation Magazine
+number: '3'
+pages: 97--107
+publisher: IEEE
+ref: rashad2020fully
+time-added: 2022-09-13-09:19:04
+title: 'Fully actuated multirotor UAVs: A literature review'
+type: article
+volume: '27'
+year: '2020'
