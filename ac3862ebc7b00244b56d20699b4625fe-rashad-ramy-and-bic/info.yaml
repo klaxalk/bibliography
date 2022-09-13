@@ -13,10 +13,13 @@ author_list:
   given: Stefano
 booktitle: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)
+files:
+- /home/klaxalk/Dropbox/papers/rashad-ra-2020-towards-vision-based-impedance-control-for-the-contact-inspection-of-unknown-generically-shaped-surfaces-with-a-fully-actuated-uav.pdf
 organization: IEEE
 pages: 1605--1612
 ref: rashad2020towards
 time-added: 2022-09-13-09:46:28
-title: '{Towards vision-based impedance control for the contact inspection of unknown generically-shaped surfaces with a fully-actuated UAV}'
+title: '{Towards vision-based impedance control for the contact inspection of unknown
+  generically-shaped surfaces with a fully-actuated UAV}'
 type: inproceedings
 year: '2020'
