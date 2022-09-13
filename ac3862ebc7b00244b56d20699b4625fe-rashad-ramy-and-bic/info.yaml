@@ -1,0 +1,22 @@
+author: Rashad, Ramy and Bicego, Davide and Jiao, Ran and Sanchez-Escalonilla, Santiago
+  and Stramigioli, Stefano
+author_list:
+- family: Rashad
+  given: Ramy
+- family: Bicego
+  given: Davide
+- family: Jiao
+  given: Ran
+- family: Sanchez-Escalonilla
+  given: Santiago
+- family: Stramigioli
+  given: Stefano
+booktitle: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
+organization: IEEE
+pages: 1605--1612
+ref: rashad2020towards
+time-added: 2022-09-13-09:46:28
+title: '{Towards vision-based impedance control for the contact inspection of unknown generically-shaped surfaces with a fully-actuated UAV}'
+type: inproceedings
+year: '2020'
