@@ -11,10 +11,13 @@ author_list:
   given: Elia
 - family: Scaramuzza
   given: Davide
+files:
+- /home/klaxalk/Dropbox/papers/sun-sihao-2022-a-comparative-study-of-nonlinear-mpc-and-differential-flatness-based-control-for-quadrotor-agile-flight.pdf
 journal: IEEE Transactions on Robotics
 publisher: IEEE
 ref: sun2022comparative
 time-added: 2022-09-14-16:21:09
-title: '{A comparative study of nonlinear MPC and differential-flatness-based control for quadrotor agile flight}'
+title: '{A comparative study of nonlinear MPC and differential-flatness-based control
+  for quadrotor agile flight}'
 type: article
 year: '2022'
