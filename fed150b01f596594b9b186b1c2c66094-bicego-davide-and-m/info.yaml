@@ -1,0 +1,23 @@
+author: Bicego, Davide and Mazzetto, Jacopo and Carli, Ruggero and Farina, Marcello
+  and Franchi, Antonio
+author_list:
+- family: Bicego
+  given: Davide
+- family: Mazzetto
+  given: Jacopo
+- family: Carli
+  given: Ruggero
+- family: Farina
+  given: Marcello
+- family: Franchi
+  given: Antonio
+journal: Journal of Intelligent \& Robotic Systems
+number: '3'
+pages: 1213--1247
+publisher: Springer
+ref: bicego2020nonlinear
+time-added: 2022-09-14-16:12:19
+title: '{Nonlinear model predictive control with enhanced actuator model for multi-rotor aerial vehicles with generic designs}'
+type: article
+volume: '100'
+year: '2020'
