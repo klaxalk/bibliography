@@ -11,13 +11,16 @@ author_list:
   given: Marcello
 - family: Franchi
   given: Antonio
+files:
+- /home/klaxalk/Dropbox/papers/bicego-da-2020-nonlinear-model-predictive-control-with-enhanced-actuator-model-for-multi-rotor-aerial-vehicles-with-generic-designs.pdf
 journal: Journal of Intelligent \& Robotic Systems
 number: '3'
 pages: 1213--1247
 publisher: Springer
 ref: bicego2020nonlinear
 time-added: 2022-09-14-16:12:19
-title: '{Nonlinear model predictive control with enhanced actuator model for multi-rotor aerial vehicles with generic designs}'
+title: '{Nonlinear model predictive control with enhanced actuator model for multi-rotor
+  aerial vehicles with generic designs}'
 type: article
 volume: '100'
 year: '2020'
