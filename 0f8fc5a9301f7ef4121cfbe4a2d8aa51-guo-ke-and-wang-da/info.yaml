@@ -8,6 +8,8 @@ author_list:
   given: Tingxiang
 - family: Pan
   given: Jia
+files:
+- /home/klaxalk/Dropbox/papers/guo-ke-an-2021-vr-orca-variable-responsibility-optimal-reciprocal-collision-avoidance.pdf
 journal: IEEE Robotics and Automation Letters
 number: '3'
 pages: 4520--4527
