@@ -1,0 +1,20 @@
+author: Guo, Ke and Wang, Dawei and Fan, Tingxiang and Pan, Jia
+author_list:
+- family: Guo
+  given: Ke
+- family: Wang
+  given: Dawei
+- family: Fan
+  given: Tingxiang
+- family: Pan
+  given: Jia
+journal: IEEE Robotics and Automation Letters
+number: '3'
+pages: 4520--4527
+publisher: IEEE
+ref: guo2021vr
+time-added: 2022-09-22-14:22:00
+title: '{VR-ORCA: Variable responsibility optimal reciprocal collision avoidance}'
+type: article
+volume: '6'
+year: '2021'
