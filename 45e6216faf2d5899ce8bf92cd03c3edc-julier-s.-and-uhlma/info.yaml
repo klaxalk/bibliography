@@ -1,0 +1,19 @@
+author: Julier, S. and Uhlmann, J. and Durrant-Whyte, H.F.
+author_list:
+- family: Julier
+  given: S.
+- family: Uhlmann
+  given: J.
+- family: Durrant-Whyte
+  given: H.F.
+doi: 10.1109/9.847726
+journal: IEEE Transactions on Automatic Control
+number: '3'
+pages: 477-482
+ref: '847726'
+time-added: 2022-09-29-09:30:29
+title: A new method for the nonlinear transformation of means and covariances in filters
+  and estimators
+type: article
+volume: '45'
+year: '2000'
