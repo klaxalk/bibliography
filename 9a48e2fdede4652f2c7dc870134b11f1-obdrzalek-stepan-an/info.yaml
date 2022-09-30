@@ -1,0 +1,14 @@
+author: Obdrzalek, Stepan and Matas, Jiri
+author_list:
+- family: Obdrzalek
+  given: Stepan
+- family: Matas
+  given: Jiri
+booktitle: Toward category-level object recognition
+pages: 83--104
+publisher: Springer
+ref: obdrvzalek2006object
+time-added: 2022-09-30-15:20:03
+title: Object recognition using local affine frames on maximally stable extremal regions
+type: incollection
+year: '2006'
