@@ -1,0 +1,18 @@
+author: 'Dellaert, Frank and Kaess, Michael and others, '
+author_list:
+- family: Dellaert
+  given: Frank
+- family: Kaess
+  given: Michael
+- family: others
+  given: ''
+journal: Foundations and Trends{\textregistered} in Robotics
+number: 1-2
+pages: 1--139
+publisher: Now Publishers, Inc.
+ref: dellaert2017factor
+time-added: 2022-10-02-15:40:08
+title: Factor graphs for robot perception
+type: article
+volume: '6'
+year: '2017'
