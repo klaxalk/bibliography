@@ -1,0 +1,15 @@
+address: Cambridge, Mass.
+author: Thrun, Sebastian and Burgard, Wolfram and Fox, Dieter
+author_list:
+- family: Thrun
+  given: Sebastian
+- family: Burgard
+  given: Wolfram
+- family: Fox
+  given: Dieter
+publisher: MIT Press
+ref: thrun2005probabilistic
+time-added: 2022-10-02-09:31:30
+title: Probabilistic robotics
+type: book
+year: '2005'
