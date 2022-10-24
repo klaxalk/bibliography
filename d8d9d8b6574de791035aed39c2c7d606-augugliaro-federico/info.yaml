@@ -1,0 +1,14 @@
+author: Augugliaro, Federico and D'Andrea, Raffaello
+author_list:
+- family: Augugliaro
+  given: Federico
+- family: D'Andrea
+  given: Raffaello
+booktitle: 2013 European Control Conference (ECC)
+organization: IEEE
+pages: 1805--1810
+ref: augugliaro2013admittance
+time-added: 2022-10-24-10:43:01
+title: Admittance control for physical human-quadrocopter interaction
+type: inproceedings
+year: '2013'
