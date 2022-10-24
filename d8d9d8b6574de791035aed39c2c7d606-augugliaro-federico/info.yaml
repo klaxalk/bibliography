@@ -5,6 +5,8 @@ author_list:
 - family: D'Andrea
   given: Raffaello
 booktitle: 2013 European Control Conference (ECC)
+files:
+- /home/klaxalk/Dropbox/papers/augugliaro-2013-admittance-control-for-physical-human-quadrocopter-interaction.pdf
 organization: IEEE
 pages: 1805--1810
 ref: augugliaro2013admittance
