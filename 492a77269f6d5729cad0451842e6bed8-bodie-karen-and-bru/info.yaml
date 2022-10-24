@@ -1,0 +1,30 @@
+author: Bodie, Karen and Brunner, Maximilian and Pantic, Michael and Walser, Stefan
+  and Pfandler, Patrick and Angst, Ueli and Siegwart, Roland and Nieto, Juan
+author_list:
+- family: Bodie
+  given: Karen
+- family: Brunner
+  given: Maximilian
+- family: Pantic
+  given: Michael
+- family: Walser
+  given: Stefan
+- family: Pfandler
+  given: Patrick
+- family: Angst
+  given: Ueli
+- family: Siegwart
+  given: Roland
+- family: Nieto
+  given: Juan
+journal: IEEE Transactions on Robotics
+number: '3'
+pages: 709--722
+publisher: IEEE
+ref: bodie2020active
+time-added: 2022-10-24-10:40:47
+title: '{Active interaction force control for contact-based inspection with a fully
+  actuated aerial vehicle}'
+type: article
+volume: '37'
+year: '2020'
