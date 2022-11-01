@@ -1,6 +1,6 @@
 author: Ruggiero, Fabio and Trujillo, Miguel Angel and Cano, Raul and Ascorbe, H and
-  Viguria, Antidio and Perez, C and Lippiello, Vincenzo and Ollero, Anibal
-  and Siciliano, Bruno
+  Viguria, Antidio and Perez, C and Lippiello, Vincenzo and Ollero, Anibal and Siciliano,
+  Bruno
 author_list:
 - family: Ruggiero
   given: Fabio
@@ -21,6 +21,8 @@ author_list:
 - family: Siciliano
   given: Bruno
 booktitle: 2015 IEEE international conference on robotics and automation (ICRA)
+files:
+- /home/klaxalk/Dropbox/papers/ruggiero-2015-a-multilayer-control-for-multirotor-uavs-equipped-with-a-servo-robot-arm.pdf
 organization: IEEE
 pages: 4014--4020
 ref: ruggiero2015multilayer
