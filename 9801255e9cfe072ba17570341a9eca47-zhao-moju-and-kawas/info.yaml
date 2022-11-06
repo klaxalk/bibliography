@@ -1,0 +1,24 @@
+author: Zhao, Moju and Kawasaki, Koji and Chen, Xiangyu and Noda, Shintaro and Okada,
+  Kei and Inaba, Masayuki
+author_list:
+- family: Zhao
+  given: Moju
+- family: Kawasaki
+  given: Koji
+- family: Chen
+  given: Xiangyu
+- family: Noda
+  given: Shintaro
+- family: Okada
+  given: Kei
+- family: Inaba
+  given: Masayuki
+booktitle: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+organization: IEEE
+pages: 5175--5182
+ref: zhao2017whole
+time-added: 2022-11-06-19:12:23
+title: Whole-body aerial manipulation by transformable multirotor with two-dimensional
+  multilinks
+type: inproceedings
+year: '2017'
