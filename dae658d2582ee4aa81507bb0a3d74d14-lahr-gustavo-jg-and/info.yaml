@@ -13,6 +13,8 @@ author_list:
   given: Glauco AP
 booktitle: 2016 XIII Latin American Robotics Symposium and IV Brazilian Robotics Symposium
   (LARS/SBR)
+files:
+- /home/klaxalk/Dropbox/papers/lahr-gust-2016-understanding-the-implementation-of-impedance-control-in-industrial-robots.pdf
 organization: IEEE
 pages: 269--274
 ref: lahr2016understanding
