@@ -5,13 +5,12 @@ language: English
 pages: 611--616
 publisher: IEEE
 ref: chudoba2014localization
-title: '{Localization and stabilization of micro aerial vehicles based on visual features
-  tracking}'
+title: '{Localization and stabilization of micro aerial vehicles based on visual features tracking}'
 type: inproceedings
 url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6842304
 volume: '1'
 year: '2014'
 keywords: mine, conference
-addendum: '{\textbf{16\% contribution, citations: 2 in WoS}}'
+addendum: '{\textbf{contribution: 16\%, citations: 2 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/chudoba-j-2014-localization-and-stabilization-of-micro-aerial-vehicles-based-on-visual-features-tracking.pdf
