@@ -2,8 +2,7 @@ author: Giernacki, W. and Horla, D. and Baca, T. and Saska, M.
 doi: 10.3390/s19020312
 journal: Sensors
 ref: giernacki2019realtime
-title: '{Real-time model-free minimum-seeking autotuning method for unmanned aerial
-  vehicle controllers based on fibonacci-search algorithm}'
+title: '{Real-time model-free minimum-seeking autotuning method for unmanned aerial vehicle controllers based on fibonacci-search algorithm}'
 type: article
 url: https://www.mdpi.com/1424-8220/19/2/312
 volume: '19'
@@ -12,7 +11,6 @@ pages: '312'
 year: '2019'
 publisher: 'Multidisciplinary Digital Publishing Institute'
 keywords: mine, phd_related, journal
-addendum: '{\textbf{25\% contribution, citations: 12 in
-  WoS}}'
+addendum: '{\textbf{contribution: 25\%, citations: 12 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/giernacki-2019-real-time-model-free-minimum-seeking-autotuning-method-for-unmanned-aerial-vehicle-controllers-based-on-fibonacci-search-algorithm.pdf
