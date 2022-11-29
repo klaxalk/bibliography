@@ -17,11 +17,10 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-journal: 'submitted to RAS'
+journal: 'Robotics and Autonomous Systems'
 ref: vrba2020autonomous
 time-added: 2020-11-21-17:30:34
-title: '{Autonomous Capturing of Agile Flying Objects using MAVs: The MBZIRC 2020
-  Challenge}'
+title: '{Autonomous Capture of Agile Flying Objects Using UAVs: The MBZIRC 2020 Challenge}'
 type: article
 year: '2020'
 keywords: mine, phd_related, journal, mbzirc, submitted
