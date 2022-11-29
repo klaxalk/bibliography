@@ -3,13 +3,12 @@ journal: Journal of Instrumentation
 number: '11'
 pages: C11008
 ref: baca2018rospix
-title: "{Rospix: modular software tool for automated data acquisitions of Timepix
-detectors on Robot Operating System}"
+title: "{Rospix: modular software tool for automated data acquisitions of Timepix detectors on Robot Operating System}"
 type: article
 url: http://stacks.iop.org/1748-0221/13/i=11/a=C11008
 volume: '13'
 year: '2018'
 keywords: mine, phd_related, journal
-addendum: '{\textbf{70\% contribution, citations: 5 in WoS}}'
+addendum: '{\textbf{contribution: 70\%, citations: 5 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/baca-t.-a-2018-rospix-modular-software-tool-for-automated-data-acquisitions-of-timepix-detectors-on-robot-operating-system.pdf
