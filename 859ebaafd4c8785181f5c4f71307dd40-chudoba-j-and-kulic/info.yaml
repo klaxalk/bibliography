@@ -3,13 +3,11 @@ journal: '{Journal of Intelligent \& Robotic Systems}'
 language: English
 pages: 1--19
 ref: chudoba2016exploration
-title: '{Exploration and Mapping Technique Suited for Visual-features Based Localization
-  of MAVs}'
+title: '{Exploration and Mapping Technique Suited for Visual-features Based Localization of MAVs}'
 type: article
 url: http://link.springer.com/article/10.1007/s10846-016-0358-8
 year: '2016'
 keywords: mine, phd_related, journal
-addendum: '{\textbf{15\% contribution, IF 2.02 (Q3 in Robotics), citations: 2 in
-  WoS}}'
+addendum: '{\textbf{contribution: 15\%, citations: 5 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/chudoba-j-2016-exploration-and-mapping-technique-suited-for-visual-features-based-localization-of-mavs.pdf
