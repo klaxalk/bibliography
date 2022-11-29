@@ -2,8 +2,7 @@ author: Saska, M. and Baca, T. and Thomas, J. and Chudoba, J. and Preucil, L. an
   Krajnik, T. and Faigl, J. and Loianno, G. and Kumar, V.
 journal: Autonomous Robots
 ref: saska2017system
-title: '{System for deployment of groups of unmanned micro aerial vehicles in GPS-denied
-  environments using onboard visual relative localization}'
+title: '{System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization}'
 type: article
 year: '2017'
 volume: '41'
@@ -11,7 +10,6 @@ number: '4'
 pages: '919--944'
 publisher: 'Springer'
 keywords: mine, phd_related, journal
-addendum: '{\textbf{22\% contribution, IF 3.634 (Q1 in Robotics), citations: 53
-  in WoS}}'
+addendum: '{\textbf{contribution: 22\%, citations: 82 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/saska-m.-2016-system-for-deployment-of-groups-of-unmanned-micro-aerial-vehicles-in-gps-denied-environments-using-onboard-visual-relative-localization.pdf
