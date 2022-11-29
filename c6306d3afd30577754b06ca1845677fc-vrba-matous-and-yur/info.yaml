@@ -21,7 +21,9 @@ journal: 'Robotics and Autonomous Systems'
 ref: vrba2020autonomous
 time-added: 2020-11-21-17:30:34
 title: '{Autonomous Capture of Agile Flying Objects Using UAVs: The MBZIRC 2020 Challenge}'
-type: article
-year: '2020'
+type: article,
+year = '2022',
+volume = '149',
+month = 'Mar',
 keywords: mine, phd_related, journal, mbzirc, submitted
-addendum: '{\textbf{20\% contribution}}'
+addendum: '{\textbf{contribution: 20\%, citations: 2 in WoS}}'
