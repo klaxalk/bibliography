@@ -1,0 +1,23 @@
+author: Real, Fran and Torres-Gonzalez, Arturo and Ramon-Soria, Pablo and Capitan,
+  Jesus and Ollero, Anibal
+author_list:
+- family: Real
+  given: Fran
+- family: Torres-Gonzalez
+  given: Arturo
+- family: Ramon-Soria
+  given: Pablo
+- family: Capitan
+  given: Jesus
+- family: Ollero
+  given: Anibal
+journal: International Journal of Advanced Robotic Systems
+number: '4'
+pages: '1729881420925011'
+publisher: 'SAGE Publications Sage UK: London, England'
+ref: real2020unmanned
+time-added: 2022-12-15-18:59:12
+title: '{Unmanned aerial vehicle abstraction layer: An abstraction layer to operate unmanned aerial vehicles}'
+type: article
+volume: '17'
+year: '2020'
