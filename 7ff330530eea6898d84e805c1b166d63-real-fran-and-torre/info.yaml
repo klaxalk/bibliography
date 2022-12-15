@@ -11,13 +11,16 @@ author_list:
   given: Jesus
 - family: Ollero
   given: Anibal
+files:
+- /home/klaxalk/Dropbox/papers/real-fran-2020-unmanned-aerial-vehicle-abstraction-layer-an-abstraction-layer-to-operate-unmanned-aerial-vehicles.pdf
 journal: International Journal of Advanced Robotic Systems
 number: '4'
 pages: '1729881420925011'
 publisher: 'SAGE Publications Sage UK: London, England'
 ref: real2020unmanned
 time-added: 2022-12-15-18:59:12
-title: '{Unmanned aerial vehicle abstraction layer: An abstraction layer to operate unmanned aerial vehicles}'
+title: '{Unmanned aerial vehicle abstraction layer: An abstraction layer to operate
+  unmanned aerial vehicles}'
 type: article
 volume: '17'
 year: '2020'
