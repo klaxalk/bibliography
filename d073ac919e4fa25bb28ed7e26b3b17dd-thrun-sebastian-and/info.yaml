@@ -4,7 +4,7 @@ author_list:
   given: Sebastian
 - family: Bucken
   given: Arno
-booktitle: Proceedings of the national conference on artificial intelligence
+booktitle: National Conference on Artificial Intelligence
 files:
 - /home/klaxalk/Dropbox/papers/thrun-seb-1996-integrating-grid-based-and-topological-maps-for-mobile-robot-navigation.pdf
 keywords: mapping, gacr
