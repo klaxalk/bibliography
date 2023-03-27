@@ -1,0 +1,13 @@
+author: Shi, Weijing and Rajkumar, Raj
+author_list:
+- family: Shi
+  given: Weijing
+- family: Rajkumar
+  given: Raj
+booktitle: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+pages: 1711--1719
+ref: shi2020point
+time-added: 2023-03-27-14:02:57
+title: '{Point-GNN: Graph neural network for 3D object detection in a point cloud}'
+type: inproceedings
+year: '2020'
