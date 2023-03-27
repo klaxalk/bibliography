@@ -4,7 +4,7 @@ author_list:
   given: Weijing
 - family: Rajkumar
   given: Raj
-booktitle: '{IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}'
+booktitle: '{2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}'
 pages: 1711--1719
 ref: shi2020point
 time-added: 2023-03-27-14:02:57
