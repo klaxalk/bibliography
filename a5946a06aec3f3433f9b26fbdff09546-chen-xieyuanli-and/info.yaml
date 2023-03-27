@@ -1,4 +1,5 @@
-author: Chen, Xieyuanli and Milioto, Andres and Palazzolo, Emanuele and Giguère, Philippe
+ref: chen2019SSLAM
+author: Chen, Xieyuanli and Milioto, Andres and Palazzolo, Emanuele and Giguere, Philippe
   and Behley, Jens and Stachniss, Cyrill
 author_list:
 - family: Chen
@@ -7,17 +8,16 @@ author_list:
   given: Andres
 - family: Palazzolo
   given: Emanuele
-- family: Giguère
+- family: Giguere
   given: Philippe
 - family: Behley
   given: Jens
 - family: Stachniss
   given: Cyrill
-booktitle: '{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}'
+booktitle: '{2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}'
 doi: 10.1109/IROS40897.2019.8967704
 keywords: gacr, slam
 pages: 4530--4537
-ref: chen2019SSLAM
 time-added: 2022-04-01-10:22:45
 title: '{SuMa++: Efficient LiDAR-based Semantic SLAM}'
 type: inproceedings
