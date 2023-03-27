@@ -1,0 +1,22 @@
+author: Liu, Leyuan and He, Jian and Ren, Keyan and Xiao, Zhonghua and Hou, Yibin
+author_list:
+- family: Liu
+  given: Leyuan
+- family: He
+  given: Jian
+- family: Ren
+  given: Keyan
+- family: Xiao
+  given: Zhonghua
+- family: Hou
+  given: Yibin
+journal: Information
+number: '4'
+pages: '169'
+publisher: MDPI
+ref: liu2022lidar
+time-added: 2023-03-27-14:06:01
+title: '{A LiDAR--Camera Fusion 3D Object Detection Algorithm}'
+type: article
+volume: '13'
+year: '2022'
