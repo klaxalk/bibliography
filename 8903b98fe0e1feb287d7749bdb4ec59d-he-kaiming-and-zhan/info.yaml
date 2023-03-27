@@ -8,7 +8,7 @@ author_list:
   given: Shaoqing
 - family: Sun
   given: Jian
-booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+booktitle: '{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}'
 pages: 770--778
 ref: he2016deep
 time-added: 2023-03-27-14:04:05

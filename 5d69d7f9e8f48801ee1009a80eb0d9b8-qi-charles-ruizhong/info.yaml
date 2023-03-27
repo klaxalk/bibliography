@@ -8,7 +8,7 @@ author_list:
   given: Hao
 - family: Guibas
   given: Leonidas J
-journal: Advances in neural information processing systems
+journal: '{Advances in Neural Information Processing Systems}'
 ref: qi2017pointnetpp
 time-added: 2023-03-27-14:01:56
 title: '{Pointnet++: Deep hierarchical feature learning on point sets in a metric
