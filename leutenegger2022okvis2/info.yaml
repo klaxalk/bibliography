@@ -5,7 +5,7 @@ author_list:
   given: Stefan
 files:
 - /home/klaxalk/Dropbox/papers/leutenegge-2022-okvis2-realtime-scalable-visual-inertial-slam-with-loop-closure.pdf
-journal: arXiv preprint arXiv:2202.09199
+journal: 'arXiv preprint arXiv: 2202.09199'
 keywords: gacr, slam
 time-added: 2022-03-24-11:23:47
 title: '{OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure}'
