@@ -1,3 +1,4 @@
+ref: qi2017pointnetpp
 author: Qi, Charles Ruizhongtai and Yi, Li and Su, Hao and Guibas, Leonidas J
 author_list:
 - family: Qi
@@ -9,7 +10,6 @@ author_list:
 - family: Guibas
   given: Leonidas J
 journal: '{Advances in Neural Information Processing Systems}'
-ref: qi2017pointnetpp
 time-added: 2023-03-27-14:01:56
 title: '{Pointnet++: Deep hierarchical feature learning on point sets in a metric
   space}'

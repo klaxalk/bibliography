@@ -1,3 +1,4 @@
+ref: shi2020point
 author: Shi, Weijing and Rajkumar, Raj
 author_list:
 - family: Shi
@@ -6,7 +7,6 @@ author_list:
   given: Raj
 booktitle: '{2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}'
 pages: 1711--1719
-ref: shi2020point
 time-added: 2023-03-27-14:02:57
 title: '{Point-GNN: Graph neural network for 3D object detection in a point cloud}'
 type: inproceedings
