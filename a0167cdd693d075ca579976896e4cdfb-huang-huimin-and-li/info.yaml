@@ -1,0 +1,29 @@
+author: Huang, Huimin and Lin, Lanfen and Tong, Ruofeng and Hu, Hongjie and Zhang,
+  Qiaowei and Iwamoto, Yutaro and Han, Xianhua and Chen, Yen-Wei and Wu, Jian
+author_list:
+- family: Huang
+  given: Huimin
+- family: Lin
+  given: Lanfen
+- family: Tong
+  given: Ruofeng
+- family: Hu
+  given: Hongjie
+- family: Zhang
+  given: Qiaowei
+- family: Iwamoto
+  given: Yutaro
+- family: Han
+  given: Xianhua
+- family: Chen
+  given: Yen-Wei
+- family: Wu
+  given: Jian
+booktitle: '{2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}'
+organization: IEEE
+pages: 1055--1059
+ref: huang2020unet
+time-added: 2023-03-27-14:42:44
+title: '{Unet 3+: A full-scale connected unet for medical image segmentation}'
+type: inproceedings
+year: '2020'
