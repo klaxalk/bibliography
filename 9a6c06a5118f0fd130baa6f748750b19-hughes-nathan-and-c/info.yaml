@@ -1,0 +1,15 @@
+author: Hughes, Nathan and Chang, Yun and Carlone, Luca
+author_list:
+- family: Hughes
+  given: Nathan
+- family: Chang
+  given: Yun
+- family: Carlone
+  given: Luca
+journal: 'arXiv preprint arXiv: 2201.13360'
+ref: hughes2022hydra
+time-added: 2023-03-28-15:18:09
+title: '{Hydra: A Real-time Spatial Perception Engine For 3D Scene Graph Construction
+  and Optimization}'
+type: article
+year: '2022'
