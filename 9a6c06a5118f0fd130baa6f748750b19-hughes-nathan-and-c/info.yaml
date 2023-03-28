@@ -6,6 +6,8 @@ author_list:
   given: Yun
 - family: Carlone
   given: Luca
+files:
+- /home/klaxalk/Dropbox/papers/hughes-na-2022-hydra-a-real-time-spatial-perception-engine-for-3d-scene-graph-construction-and-optimization.pdf
 journal: 'arXiv preprint arXiv: 2201.13360'
 ref: hughes2022hydra
 time-added: 2023-03-28-15:18:09
