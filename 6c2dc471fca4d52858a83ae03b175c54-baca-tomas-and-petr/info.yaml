@@ -16,7 +16,7 @@ author_list:
 - family: Saska
   given: Martin
 month: '05'
-journal: '{Journal of Intelligent {\&} Robotic Systems}'
+journal: '{Journal of Intelligent \& Robotic Systems}'
 ref: baca2021mrs
 publisher: 'Springer'
 time-added: 2020-09-29-15:57:33
