@@ -13,7 +13,7 @@ author_list:
   given: Sanja
 booktitle: '{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}'
 keywords: gacr, slam
-month: June
+month: '06'
 ref: chu2018surfconf
 time-added: 2022-04-01-10:28:47
 title: '{{SurfConv}: Bridging 3D and 2D Convolution for RGBD Images}'
