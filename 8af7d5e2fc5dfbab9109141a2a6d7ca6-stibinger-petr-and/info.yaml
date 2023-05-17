@@ -24,14 +24,16 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-eprint: '2011.07972'
 files:
 - /home/klaxalk/Dropbox/papers/stibinger-2020-mobile-manipulator-for-autonomous-localization-grasping-and-precise-placement-of-construction-material-in-a-semi-structured-environm.pdf
 journal: Submitted to Robotics and Automation Letters
-ref: stibinger2020mobile
+ref: stibinger2021mobile
 time-added: 2020-11-18-12:49:24
 title: '{Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement
   of Construction Material in a Semi-structured Environment}'
 type: article
-url: http://arxiv.org/abs/2011.07972
-year: '2020'
+year: '2021'
+volume: '6'
+number: '2'
+pages: '2595--2602'
+month: '04'
