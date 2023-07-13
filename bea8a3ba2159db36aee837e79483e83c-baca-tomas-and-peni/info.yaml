@@ -1,17 +1,18 @@
+addendum: '{\textbf{contribution: 25\%}}'
 author: Baca, Tomas and Penicka, Robert Stepan, Petr and Petrlik, Matej and Spurny,
   Vojtech and Hert, Daniel and Saska, Martin
+files:
+- /home/klaxalk/Dropbox/papers/baca-toma-2020-autonomous-cooperative-wall-building-by-a-team-of-unmanned-aerial-vehicles-in-the-mbzirc-2020-competition.pdf
+- /home/klaxalk/Dropbox/papers/baca-toma-2023-autonomous-cooperative-wall-building-by-a-team-of-unmanned-aerial-vehicles-in-the-mbzirc-2020-competition-a.pdf
 journal: '{Robotics and Autonomous Systems}'
-volume: '167'
+keywords: mine, phd_related, mbzirc, journal, core
+month: 09
 pages: '104482'
-month: '09'
 ref: baca2023autonomous
 time-added: 2020-11-21-17:41:03
 title: '{Autonomous Cooperative Wall Building by a Team of Unmanned Aerial Vehicles
   in the MBZIRC 2020 Competition}'
 type: article
 url: https://www.sciencedirect.com/science/article/pii/S0921889023001215
+volume: '167'
 year: '2023'
-keywords: mine, phd_related, mbzirc, journal, core
-addendum: '{\textbf{contribution: 25\%}}'
-files:
-- /home/klaxalk/Dropbox/papers/baca-toma-2020-autonomous-cooperative-wall-building-by-a-team-of-unmanned-aerial-vehicles-in-the-mbzirc-2020-competition.pdf
