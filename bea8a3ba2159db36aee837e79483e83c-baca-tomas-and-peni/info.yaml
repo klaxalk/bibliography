@@ -1,8 +1,8 @@
-archiveprefix: arXiv
 author: Baca, Tomas and Penicka, Robert Stepan, Petr and Petrlik, Matej and Spurny,
   Vojtech and Hert, Daniel and Saska, Martin
-eprint: 'arXiv: 2012.05946'
 journal: '{Robotics and Autonomous Systems}'
+volume: '167'
+pages: '104482'
 month: '12'
 primaryclass: cs.RO
 ref: baca2020autonomous
@@ -10,8 +10,8 @@ time-added: 2020-11-21-17:41:03
 title: '{Autonomous Cooperative Wall Building by a Team of Unmanned Aerial Vehicles
   in the MBZIRC 2020 Competition}'
 type: article
-url: http://arxiv.org/abs/2012.05946
-year: '2020'
+url: https://www.sciencedirect.com/science/article/pii/S0921889023001215
+year: '2023'
 keywords: mine, phd_related, mbzirc, submitted, journal, core
 addendum: '{\textbf{contribution: 25\%}}'
 files:
