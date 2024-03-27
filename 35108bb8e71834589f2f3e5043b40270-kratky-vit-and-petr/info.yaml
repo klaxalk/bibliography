@@ -14,9 +14,11 @@ files:
 journal: Journal of Field Robotics
 keywords: mine, phd_related, journal
 month: '05'
-pages: 1--24
+pages: '1036-1058'
 ref: kratky2021autonomous2
 time-added: 2020-10-30-14:01:36
 title: '{An Autonomous Unmanned Aerial Vehicle System for Fast Exploration of Large Complex Indoor Environments}'
 type: article
 year: 2021
+volume: '38'
+number: '8'
