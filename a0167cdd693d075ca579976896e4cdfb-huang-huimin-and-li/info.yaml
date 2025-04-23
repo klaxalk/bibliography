@@ -19,9 +19,11 @@ author_list:
   given: Yen-Wei
 - family: Wu
   given: Jian
-booktitle: '{2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}'
+booktitle: '{2020 IEEE International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP)}'
 organization: IEEE
 pages: 1055--1059
+papis_id: b51be75e25788753b7dbc883ce93218f
 ref: huang2020unet
 time-added: 2023-03-27-14:42:44
 title: '{Unet 3+: A full-scale connected unet for medical image segmentation}'

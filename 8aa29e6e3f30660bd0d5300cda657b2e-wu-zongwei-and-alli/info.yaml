@@ -12,9 +12,10 @@ author_list:
 booktitle: '{Asian Conference on Computer Vision (ACCV)}'
 keywords: gacr, slam
 month: '11'
+pages: 388-404
+papis_id: d6fd62288468bd9861fe7c6e75b9b3ea
 ref: wu2020zacn
 time-added: 2022-04-01-10:27:34
 title: '{Depth-Adapted CNN for RGB-D cameras}'
 type: inproceedings
 year: '2020'
-pages: '388-404'

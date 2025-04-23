@@ -1,9 +1,10 @@
 author: Zhang, Yelin and Wang, Yangzhu and Han, Zhen
 booktitle: Chinese Guidance, Navigation and Control Conference (CGNCC)
+keywords: uav
 organization: IEEE
 pages: 988--992
+papis_id: 18ec9f3847e24a9a2e0073f32a2cbceb
 ref: zhang2016vision
-title: "{Vision-aided navigation for fixed-wing UAV's autonomous landing}"
+title: '{Vision-aided navigation for fixed-wing UAV''s autonomous landing}'
 type: inproceedings
 year: '2016'
-keywords: uav

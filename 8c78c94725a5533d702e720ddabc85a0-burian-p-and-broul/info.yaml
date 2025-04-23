@@ -1,12 +1,12 @@
-author: Burian, P and Broulim, P and Jara, M and Georgiev, V and Bergmann,
-  B
+author: Burian, P and Broulim, P and Jara, M and Georgiev, V and Bergmann, B
 journal: Journal of Instrumentation
+keywords: timepix
 number: '11'
 pages: C11001
+papis_id: 12d84a381fcb7b7144618c1b9d30e9d9
 publisher: IOP Publishing
 ref: burian2017katherine
-title: "{Katherine: ethernet embedded readout interface for Timepix3}"
+title: '{Katherine: ethernet embedded readout interface for Timepix3}'
 type: article
 volume: '12'
 year: '2017'
-keywords: timepix

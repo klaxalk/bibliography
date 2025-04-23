@@ -1,13 +1,18 @@
-author: Granja, Carlos and Jakubek, Jan and Polansky, Stepan and Zach, Vaclav and Krist, Pavel and Chvatil, David and Stursa, Jan and Sommer, Marek and Ploc, Ondrej and Kodaira, Satoshi and others
+author: Granja, Carlos and Jakubek, Jan and Polansky, Stepan and Zach, Vaclav and
+  Krist, Pavel and Chvatil, David and Stursa, Jan and Sommer, Marek and Ploc, Ondrej
+  and Kodaira, Satoshi and others
 files:
 - /home/klaxalk/Dropbox/papers/granja-c.-2018-resolving-power-of-pixel-detector-timepix-for-wide-range-electron-proton-and-ion-detection.pdf
-journal: '{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}'
+journal: '{Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment}'
 keywords: timepix
 number: '1'
 pages: 60--71
+papis_id: 99bf2edaa52765a5ac7b53aea3345186
 publisher: Elsevier
 ref: granja2018resolving
-title: '{Resolving power of pixel detector Timepix for wide-range electron, proton and ion detection}'
+title: '{Resolving power of pixel detector Timepix for wide-range electron, proton
+  and ion detection}'
 type: article
 volume: '908'
 year: '2018'

@@ -1,13 +1,13 @@
 author: Merino, Luis and Wiklund, Johan and Caballero, Fernando and Moe, Anders and
-  De Dios, Jose Ramiro Martinez and Forssen, P-E and Nordberg, Klas and Ollero,
-  Anibal
+  De Dios, Jose Ramiro Martinez and Forssen, P-E and Nordberg, Klas and Ollero, Anibal
 journal: IEEE Robotics \& Automation Magazine
+keywords: uav, multirobot
 number: '3'
 pages: 53--62
+papis_id: f6f6dea358fd36e2f109258be8b1a996
 publisher: IEEE
 ref: merino2006vision
 title: '{Vision-based multi-UAV position estimation}'
 type: article
 volume: '13'
 year: '2006'
-keywords: uav, multirobot

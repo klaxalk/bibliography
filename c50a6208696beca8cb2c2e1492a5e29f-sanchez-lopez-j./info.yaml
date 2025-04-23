@@ -1,24 +1,26 @@
-author: 'Sanchez-Lopez, J. L. and Suarez Fernandez, R. A. and Bavle, H. and
-  Sampedro, C. and Molina, M. and Pestana, J. and Campoy, P.'
+author: Sanchez-Lopez, J. L. and Suarez Fernandez, R. A. and Bavle, H. and Sampedro,
+  C. and Molina, M. and Pestana, J. and Campoy, P.
 author_list:
-- family: 'Sanchez-Lopez'
+- family: Sanchez-Lopez
   given: J. L.
-- family: 'Suarez Fernandez'
+- family: Suarez Fernandez
   given: R. A.
-- family: 'Bavle'
+- family: Bavle
   given: H.
-- family: 'Sampedro'
+- family: Sampedro
   given: C.
-- family: 'Molina'
+- family: Molina
   given: M.
-- family: 'Pestana'
+- family: Pestana
   given: J.
-- family: 'Campoy'
+- family: Campoy
   given: P.
 booktitle: 2016 IEEE International Conference on Unmanned Aircraft Systems
 pages: 332-341
-ref: 'sanchez2016aerostack'
+papis_id: 03ac914f6f91ec1325064a91cb507a40
+ref: sanchez2016aerostack
 time-added: 2020-08-09-18:49:45
-title: '{AEROSTACK: An architecture and open-source software framework for aerial robotics}'
+title: '{AEROSTACK: An architecture and open-source software framework for aerial
+  robotics}'
 type: inproceedings
 year: '2016'

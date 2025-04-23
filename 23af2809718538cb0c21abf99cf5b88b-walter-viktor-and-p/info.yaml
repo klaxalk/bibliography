@@ -13,12 +13,13 @@ author_list:
   given: Luybomyr
 - family: Saska
   given: Martin
+journal: Field Robotics
 keywords: mine, phd_related, journal, mbzirc
-journal: "Field Robotics"
+pages: 406--436
+papis_id: 50f1467e4de7454ce0c7ee94a9b3005a
 ref: walter2021extinguishing
 time-added: 2021-01-20-10:20:19
 title: '{Extinguishing Real Fires by Fully Autonomous MAVs in the MBZIRC 2020 Competition}'
 type: article
-year: '2022'
-pages: '406--436'
 volume: '2'
+year: '2022'

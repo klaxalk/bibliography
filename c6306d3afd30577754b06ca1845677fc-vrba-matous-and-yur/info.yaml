@@ -1,3 +1,4 @@
+addendum: '{\textbf{contribution: 20\%, citations: 2 in WoS}}'
 author: Vrba, Matous and Yurii, Stasinchuk and Baca, Tomas and Spurny, Vojtech and
   Petrlik, Matej and Hert, Daniel and Zaitlik, David and Saska, Martin
 author_list:
@@ -17,13 +18,13 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-journal: 'Robotics and Autonomous Systems'
+journal: Robotics and Autonomous Systems
+keywords: mine, phd_related, journal, mbzirc, submitted
+month: '03'
+papis_id: 4f67328561c38676963caf0642a543cd
 ref: vrba2022autonomous
 time-added: 2020-11-21-17:30:34
 title: '{Autonomous Capture of Agile Flying Objects Using UAVs: The MBZIRC 2020 Challenge}'
 type: article
-year: '2022'
 volume: '149'
-month: '03'
-keywords: mine, phd_related, journal, mbzirc, submitted
-addendum: '{\textbf{contribution: 20\%, citations: 2 in WoS}}'
+year: '2022'

@@ -1,4 +1,3 @@
-ref: krajnik2010simple
 author: Krajnik, Tomas and Faigl, Jan and Vonasek, Vojtech and Kosnar, Karel and Kulich,
   Miroslav and Preucil, Libor
 author_list:
@@ -20,7 +19,9 @@ journal: Journal of Field Robotics
 keywords: slam, gacr
 number: '5'
 pages: 511--533
+papis_id: 642a16d8babb2214422ebf5c28565271
 publisher: Wiley Online Library
+ref: krajnik2010simple
 time-added: 2022-03-14-16:02:34
 title: Simple yet stable bearing-only navigation
 type: article

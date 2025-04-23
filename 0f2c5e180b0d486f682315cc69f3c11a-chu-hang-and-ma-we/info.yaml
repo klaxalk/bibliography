@@ -14,9 +14,10 @@ author_list:
 booktitle: '{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}'
 keywords: gacr, slam
 month: '06'
+pages: 3002-3011
+papis_id: dc26b7b831ee6f751846394c05b5fc77
 ref: chu2018surfconf
 time-added: 2022-04-01-10:28:47
 title: '{{SurfConv}: Bridging 3D and 2D Convolution for RGBD Images}'
 type: inproceedings
 year: '2018'
-pages: '3002-3011'

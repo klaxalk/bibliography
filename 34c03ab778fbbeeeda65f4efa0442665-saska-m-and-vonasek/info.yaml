@@ -1,13 +1,15 @@
+addendum: '{\textbf{contribution: 25\%, citations: 0 in WoS}}'
 address: Piscataway
 author: Saska, M. and Vonasek, V. and Baca, T. and Preucil, L.
-booktitle: '2013 IEEE/RSJ International Conference on Intelligent Robots and Systems'
-language: English
-publisher: IEEE
-ref: saska2013adhoc
-title: '{Ad-hoc Heterogeneous (MAV-UGV) Formations Stabilized Under a Top-View Relative Localization}'
-type: inproceedings
-year: '2013'
-keywords: mine, conference, core_a
-addendum: '{\textbf{contribution: 25\%, citations: 0 in WoS}}'
+booktitle: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
 files:
 - /home/klaxalk/Dropbox/papers/saska-m.-2013-ad-hoc-heterogeneous-mav-ugv-formations-stabilized-under-a-top-view-relative-localization.pdf
+keywords: mine, conference, core_a
+language: English
+papis_id: bf98df67c18ca1d880246a5790a38293
+publisher: IEEE
+ref: saska2013adhoc
+title: '{Ad-hoc Heterogeneous (MAV-UGV) Formations Stabilized Under a Top-View Relative
+  Localization}'
+type: inproceedings
+year: '2013'

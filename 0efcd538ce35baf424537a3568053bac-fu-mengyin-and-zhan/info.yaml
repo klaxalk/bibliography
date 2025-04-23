@@ -1,9 +1,10 @@
 author: Fu, Mengyin and Zhang, Kuan and Yi, Yang and Shi, Chao
 booktitle: International Conference on Mechatronics and Automation (ICMA)
+keywords: uav, control
 organization: IEEE
 pages: 988--993
+papis_id: d178258ec06a76e2bb26f5e783e011ce
 ref: fu2016autonomous
 title: '{Autonomous landing of a quadrotor on an UGV}'
 type: inproceedings
 year: '2016'
-keywords: uav, control

@@ -11,6 +11,7 @@ author_list:
   given: Roland
 booktitle: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems
 month: Sept
+papis_id: c226b7f6f05ee7c5bb89875093a909e6
 ref: burri2015realtime
 time-added: 2021-01-04-18:17:35
 title: '{Real-Time Visual-Inertial Mapping, Re-localization and Planning Onboard MAVs

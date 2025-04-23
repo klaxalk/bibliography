@@ -6,11 +6,13 @@ author_list:
   given: Yun
 - family: Carlone
   given: Luca
+booktitle: 'Robotics: Science and Systems (RSS)'
 files:
 - /home/klaxalk/Dropbox/papers/hughes-na-2022-hydra-a-real-time-spatial-perception-engine-for-3d-scene-graph-construction-and-optimization.pdf
-booktitle: 'Robotics: Science and Systems (RSS)'
+papis_id: 9358f32120a5f1b3be9c6ea96ba9d71c
 ref: hughes2022hydra
 time-added: 2023-03-28-15:18:09
-title: '{Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization}'
+title: '{Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction
+  and Optimization}'
 type: inproceedings
 year: '2022'

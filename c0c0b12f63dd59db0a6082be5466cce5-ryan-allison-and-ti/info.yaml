@@ -1,10 +1,11 @@
 author: Ryan, Allison and Tisdale, John and Godwin, Mark and Coatta, Daniel and Nguyen,
   David and Spry, Stephen and Sengupta, Raja and Hedrick, J Karl
 booktitle: American Control Conference (ACC)
+keywords: uav, sensing, control
 organization: IEEE
 pages: 4672--4677
+papis_id: 5dfec803f9c5de6fa60d5b4bdef502ed
 ref: ryan2007decentralized
-title: 'Decentralized control of unmanned aerial vehicle collaborative sensing missions'
+title: Decentralized control of unmanned aerial vehicle collaborative sensing missions
 type: inproceedings
 year: '2007'
-keywords: uav, sensing, control

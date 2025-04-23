@@ -1,4 +1,3 @@
-ref: khan2021comparative
 author: Khan, Misha Urooj and Zaidi, Syed Azhar Ali and Ishtiaq, Arslan and Bukhari,
   Syeda Ume Rubab and Samer, Sana and Farman, Ayesha
 author_list:
@@ -21,6 +20,8 @@ files:
 keywords: slam, review, gacr
 organization: IEEE
 pages: 1--8
+papis_id: df804ca8dbae4106556e2f4c74866423
+ref: khan2021comparative
 time-added: 2022-03-14-10:51:46
 title: '{A comparative survey of lidar-SLAM and lidar based sensor technologies}'
 type: inproceedings

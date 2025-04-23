@@ -1,8 +1,10 @@
 author: Maza, Ivan and Caballero, Fernando and Capitan, Jesus and Martinez-de-Dios,
   Jose Ramiro and Ollero, Anibal
 journal: Journal of Field Robotics
+keywords: uav
 number: '3'
 pages: 303--328
+papis_id: fc786d340216776a674663e8351c5caa
 publisher: Wiley Online Library
 ref: maza2011distributed
 title: A distributed architecture for a robotic platform with aerial sensor transportation
@@ -10,4 +12,3 @@ title: A distributed architecture for a robotic platform with aerial sensor tran
 type: article
 volume: '28'
 year: '2011'
-keywords: uav

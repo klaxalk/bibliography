@@ -18,12 +18,13 @@ author_list:
   given: Martin
 - family: Jakubek
   given: Jan
-booktitle: '2021 International Conference on Unmanned Aircraft Systems (ICUAS)'
+booktitle: 2021 International Conference on Unmanned Aircraft Systems (ICUAS)
 files:
 - /home/klaxalk/Dropbox/papers/baca-toma-2020-gamma-radiation-source-localization-for-micro-aerial-vehicles-with-a-miniature-single-detector-compton-event-camera.pdf
 keywords: mine, phd_related, conference
 organization: IEEE
 pages: 1--9
+papis_id: 1c3177e95bc5791b37c3f5c464cb74cb
 ref: baca2021gamma
 time-added: 2020-11-06-15:08:32
 title: '{Gamma Radiation Source Localization for Micro Aerial Vehicles with a Miniature

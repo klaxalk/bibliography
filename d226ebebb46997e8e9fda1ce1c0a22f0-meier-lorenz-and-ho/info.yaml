@@ -1,11 +1,12 @@
 author: Meier, Lorenz and Honegger, Dominik and Pollefeys, Marc
-booktitle: '2015 IEEE International Conference on Robotics and Automation'
+booktitle: 2015 IEEE International Conference on Robotics and Automation
 files: []
+keywords: control
 organization: IEEE
 pages: 6235--6240
+papis_id: a93489f23f3bbf225a6611fa335d0ddc
 ref: meier2015px4
 title: '{PX4: A node-based multithreaded open source robotics framework for deeply
   embedded platforms}'
 type: inproceedings
 year: '2015'
-keywords: control

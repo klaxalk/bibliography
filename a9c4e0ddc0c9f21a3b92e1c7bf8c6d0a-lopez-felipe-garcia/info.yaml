@@ -2,10 +2,11 @@ author: Lopez, Felipe Garcia and Abbenseth, Jannik and Henkel, Christian and Dor
   Stefan
 booktitle: '{IEEE European Conference on Mobile Robots (ECMR)}'
 files: []
+keywords: control
 organization: IEEE
+papis_id: 480a141506efec78ab9ccc845eeb0834
 ref: lopez2017avoidance
 title: '{A predictive online path planning and optimization approach for cooperative
   mobile service robot navigation in industrial applications}'
 type: inproceedings
 year: '2017'
-keywords: control

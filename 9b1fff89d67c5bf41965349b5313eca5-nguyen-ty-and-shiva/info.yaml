@@ -1,6 +1,6 @@
-author: 'Nguyen, Ty and Shivakumar, Shreyas S and Miller, Ian D and Keller, James
-  and Lee, Elijah S and Zhou, Alex and Ozaslan, Tolga and Loianno, Giuseppe and Harwood,
-  Joseph H and Wozencraft, Jennifer and others'
+author: Nguyen, Ty and Shivakumar, Shreyas S and Miller, Ian D and Keller, James and
+  Lee, Elijah S and Zhou, Alex and Ozaslan, Tolga and Loianno, Giuseppe and Harwood,
+  Joseph H and Wozencraft, Jennifer and others
 author_list:
 - family: Nguyen
   given: Ty
@@ -27,6 +27,7 @@ author_list:
 journal: IEEE Robotics and Automation Letters
 number: '4'
 pages: 3908--3915
+papis_id: dbe02746ce17b3611b5a7b85373370ec
 publisher: IEEE
 ref: nguyen2019mavnet
 time-added: 2023-03-27-14:43:47

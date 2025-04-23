@@ -1,16 +1,19 @@
+addendum: '{\textbf{contribution: 10\% (the first 7 authors contributed equally),
+  citations: 43 in WoS}}'
 author: Loianno, Giuseppe and Spurny, Vojtech and Thomas, Justin and Baca, Tomas and
   Thakur, Dinesh and Hert, Daniel and Penicka, Robert and Krajnik, Tomas and Zhou,
   Alex and Cho, Adam and Saska, Martin and Kumar, Vijay
-journal: 'IEEE Robotics and Automation Letters'
+files:
+- /home/klaxalk/Dropbox/papers/loianno-g-2018-localization-grasping-and-transportation-of-magnetic-objects-by-a-team-of-mavs-in-challenging-desert-like-environments.pdf
+journal: IEEE Robotics and Automation Letters
+keywords: mine, phd_related, journal
 number: '3'
 pages: 1576--1583
+papis_id: 9d5dd5917804c436c3aa21e54da72b84
 publisher: IEEE
 ref: loianno2018localization
-title: '{Localization, Grasping, and Transportation of Magnetic Objects by a team of MAVs in Challenging Desert like Environments}'
+title: '{Localization, Grasping, and Transportation of Magnetic Objects by a team
+  of MAVs in Challenging Desert like Environments}'
 type: article
 volume: '3'
 year: '2018'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{contribution: 10\% (the first 7 authors contributed equally), citations: 43 in WoS}}'
-files:
-- /home/klaxalk/Dropbox/papers/loianno-g-2018-localization-grasping-and-transportation-of-magnetic-objects-by-a-team-of-mavs-in-challenging-desert-like-environments.pdf

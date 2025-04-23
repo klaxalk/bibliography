@@ -1,11 +1,12 @@
 author: Hoang, Tru and Bayasgalan, Enkhmurun and Wang, Ziyin and Tsechpenakis, Gavriil
   and Panagou, Dimitra
 booktitle: American Control Conference (ACC)
+keywords: uav, control, vision
 organization: IEEE
 pages: 5580--5585
+papis_id: 77fd843e95d4cad4ee09725c8c258bf0
 ref: hoang2017vision
 title: '{Vision-based target tracking and autonomous landing of a quadrotor on a ground
   vehicle}'
 type: inproceedings
 year: '2017'
-keywords: uav, control, vision

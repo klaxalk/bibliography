@@ -1,7 +1,11 @@
-author: Pollanen, Roy and Toivonen, Harri and Perajarvi, Kari and Karhunen, Tero and Smolander, Petri and Ilander, Tarja and Rintala, Kimmo and Katajainen, Tuure and Niemela, Jarkko and Juusela, Marko and others
+author: Pollanen, Roy and Toivonen, Harri and Perajarvi, Kari and Karhunen, Tero and
+  Smolander, Petri and Ilander, Tarja and Rintala, Kimmo and Katajainen, Tuure and
+  Niemela, Jarkko and Juusela, Marko and others
 journal: Journal of radioanalytical and nuclear chemistry
+keywords: uav, radiation
 number: '2'
 pages: '433'
+papis_id: 021d719f69493bfee72a10483b84765b
 publisher: Springer
 ref: pollanen2009performance
 title: '{Performance of an air sampler and a gamma-ray detector in a small unmanned
@@ -9,4 +13,3 @@ title: '{Performance of an air sampler and a gamma-ray detector in a small unman
 type: article
 volume: '282'
 year: '2009'
-keywords: uav, radiation

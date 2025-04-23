@@ -1,10 +1,11 @@
-author: Merino, Luis and Caballero, Fernando and Ferruz, Joaquin and Wiklund,
-  Johan and Forssen, Per-Erik and Ollero, Anibal
+author: Merino, Luis and Caballero, Fernando and Ferruz, Joaquin and Wiklund, Johan
+  and Forssen, Per-Erik and Ollero, Anibal
 booktitle: Multiple Heterogeneous Unmanned Aerial Vehicles
+keywords: uav, multirobot
 pages: 67--110
+papis_id: 08c5440bef50c44454e5745363264b67
 publisher: Springer
 ref: merino2007multi
 title: '{Multi-UAV cooperative perception techniques}'
 type: incollection
 year: '2007'
-keywords: uav, multirobot

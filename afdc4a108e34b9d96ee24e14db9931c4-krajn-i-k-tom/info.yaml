@@ -1,12 +1,12 @@
-author: Krajnik, Tomas and Nitsche, Matias and Faigl, Jan and
-  Vanek, Petr and Saska, Martin and Preucil, Libor and Duckett, Tom
-  and Mejail, Marta
+author: Krajnik, Tomas and Nitsche, Matias and Faigl, Jan and Vanek, Petr and Saska,
+  Martin and Preucil, Libor and Duckett, Tom and Mejail, Marta
 doi: 10.1007/s10846-014-0041-x
 issn: 0921-0296
 journal: Journal of Intelligent \& Robotic Systems
+keywords: vision
+papis_id: c85b8f3f46a4118c8d7424d4502de7e9
 publisher: Springer
 ref: krajnik2014practical
 title: '{A Practical Multirobot Localization System}'
 type: article
 year: '2014'
-keywords: vision

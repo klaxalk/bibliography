@@ -1,16 +1,17 @@
-author: 'Bouabdallah, S. and Becker, M. and Siegwart, R.'
+author: Bouabdallah, S. and Becker, M. and Siegwart, R.
 author_list:
-- family: 'Bouabdallah'
+- family: Bouabdallah
   given: S.
-- family: 'Becker'
+- family: Becker
   given: M.
-- family: 'Siegwart'
+- family: Siegwart
   given: R.
 files:
 - /home/klaxalk/Dropbox/papers/bouabdall-2007-autonomous-miniature-flying-robots-coming-soon-research-development-and-results.pdf
 journal: IEEE Robotics \& Automation Magazine
 number: '3'
 pages: 88-98
+papis_id: de7643affa1a484c8be188d41b386b64
 ref: '4337970'
 time-added: 2020-08-13-09:50:07
 title: '{Autonomous miniature flying robots: coming soon! - Research, Development,

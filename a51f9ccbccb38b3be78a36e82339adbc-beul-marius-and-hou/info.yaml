@@ -1,10 +1,11 @@
 author: Beul, Marius and Houben, Sebastian and Nieuwenhuisen, Matthias and Behnke,
   Sven
 booktitle: '{2017 European Conference on Mobile Robots (ECMR)}'
+keywords: uav, control
 organization: IEEE
 pages: 1--6
+papis_id: 0ef26a7dc8c685487e8132071530a00a
 ref: beul2017fastlanding
 title: '{Fast autonomous landing on a moving target at MBZIRC}'
 type: inproceedings
 year: '2017'
-keywords: uav, control

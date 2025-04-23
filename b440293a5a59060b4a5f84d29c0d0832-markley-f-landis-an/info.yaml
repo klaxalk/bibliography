@@ -4,10 +4,11 @@ author_list:
   given: F Landis
 - family: Crassidis
   given: John L
-title: Fundamentals of Spacecraft Attitude Determination and Control
 pages: 361--364
+papis_id: 854b5d7c86f82186a4906103df8b73de
 publisher: Springer
 ref: markley2014fundamentals
 time-added: 2020-07-27-19:11:10
+title: Fundamentals of Spacecraft Attitude Determination and Control
 type: book
 year: '2014'

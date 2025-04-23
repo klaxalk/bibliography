@@ -7,6 +7,7 @@ files:
 journal: Matrix
 number: 15-16
 pages: 1--35
+papis_id: 97144c61f26705ec9c169eac554db4d4
 ref: diebel2006representing
 time-added: 2020-07-27-19:06:58
 title: '{Representing attitude: Euler angles, unit quaternions, and rotation vectors}'

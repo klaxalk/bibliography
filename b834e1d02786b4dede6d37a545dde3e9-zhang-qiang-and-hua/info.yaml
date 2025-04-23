@@ -17,6 +17,7 @@ doi: 10.1109/TIP.2019.2959253
 journal: IEEE Transactions on Image Processing
 keywords: gacr, slam
 pages: 3321-3335
+papis_id: 8e0f9095919828993352aee5013464ea
 ref: zhang2020rgbt
 time-added: 2022-04-01-10:26:49
 title: '{RGB-T Salient Object Detection via Fusing Multi-Level {CNN} Features}'

@@ -1,8 +1,10 @@
 author: Holy, T. and Heijne, E. and Jakubek, J. and others
 files: []
 journal: Nuclear Instruments and Methods
+keywords: radiation, timepix
 number: '1'
 pages: 287--290
+papis_id: 2feabd3896b269c6bbc384c43322685b
 publisher: Elsevier
 ref: holy2008pattern
 title: '{Pattern recognition of tracks induced by individual quanta of ionizing radiation
@@ -10,4 +12,3 @@ title: '{Pattern recognition of tracks induced by individual quanta of ionizing 
 type: article
 volume: '591'
 year: '2008'
-keywords: radiation, timepix

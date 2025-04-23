@@ -1,3 +1,4 @@
+addendum: '{\textbf{contribution: 20\%, citations: 14 in WoS}}'
 author: Silano, Giuseppe and Baca, Tomas and Penicka, Robert and Liuzza, Davide and
   Saska, Martin
 author_list:
@@ -11,15 +12,16 @@ author_list:
   given: Davide
 - family: Saska
   given: Martin
+keywords: mine, phd_related, journal
+month: '04'
 note: '{IEEE Robotics and Automation Letters}'
+number: '2'
+pages: 4169-4176
+papis_id: 50bfe681e333fd84eaf2d375b00f42c3
 ref: silano2021powerline
 time-added: 2020-11-06-15:38:58
-title: '{Power Line Inspection Tasks with Multi-Aerial Robot Systems via Signal Temporal Logic Specifications}'
+title: '{Power Line Inspection Tasks with Multi-Aerial Robot Systems via Signal Temporal
+  Logic Specifications}'
 type: article
-year: '2021'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{contribution: 20\%, citations: 14 in WoS}}'
-pages: '4169-4176'
 volume: '6'
-number: '2'
-month: '04'
+year: '2021'

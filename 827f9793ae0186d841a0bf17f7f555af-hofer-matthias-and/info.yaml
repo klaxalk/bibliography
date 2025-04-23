@@ -1,10 +1,11 @@
 author: Hofer, Matthias and Muehlebach, Michael and D'Andrea, Raffaello
-booktitle: '2016 IEEE International Conference on Robotics and Automation'
+booktitle: 2016 IEEE International Conference on Robotics and Automation
 files:
 - /home/klaxalk/Dropbox/papers/hofer-mat-2016-application-of-an-approximate-model-predictive-control-scheme-on-an-unmanned-aerial-vehicle.pdf
 keywords: uav, control
 organization: IEEE
 pages: 2952--2957
+papis_id: 9ce7bdbabc1f96cf1e9ce23cb56bb7b5
 ref: hofer2016application
 title: '{Application of an Approximate Model Predictive Control Scheme on an Unmanned
   Aerial Vehicle}'

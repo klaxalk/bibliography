@@ -1,8 +1,10 @@
 author: Mahoor, Mohammad H and Godzdanker, Roy and Dalamagkidis, Konstantinos and
   Valavanis, Kimon P
 journal: Journal of Intelligent \& Robotic Systems
+keywords: uav, control
 number: '1'
 pages: 251--265
+papis_id: 8b8dee423288f573637cf5d432acaa04
 publisher: Springer
 ref: mahoor2011vision
 title: Vision-based landing of light weight unmanned helicopters on a smart landing
@@ -10,4 +12,3 @@ title: Vision-based landing of light weight unmanned helicopters on a smart land
 type: article
 volume: '61'
 year: '2011'
-keywords: uav, control

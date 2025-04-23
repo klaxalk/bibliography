@@ -1,10 +1,11 @@
 author: Mellinger, Daniel and Kumar, Vijay
-booktitle: '2011 IEEE International Conference on Robotics and Automation'
+booktitle: 2011 IEEE International Conference on Robotics and Automation
 files:
 - /home/klaxalk/Dropbox/papers/mellinger-2011-minimum-snap-trajectory-generation-and-control-for-quadrotors.pdf
 keywords: control
 organization: IEEE
 pages: 2520--2525
+papis_id: ba2748ee3b4b859ff98ed3a5d8834897
 ref: mellinger2011minimum
 title: Minimum snap trajectory generation and control for quadrotors
 type: inproceedings

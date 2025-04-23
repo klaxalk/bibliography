@@ -1,9 +1,11 @@
-author: Faical, Bruno S and Costa, Fausto G and Pessin, Gustavo and Ueyama,
-  Jo and Freitas, Heitor and Colombo, Alexandre and Fini, Pedro H and Villas,
-  Leandro and Osorio, Fernando S and Vargas, Patricia A and others
+author: Faical, Bruno S and Costa, Fausto G and Pessin, Gustavo and Ueyama, Jo and
+  Freitas, Heitor and Colombo, Alexandre and Fini, Pedro H and Villas, Leandro and
+  Osorio, Fernando S and Vargas, Patricia A and others
 journal: Journal of Systems Architecture
+keywords: uav, sensing
 number: '4'
 pages: 393--404
+papis_id: ed642923d03b486ca83e60d040c541d4
 publisher: Elsevier
 ref: faiccal2014use
 title: The use of unmanned aerial vehicles and wireless sensor networks for spraying
@@ -11,4 +13,3 @@ title: The use of unmanned aerial vehicles and wireless sensor networks for spra
 type: article
 volume: '60'
 year: '2014'
-keywords: uav, sensing

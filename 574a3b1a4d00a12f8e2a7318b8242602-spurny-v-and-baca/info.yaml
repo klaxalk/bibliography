@@ -1,14 +1,16 @@
+addendum: '{\textbf{contribution: 10\%, citations: 7 in WoS}}'
 author: Spurny, V. and Baca, T. and Saska, M.
 booktitle: '{2016 IEEE International Conference on Methods and Models in Automation
   and Robotics (MMAR)}'
 doi: 10.1109/MMAR.2016.7575274
+files:
+- /home/klaxalk/Dropbox/papers/spurny-v.-2016-complex-manoeuvres-of-heterogeneous-mav-ugv-formations-using-a-model-predictive-control.pdf
+keywords: mine, phd_related, conference
 pages: 998--1003
+papis_id: 56b6222d33c5d34af026f40b61293f2e
 ref: spurny2016complex
+title: '{Complex manoeuvres of heterogeneous MAV-UGV formations using a model predictive
+  control}'
 type: inproceedings
 url: http://ieeexplore.ieee.org/document/7575274/
 year: '2016'
-title: '{Complex manoeuvres of heterogeneous MAV-UGV formations using a model predictive control}'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{contribution: 10\%, citations: 7 in WoS}}'
-files:
-- /home/klaxalk/Dropbox/papers/spurny-v.-2016-complex-manoeuvres-of-heterogeneous-mav-ugv-formations-using-a-model-predictive-control.pdf

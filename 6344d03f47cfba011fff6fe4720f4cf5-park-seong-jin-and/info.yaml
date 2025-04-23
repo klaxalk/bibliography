@@ -9,10 +9,10 @@ author_list:
 booktitle: '{International Conference on Computer Vision (ICCV)}'
 keywords: gacr, slam
 month: '10'
+pages: 4990-4999
+papis_id: d7f7c1db8101ff937609f976d095d3d2
 ref: park2017rdfnet
 time-added: 2022-04-01-10:29:43
-title: '{RDFNet: RGB-D Multi-Level Residual Feature Fusion for Indoor Semantic
-  Segmentation}'
+title: '{RDFNet: RGB-D Multi-Level Residual Feature Fusion for Indoor Semantic Segmentation}'
 type: inproceedings
 year: '2017'
-pages: '4990-4999'

@@ -1,6 +1,6 @@
-author: 'Gehrels, Neil and Chincarini, Guido and Giommi, P and Mason, KO and Nousek,
+author: Gehrels, Neil and Chincarini, Guido and Giommi, P and Mason, KO and Nousek,
   John Andrew and Wells, AA and White, NE and Barthelmy, SD and Burrows, David Nelson
-  and Cominsky, LR and others'
+  and Cominsky, LR and others
 author_list:
 - family: Gehrels
   given: Neil
@@ -27,6 +27,7 @@ author_list:
 journal: The Astrophysical Journal
 number: '2'
 pages: '1005'
+papis_id: dddd33521348561ba4ab7b21caa710e2
 publisher: IOP Publishing
 ref: gehrels2004swift
 time-added: 2020-12-07-16:04:58

@@ -6,14 +6,16 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-booktitle: '2021 International Conference on Unmanned Aircraft Systems (ICUAS)'
+booktitle: 2021 International Conference on Unmanned Aircraft Systems (ICUAS)
 doi: 10.1109/ICUAS51884.2021.9476789
+keywords: mine, phd_related, conference
 month: '06'
 organization: IEEE
 pages: 1139--1147
+papis_id: 4612e0b0ae8a86c1e470e12800002689
 ref: horyna2021autonomous
 time-added: 2021-08-24-15:47:26
-title: '{Autonomous Collaborative Transport of a Beam-Type Payload by a Pair of Multi-rotor Helicopters}'
+title: '{Autonomous Collaborative Transport of a Beam-Type Payload by a Pair of Multi-rotor
+  Helicopters}'
 type: inproceedings
 year: '2021'
-keywords: mine, phd_related, conference

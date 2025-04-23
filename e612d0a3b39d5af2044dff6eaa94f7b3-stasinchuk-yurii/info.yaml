@@ -1,6 +1,7 @@
-author: 'Stasinchuk, Yurii and Vrba, Matous and Petrlik, Matej and Baca, Tomas and
-  Spurny, Vojtech and Hert, Daniel and Zaitlik, David and Nascimento, Tiago and
-  Saska, Martin'
+addendum: '{\textbf{contribution: 30\%, citations: 2 in WoS}}'
+author: Stasinchuk, Yurii and Vrba, Matous and Petrlik, Matej and Baca, Tomas and
+  Spurny, Vojtech and Hert, Daniel and Zaitlik, David and Nascimento, Tiago and Saska,
+  Martin
 author_list:
 - family: Stasinchuk
   given: Yurii
@@ -20,13 +21,13 @@ author_list:
   given: Tiago
 - family: Saska.
   given: Martin
-booktitle: '2021 IEEE International Conference on Robotics and Automation (ICRA)'
+booktitle: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+keywords: mine, journal, impacted, phd_related
 month: '06'
+pages: 555-561
+papis_id: 0fb9b179db97aea711a47e15d03c1325
 ref: stasinchuk2021multi2
 time-added: 2021-08-24-14:45:53
 title: '{A Multi-UAV System for Detection and Elimination of Multiple Targets}'
 type: inproceedings
 year: '2021'
-keywords: mine, journal, impacted, phd_related
-addendum: '{\textbf{contribution: 30\%, citations: 2 in WoS}}'
-pages: '555-561'

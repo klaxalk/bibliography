@@ -1,11 +1,12 @@
 author: Hehn, Markus and D’Andrea, Raffaello
 journal: IEEE Transactions on Robotics
+keywords: uav, planning
 number: '4'
 pages: 877--892
+papis_id: b3eadd1ce07d031091d35cb771203c7d
 publisher: IEEE
 ref: hehn2015real
 title: Real-time trajectory generation for quadrocopters
 type: article
 volume: '31'
 year: '2015'
-keywords: uav, planning

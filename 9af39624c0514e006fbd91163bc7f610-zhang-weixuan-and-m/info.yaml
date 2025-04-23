@@ -1,9 +1,10 @@
 author: Zhang, Weixuan and Mueller, Mark W and D'Andrea, Raffaello
 booktitle: 2016 IEEE International Conference on Robotics and Automation
+keywords: uav, control
 organization: IEEE
 pages: 3275--3281
+papis_id: c19d91b17d673177b37cf6ca0b68cb22
 ref: zhang2016controllable
 title: A controllable flying vehicle with a single moving part
 type: inproceedings
 year: '2016'
-keywords: uav, control 

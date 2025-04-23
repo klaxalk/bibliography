@@ -7,11 +7,12 @@ author_list:
 - family: Cremers
   given: Daniel
 booktitle: European conference on computer vision
+keywords: gacr, slam
 organization: Springer
 pages: 834--849
+papis_id: 540232afaae80f310c9cb9ab4684657e
 ref: engel2014lsd
 time-added: 2022-04-01-10:19:09
 title: '{LSD-SLAM: Large-scale direct monocular SLAM}'
 type: inproceedings
 year: '2014'
-keywords: gacr, slam

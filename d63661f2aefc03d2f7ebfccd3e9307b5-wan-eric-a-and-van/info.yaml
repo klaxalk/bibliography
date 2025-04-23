@@ -3,10 +3,11 @@ booktitle: '{Adaptive Systems for Signal Processing, Communications, and Control
   IEEE}'
 files:
 - /home/klaxalk/Dropbox/papers/wan-eric-2000-the-unscented-kalman-filter-for-nonlinear-estimation.pdf
+keywords: estimation
 organization: IEEE
 pages: 153--158
+papis_id: 0ed99e5c9b8caec4ecfdbf3823143f23
 ref: wan2000unscented
 title: '{The unscented Kalman filter for nonlinear estimation}'
 type: inproceedings
 year: '2000'
-keywords: estimation

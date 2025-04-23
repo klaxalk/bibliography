@@ -15,10 +15,11 @@ author_list:
   given: A
 - family: Prieto
   given: M
+booktitle: ASTRA
 files:
 - /home/klaxalk/Dropbox/papers/ceballos-2011-genom-as-a-robotics-framework-for-planetary-rover-surface-operations.pdf
-booktitle: ASTRA
 pages: 12--14
+papis_id: 2b8a6baa2e0fbf8f33cae1466f4d7e84
 ref: ceballos2011genom
 time-added: 2020-07-12-18:34:11
 title: '{GenoM as a robotics framework for planetary rover surface operations}'

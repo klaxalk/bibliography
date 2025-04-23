@@ -1,3 +1,4 @@
+addendum: '{\textbf{contribution: 10\%, citations: 10 in WoS}}'
 author: Petracek, Pavel and Kratky, Vit and Petrlik, Matej and Baca, Tomas and Kratochvil,
   Radim and Saska, Martin
 author_list:
@@ -17,14 +18,14 @@ doi: 10.1109/LRA.2021.3098304
 files:
 - /home/klaxalk/Dropbox/papers/petracek-2021-large-scale-exploration-of-cave-environments-by-unmanned-aerial-vehicles.pdf
 journal: IEEE Robotics and Automation Letters
+keywords: mine, journal, phd_related
 month: '10'
 number: '4'
 pages: 7596-7603
+papis_id: 6fad46e7c777b2c59d14400e1b5e280c
 ref: petracek2021large
 time-added: 2021-09-01-15:58:16
 title: '{Large-Scale Exploration of Cave Environments by Unmanned Aerial Vehicles}'
 type: article
 volume: '6'
 year: '2021'
-keywords: mine, journal, phd_related
-addendum: '{\textbf{contribution: 10\%, citations: 10 in WoS}}'

@@ -1,9 +1,10 @@
 author: Lee, Hanseob and Jung, Seokwoo and Shim, David Hyunchul
 booktitle: 2016 IEEE International Conference on Unmanned Aircraft Systems
+keywords: uav, control, vision
 organization: IEEE
 pages: 1--7
+papis_id: 3f4ffd8b3228774aeeb9660e41ac764b
 ref: lee2016vision
 title: '{Vision-based UAV landing on the moving vehicle}'
 type: inproceedings
 year: '2016'
-keywords: uav, control, vision

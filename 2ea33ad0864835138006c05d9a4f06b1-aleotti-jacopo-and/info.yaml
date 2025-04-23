@@ -1,10 +1,13 @@
-author: Aleotti, Jacopo and Micconi, Giorgio and Caselli, Stefano and Benassi, Giacomo and Zambelli, Nicola and Calestani, Davide and Zanichelli, Massimiliano and Bettelli, Manuele and Zappettini, Andrea
+author: Aleotti, Jacopo and Micconi, Giorgio and Caselli, Stefano and Benassi, Giacomo
+  and Zambelli, Nicola and Calestani, Davide and Zanichelli, Massimiliano and Bettelli,
+  Manuele and Zappettini, Andrea
 booktitle: NSS/MIC
+keywords: radiation, uav
 organization: IEEE
 pages: 1--5
+papis_id: 34ae2bbbad8bf0df2e24d5bad411e892
 ref: aleotti2015unmanned
 title: '{Unmanned aerial vehicle equipped with spectroscopic CdZnTe detector for detection
   and identification of radiological and nuclear material}'
 type: inproceedings
 year: '2015'
-keywords: radiation, uav

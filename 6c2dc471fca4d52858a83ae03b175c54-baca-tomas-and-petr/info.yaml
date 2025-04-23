@@ -1,3 +1,4 @@
+addendum: '{\textbf{contribution: 60\%, citations: 27 in Wos}}'
 author: Baca, Tomas and Petrlik, Matej and Vrba, Matous and Spurny, Vojtech and Penicka,
   Robert and Hert, Daniel and Saska, Martin
 author_list:
@@ -15,21 +16,22 @@ author_list:
   given: Daniel
 - family: Saska
   given: Martin
-month: '05'
-journal: '{Journal of Intelligent \& Robotic Systems}'
-ref: baca2021mrs
-publisher: 'Springer'
-time-added: 2020-09-29-15:57:33
-title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
-type: article
-url: 'https://link.springer.com/article/10.1007/s10846-021-01383-5'
-year: '2021'
-pages: '1--28'
-volume: '102'
-issue: '1'
-number: '26'
-doi: '10.1007/s10846-021-01383-5'
-keywords: mine, phd_related, journal, core
-addendum: '{\textbf{contribution: 60\%, citations: 27 in Wos}}'
+doi: 10.1007/s10846-021-01383-5
 files:
 - baca-toma-2020-the-mrs-uav-system-pushing-the-frontiers-of-reproducible-research-real-world-deployment-and-education-with-autonomous-unmanned-ae.pdf
+issue: '1'
+journal: '{Journal of Intelligent \& Robotic Systems}'
+keywords: mine, phd_related, journal, core
+month: '05'
+number: '26'
+pages: 1--28
+papis_id: 1fa45b2408a32aadb337bc28fca9f408
+publisher: Springer
+ref: baca2021mrs
+time-added: 2020-09-29-15:57:33
+title: '{The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world
+  Deployment, and Education with Autonomous Unmanned Aerial Vehicles}'
+type: article
+url: https://link.springer.com/article/10.1007/s10846-021-01383-5
+volume: '102'
+year: '2021'

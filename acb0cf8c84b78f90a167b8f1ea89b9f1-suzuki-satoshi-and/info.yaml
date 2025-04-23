@@ -6,9 +6,11 @@ journal: SICE Journal of Control, Measurement, and System Integration
 keywords: uav, control, multirobot
 number: '6'
 pages: 347--355
+papis_id: 6815ea249f670195acae5ce7257d9fb2
 publisher: The Society of Instrument and Control Engineers
 ref: suzuki2014collision
-title: '{Collision-free Guidance Control of Small Unmanned Helicopter Using Nonlinear Model Predictive Control}'
+title: '{Collision-free Guidance Control of Small Unmanned Helicopter Using Nonlinear
+  Model Predictive Control}'
 type: article
 volume: '7'
 year: '2014'

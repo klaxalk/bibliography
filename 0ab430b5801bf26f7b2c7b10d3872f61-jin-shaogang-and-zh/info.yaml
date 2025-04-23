@@ -1,9 +1,10 @@
 author: Jin, Shaogang and Zhang, Jiyang and Shen, Lincheng and Li, Tengxiang
 booktitle: 35th Chinese Control Conference (CCC)
+keywords: uav, control, vision
 organization: IEEE
 pages: 10284--10289
+papis_id: 3ded8071287cf898a9eab609394dbfec
 ref: jin2016onboard
 title: '{On-board vision autonomous landing techniques for quadrotor: A survey}'
 type: inproceedings
 year: '2016'
-keywords: uav, control, vision

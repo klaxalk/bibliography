@@ -6,6 +6,7 @@ author_list:
   given: Ali
 journal: arXiv preprint arXiv:1804.02767
 keywords: gacr, slam
+papis_id: dd34fa2dc9ac2be1bb8c39c36f1492ba
 ref: redmon2018yolov3
 time-added: 2022-04-01-10:26:28
 title: '{YOLOv3}: An incremental improvement'

@@ -7,7 +7,8 @@ journal: '{Journal of Field Robotics}'
 keywords: control
 number: '1'
 pages: 101--120
-publisher: 'Wiley Online Library'
+papis_id: 5291cae70b99b6b50ce5b6a6bba8d1fe
+publisher: Wiley Online Library
 ref: mohta2018fast
 title: '{Fast, autonomous flight in GPS-denied and cluttered environments}'
 type: article

@@ -14,6 +14,7 @@ files:
 keywords: trajectory generation
 organization: IEEE
 pages: 344--351
+papis_id: a00ceefa16dc90a1a546e2c91e0eee1d
 ref: gao2018online
 time-added: 2020-09-29-21:23:28
 title: Online safe trajectory generation for quadrotors using fast marching method

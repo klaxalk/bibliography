@@ -1,6 +1,6 @@
-author: 'Manfreda, Salvatore and McCabe, Matthew F and Miller, Pauline E and Lucas,
+author: Manfreda, Salvatore and McCabe, Matthew F and Miller, Pauline E and Lucas,
   Richard and Pajuelo Madrigal, Victor and Mallinis, Giorgos and Ben Dor, Eyal and
-  Helman, David and Estes, Lyndon and Ciraolo, Giuseppe and others'
+  Helman, David and Estes, Lyndon and Ciraolo, Giuseppe and others
 author_list:
 - family: Manfreda
   given: Salvatore
@@ -27,6 +27,7 @@ author_list:
 journal: Remote sensing
 number: '4'
 pages: '641'
+papis_id: d8a8942227f792b779f9fe2fb483af96
 publisher: Multidisciplinary Digital Publishing Institute
 ref: manfreda2018use
 time-added: 2020-12-13-10:24:06

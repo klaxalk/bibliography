@@ -1,9 +1,10 @@
 author: Xu, Lingyun and Luo, Haibo
 booktitle: International Conference on Real-time Computing and Robotics (RCAR)
+keywords: uav, control
 organization: IEEE
 pages: 620--628
+papis_id: c8db28f17e84705e021e6c9a7ca62941
 ref: xu2016towards
 title: '{Towards autonomous tracking and landing on moving target}'
 type: inproceedings
 year: '2016'
-keywords: uav, control

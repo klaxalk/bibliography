@@ -1,10 +1,11 @@
 author: Barry, Andrew J and Majumdar, Anirudha and Tedrake, Russ
 booktitle: IEEE International Conference on Robotics and Automation
+keywords: uav, planning
 organization: IEEE
 pages: 484--490
+papis_id: 1bf9133a8e983dd38ae42a15164d7d9c
 ref: barry2012safety
 title: '{Safety verification of reactive controllers for UAV flight in cluttered environments
   using barrier certificates}'
 type: inproceedings
 year: '2012'
-keywords: uav, planning

@@ -9,9 +9,10 @@ author_list:
 - family: Campoy
   given: Pascual
 doi: 10.1109/ACCESS.2020.2983121
-journal: 'IEEE Access'
+journal: IEEE Access
 keywords: gacr, slam
 pages: 60704-60718
+papis_id: 8d5b6d2ef6642dc2745e6e27e3c5fe18
 ref: bavle2020SSLAM
 time-added: 2022-04-01-10:24:21
 title: '{VPS-SLAM}: Visual Planar Semantic {SLAM} for Aerial Robotic Systems'

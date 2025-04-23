@@ -6,10 +6,11 @@ author_list:
   given: Ulrich
 booktitle: '{European Conference on Computer Vision (ECCV)}'
 keywords: gacr, slam
-month: '09'
+month: 09
+pages: 144--161
+papis_id: a1eef17059d840e24be7c902f6f321e2
 ref: wang2018rgbd
 time-added: 2022-04-01-10:32:37
 title: '{Depth-aware CNN for RGB-D Segmentation}'
 type: inproceedings
 year: '2018'
-pages: '144--161'

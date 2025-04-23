@@ -1,8 +1,10 @@
 author: Maza, Ivan and Caballero, Fernando and Capitan, Jesus and Martinez-de-Dios,
   Jose Ramiro and Ollero, Anibal
 journal: Journal of intelligent \& robotic systems
+keywords: uav, multirobot
 number: '1'
 pages: 563--585
+papis_id: 2c0e877c4205adcd1ed14d520d25f75b
 publisher: Springer
 ref: maza2011experimental
 title: '{Experimental results in multi-UAV coordination for disaster management and
@@ -10,4 +12,3 @@ title: '{Experimental results in multi-UAV coordination for disaster management 
 type: article
 volume: '61'
 year: '2011'
-keywords: uav, multirobot

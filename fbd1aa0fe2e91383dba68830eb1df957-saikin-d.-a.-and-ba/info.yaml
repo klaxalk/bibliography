@@ -1,3 +1,4 @@
+addendum: '{\textbf{contribution: 25\%, citations: 12 in WoS}}'
 author: Saikin, D. A. and Baca, T. and Gurtner, M. and Saska, M.
 author_list:
 - family: Saikin
@@ -9,16 +10,16 @@ author_list:
 - family: Saska
   given: M.
 doi: 10.1109/LRA.2020.2972827
+files:
+- /home/klaxalk/Dropbox/papers/saikin-d.-2020-wildfire-fighting-by-unmanned-aerial-system-exploiting-its-time-varying-mass.pdf
 journal: IEEE Robotics and Automation Letters
+keywords: mine, phd_related, journal
+number: '2'
 pages: 2674-2681
+papis_id: f7c1883ca5995cce46e49faeb7dbc0b5
 ref: saikin2020wildfire
 time-added: 2020-04-22-13:11:58
 title: '{Wildfire Fighting by Unmanned Aerial System Exploiting Its Time-Varying Mass}'
 type: article
-number: '2'
 volume: '5'
 year: '2020'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{contribution: 25\%, citations: 12 in WoS}}'
-files:
-- /home/klaxalk/Dropbox/papers/saikin-d.-2020-wildfire-fighting-by-unmanned-aerial-system-exploiting-its-time-varying-mass.pdf

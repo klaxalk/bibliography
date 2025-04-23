@@ -12,8 +12,10 @@ booktitle: '{Asian Conference on Computer Vision (ACCV)}'
 isbn: 978-3-319-54181-5
 keywords: gacr, slam
 pages: 213--228
+papis_id: 77f83e8a58e8b058fa866f3ca566df7e
 ref: hazirbas2016fusenet
 time-added: 2022-04-01-10:31:36
-title: '{FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-Based CNN Architecture}'
+title: '{FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-Based
+  CNN Architecture}'
 type: inproceedings
 year: '2017'

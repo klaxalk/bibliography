@@ -1,3 +1,4 @@
+addendum: '{\textbf{25\% contribution, citations: 13 in WoS}}'
 author: Petracek, Pavel and Walter, Viktor and Baca, Tomas and Saska, Martin
 author_list:
 - family: Petracek
@@ -9,13 +10,14 @@ author_list:
 - family: Saska
   given: Martin
 journal: '{Bioinspiration \& Biomimetics}'
+keywords: mine, phd_related, journal
+number: '2'
+pages: 026009
+papis_id: 0a48f19b34ab402507cbb40ebe647334
 ref: petracek2021bioinspired
 time-added: 2020-10-30-14:20:16
-title: '{Bio-inspired Compact Swarms of Unmanned Aerial Vehicles Without Communication and External Localization}'
+title: '{Bio-inspired Compact Swarms of Unmanned Aerial Vehicles Without Communication
+  and External Localization}'
 type: article
-year: '2021'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{25\% contribution, citations: 13 in WoS}}'
-number: '2'
-pages: '026009'
 volume: '16'
+year: '2021'

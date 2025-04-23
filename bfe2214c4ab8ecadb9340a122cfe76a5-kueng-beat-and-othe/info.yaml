@@ -1,11 +1,12 @@
-author: 'Kueng, Beat and others'
+author: Kueng, Beat and others
 author_list:
 - family: Kueng
   given: Beat
 - family: others
   given: ''
-booktitle: '2016 IEEE/RSJ International Conference on Intelligent Robots and Systems'
+booktitle: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
 organization: IEEE
+papis_id: a685482c19142c7a67354489d612011c
 ref: kueng2016low
 time-added: 2020-10-31-16:51:03
 title: '{Low-latency visual odometry using event-based feature tracks}'

@@ -1,8 +1,10 @@
 author: Llopart, Xavier and Ballabriga, Rafael and Campbell, Michael and others
 files: []
 journal: '{Nuclear Instruments and Methods}'
+keywords: timepix
 number: 1--2
 pages: 485--494
+papis_id: a59baa4d56f68f4d99bb3e9587897087
 publisher: Elsevier
 ref: llopart2007timepix
 title: '{Timepix, a 65k programmable pixel readout chip for arrival time, energy and/or
@@ -10,4 +12,3 @@ title: '{Timepix, a 65k programmable pixel readout chip for arrival time, energy
 type: article
 volume: '581'
 year: '2007'
-keywords: timepix

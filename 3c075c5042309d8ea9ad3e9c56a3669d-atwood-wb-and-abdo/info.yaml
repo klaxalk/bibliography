@@ -1,6 +1,6 @@
-author: 'Atwood, WB and Abdo, Aous A and Ackermann, Markus and Althouse, W and Anderson,
+author: Atwood, WB and Abdo, Aous A and Ackermann, Markus and Althouse, W and Anderson,
   B and Axelsson, M and Baldini, Luca and Ballet, J and Band, DL and Barbiellini,
-  Guido and others'
+  Guido and others
 author_list:
 - family: Atwood
   given: WB
@@ -27,6 +27,7 @@ author_list:
 journal: The Astrophysical Journal
 number: '2'
 pages: '1071'
+papis_id: 59e05f7471ff67dfab4d4eeffa52e18c
 publisher: IOP Publishing
 ref: atwood2009large
 time-added: 2020-12-07-16:19:34

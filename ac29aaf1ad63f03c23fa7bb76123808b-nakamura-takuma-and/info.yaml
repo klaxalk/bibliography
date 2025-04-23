@@ -1,9 +1,10 @@
 author: Nakamura, Takuma and Haviland, Stephen and Bershadsky, Dmitry and Johnson,
   Eric N
 booktitle: AIAA Information Systems-AIAA Infotech Aerospace
+keywords: uav, vision
 pages: '0674'
+papis_id: 51df0fe04a74b684a2b9c1cbabd08a22
 ref: nakamura2017vision
 title: Vision Sensor Fusion for Autonomous Landing
 type: incollection
 year: '2017'
-keywords: uav, vision

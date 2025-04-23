@@ -1,10 +1,11 @@
 author: Ghamry, Khaled A and Dong, Yiqun and Kamel, Mohamed A and Zhang, Youmin
 booktitle: 24th Mediterranean Conference on Control and Automation
+keywords: uav, control
 organization: IEEE
 pages: 1236--1241
+papis_id: c2daa548c15d06168fe113db7cb89587
 ref: ghamry2016real
 title: '{Real-time autonomous take-off, tracking and landing of UAV on a moving UGV
   platform}'
 type: inproceedings
 year: '2016'
-keywords: uav, control

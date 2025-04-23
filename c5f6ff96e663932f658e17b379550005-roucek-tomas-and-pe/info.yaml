@@ -48,14 +48,16 @@ author_list:
   given: Tomas
 files:
 - /home/klaxalk/Dropbox/papers/roucek-to-2021-system-for-multi-robotic-exploration-of-underground-environments-ctu-cras-norlab-in-the-darpa-subterranean-challenge.pdf
+issue: '55'
+journal: '{Field Robotics}'
 keywords: mine, phd_related, journal
+month: 08
+pages: 1779--1818
+papis_id: ed4942f7e2e63a7e546fbdccee59af3d
 ref: roucek2022system
 time-added: 2021-01-20-10:39:43
-title: '{System for Multi-robotic Exploration of Underground Environments CTU-CRAS-NORLAB in the DARPA Subterranean Challenge}'
+title: '{System for Multi-robotic Exploration of Underground Environments CTU-CRAS-NORLAB
+  in the DARPA Subterranean Challenge}'
 type: article
-year: '2022'
-month: '08'
-issue: '55'
 volume: '2'
-pages: 1779--1818
-journal: '{Field Robotics}'
+year: '2022'

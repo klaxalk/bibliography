@@ -1,11 +1,12 @@
 author: Mueller, Mark W and Hehn, Markus and D'Andrea, Raffaello
 journal: IEEE Transactions on Robotics
+keywords: uav, planning
 number: '6'
 pages: 1294--1310
+papis_id: cd05a97decbb3fe8314d8c14c505f133
 publisher: IEEE
 ref: mueller2015computationally
 title: A computationally efficient motion primitive for quadrocopter trajectory generation
 type: article
 volume: '31'
 year: '2015'
-keywords: uav, planning

@@ -1,10 +1,11 @@
 author: Granja, Carlos and Polansky, Stepan and Vykydal, Z and others
 booktitle: '{Proceedings X Latin American Symposium on Nuclear Physics and Applications.
   Trieste: SISSA/ISAS}'
+keywords: timepix, radiation
 pages: 1--10
+papis_id: 755201af70eee15fff0db412e3312f65
 ref: granja2014directional
 title: '{Directional visualization of space radiation quanta with Timepix/SATRAM spacecraft
   payload on board ESA Proba-V satellite}'
 type: inproceedings
 year: '2014'
-keywords: timepix, radiation

@@ -1,4 +1,3 @@
-ref: campos2021orb
 author: Campos, Carlos and Elvira, Richard and Rodriguez, Juan J Gomez and Montiel,
   Jose MM and Tardos, Juan D
 author_list:
@@ -18,9 +17,12 @@ journal: IEEE Transactions on Robotics
 keywords: gacr, slam
 number: '6'
 pages: 1874--1890
+papis_id: c86356c1ff4f34b011d763376f6f5b5e
 publisher: IEEE
+ref: campos2021orb
 time-added: 2022-03-24-10:59:39
-title: '{ORB-SLAM3: An accurate open-source library for visual, visual-inertial, and multimap SLAM}'
+title: '{ORB-SLAM3: An accurate open-source library for visual, visual-inertial, and
+  multimap SLAM}'
 type: article
 volume: '37'
 year: '2021'

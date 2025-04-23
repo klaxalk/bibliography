@@ -1,16 +1,18 @@
+addendum: '{\textbf{contribution: 22\%, citations: 49 in WoS}}'
 author: Spurny, Vojtech and Baca, Tomas and Saska, Martin and Penicka, Robert and
   Krajnik, Tomas and Thomas, Justin and Thakur, Dinesh and Loianno, Giuseppe and Kumar,
   Vijay
-journal: '{Journal of Field Robotics}'
-ref: spurny2019cooperative
-title: '{Cooperative Autonomous Search, Grasping, and Delivering in a Treasure Hunt Scenario by a Team of Unmanned Aerial Vehicles}'
-type: article
-year: '2019'
-volume: '{36}'
-number: '{1}'
 doi: '{10.1002/rob.21816}'
-pages: '{125-148}'
-keywords: mine, phd_related, journal, core
-addendum: '{\textbf{contribution: 22\%, citations: 49 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/spurny-vo-2019-cooperative-autonomous-search-grasping-and-delivering-in-a-treasure-hunt-scenario-by-a-team-of-uavs.pdf
+journal: '{Journal of Field Robotics}'
+keywords: mine, phd_related, journal, core
+number: '{1}'
+pages: '{125-148}'
+papis_id: 19935b984c4ac917352e52e1f7a969bd
+ref: spurny2019cooperative
+title: '{Cooperative Autonomous Search, Grasping, and Delivering in a Treasure Hunt
+  Scenario by a Team of Unmanned Aerial Vehicles}'
+type: article
+volume: '{36}'
+year: '2019'

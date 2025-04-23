@@ -1,7 +1,8 @@
 author: Kueng, Beat and Mueggler, Elias and Gallego, Guillermo and Scaramuzza, Davide
-booktitle: '2016 IEEE/RSJ International Conference on Intelligent Robots and Systems'
-organization: 'IEEE'
+booktitle: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
+organization: IEEE
 pages: 16--23
+papis_id: 75db62b78099f8d18ca22d246088a3c9
 ref: kueng2016lowlatency
 title: Low-latency visual odometry using event-based feature tracks
 type: inproceedings

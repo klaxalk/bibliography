@@ -1,13 +1,15 @@
+addendum: '{\textbf{contribution: 15\%, citations: 5 in WoS}}'
 author: Chudoba, J. and Kulich, M. and Saska, M. and Baca, T. and Preucil, L.
+files:
+- /home/klaxalk/Dropbox/papers/chudoba-j-2016-exploration-and-mapping-technique-suited-for-visual-features-based-localization-of-mavs.pdf
 journal: '{Journal of Intelligent \& Robotic Systems}'
+keywords: mine, phd_related, journal
 language: English
 pages: 1--19
+papis_id: d85cbb79b8d703281f6e03f1e1a491a4
 ref: chudoba2016exploration
-title: '{Exploration and Mapping Technique Suited for Visual-features Based Localization of MAVs}'
+title: '{Exploration and Mapping Technique Suited for Visual-features Based Localization
+  of MAVs}'
 type: article
 url: http://link.springer.com/article/10.1007/s10846-016-0358-8
 year: '2016'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{contribution: 15\%, citations: 5 in WoS}}'
-files:
-- /home/klaxalk/Dropbox/papers/chudoba-j-2016-exploration-and-mapping-technique-suited-for-visual-features-based-localization-of-mavs.pdf

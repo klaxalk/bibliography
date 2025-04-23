@@ -1,10 +1,11 @@
 author: Deits Robin and Tedrake, Russ
 booktitle: Algorithmic Foundations of Robotics XI
+keywords: planning
 pages: 109--124
+papis_id: 9b9350e03e117ddc8a1ccabd97f03a94
 publisher: Springer
 ref: deits2015computing
 title: Computing large convex regions of obstacle-free space through semidefinite
   programming
 type: inproceedings
 year: '2015'
-keywords: planning

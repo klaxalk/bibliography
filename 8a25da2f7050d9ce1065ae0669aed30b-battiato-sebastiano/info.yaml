@@ -1,6 +1,6 @@
-author: 'Battiato, Sebastiano and Cantelli, Luciano and D’Urso, Fabio and Farinella,
+author: Battiato, Sebastiano and Cantelli, Luciano and D’Urso, Fabio and Farinella,
   Giovanni Maria and Guarnera, Luca and Guastella, Dario and Melita, Carmelo Donato
-  and Muscato, Giovanni and Ortis, Alessandro and Ragusa, Francesco and others'
+  and Muscato, Giovanni and Ortis, Alessandro and Ragusa, Francesco and others
 author_list:
 - family: Battiato
   given: Sebastiano
@@ -29,6 +29,7 @@ files:
 - /home/klaxalk/Dropbox/papers/battiato-2017-a-system-for-autonomous-landing-of-a-uav-on-a-moving-vehicle.pdf
 organization: Springer
 pages: 129--139
+papis_id: b445f0180fe579e680a959054018d10a
 ref: battiato2017system
 time-added: 2020-12-15-11:09:33
 title: '{A System for Autonomous Landing of a UAV on a Moving Vehicle}'

@@ -1,12 +1,13 @@
 author: Hubbell, J. H. and Gimm, Heinz Albert and Overbo, I.
 journal: Journal of physical and chemical reference data
+keywords: radiation
 number: '4'
 pages: 1023--1148
+papis_id: 7bb79c489e19cfb3ec3090f8a3ab771b
 publisher: NIST
 ref: hubbell1980pair
-title: "{Pair, Triplet, and Total Atomic Cross Sections (and Mass Attenuation Coefficients)
-  for 1 MeV-100 GeV Photons in Elements Z= 1 to 100}"
+title: '{Pair, Triplet, and Total Atomic Cross Sections (and Mass Attenuation Coefficients)
+  for 1 MeV-100 GeV Photons in Elements Z= 1 to 100}'
 type: article
 volume: '9'
 year: '1980'
-keywords: radiation

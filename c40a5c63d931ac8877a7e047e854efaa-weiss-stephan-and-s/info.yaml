@@ -1,11 +1,13 @@
 author: Weiss, Stephan and Scaramuzza, Davide and Siegwart, Roland
 journal: Journal of Field Robotics
+keywords: slam, gacr
 number: '6'
 pages: 854--874
+papis_id: aeaaa57d2bedce0b26576ecd3499823c
 publisher: Wiley Online Library
 ref: weiss2011monocular
-title: '{Monocular-SLAM-based navigation for autonomous micro helicopters in GPS-denied environments}'
+title: '{Monocular-SLAM-based navigation for autonomous micro helicopters in GPS-denied
+  environments}'
 type: article
 volume: '28'
 year: '2011'
-keywords: slam, gacr

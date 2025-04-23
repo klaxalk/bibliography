@@ -1,12 +1,15 @@
-author: Baca, Tomas and Hert, Daniel and Loianno, Giuseppe and Saska, Martin and Kumar, Vijay
-booktitle: '2018 IEEE/RSJ International Conference on Intelligent Robots and Systems'
-organization: IEEE
-pages: '6753-6760'
-ref: baca2018model
-title: '{Model Predictive Trajectory Tracking and Collision Avoidance for Reliable Outdoor Deployment of Unmanned Aerial Vehicles}'
-type: inproceedings
-year: '2018'
-keywords: mine, phd_related, conference, core, core_a
 addendum: '{\textbf{contribution: 60\%, citations: 53 in WoS}}'
+author: Baca, Tomas and Hert, Daniel and Loianno, Giuseppe and Saska, Martin and Kumar,
+  Vijay
+booktitle: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
 files:
 - /home/klaxalk/Dropbox/papers/baca-t.-a-2018-model-predictive-trajectory-tracking-and-collision-avoidance-for-reliable-outdoor-deployment-of-unmanned-aerial-vehicles.pdf
+keywords: mine, phd_related, conference, core, core_a
+organization: IEEE
+pages: 6753-6760
+papis_id: 639ba500506df8a55c97abf2028bb9cb
+ref: baca2018model
+title: '{Model Predictive Trajectory Tracking and Collision Avoidance for Reliable
+  Outdoor Deployment of Unmanned Aerial Vehicles}'
+type: inproceedings
+year: '2018'

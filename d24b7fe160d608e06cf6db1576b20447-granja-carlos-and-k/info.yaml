@@ -16,12 +16,15 @@ author_list:
 - family: Polansky
   given: Stepan
 issue: '11'
-journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment'
+journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment'
 pages: 142--152
+papis_id: 8a098126490902a99c14fc76a0fc54cb
 publisher: Elsevier
 ref: granja2018directional
 time-added: 2020-10-12-13:01:56
-title: '{Directional detection of charged particles and cosmic rays with the miniaturized radiation camera MiniPIX Timepix}'
+title: '{Directional detection of charged particles and cosmic rays with the miniaturized
+  radiation camera MiniPIX Timepix}'
 type: article
 volume: '911'
 year: '2018'

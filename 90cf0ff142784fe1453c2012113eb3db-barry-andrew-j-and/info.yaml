@@ -1,10 +1,11 @@
 author: Barry, Andrew J and Jenks, Tim and Majumdar, Anirudha and Lin, Huai-Ti and
   Ros, Ivo G and Biewener, Andrew A and Tedrake, Russ
 booktitle: 2014 IEEE International Conference on Robotics and Automation
+keywords: uav, control
 organization: IEEE
 pages: 2559--2559
+papis_id: a215aba312645638e2c5e0b97a975b29
 ref: barry2014flying
 title: Flying between obstacles with an autonomous knife-edge maneuver
 type: inproceedings
 year: '2014'
-keywords: uav, control

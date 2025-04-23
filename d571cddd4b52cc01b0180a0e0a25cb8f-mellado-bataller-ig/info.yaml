@@ -1,5 +1,5 @@
-author: Mellado-Bataller, Ignacio and Pestana, Jesus and Olivares-Mendez, Miguel
-  A and Campoy, Pascual and Mejias, Luis
+author: Mellado-Bataller, Ignacio and Pestana, Jesus and Olivares-Mendez, Miguel A
+  and Campoy, Pascual and Mejias, Luis
 author_list:
 - family: Mellado-Bataller
   given: Ignacio
@@ -13,6 +13,7 @@ author_list:
   given: Luis
 booktitle: Frontiers of Intelligent Autonomous Systems
 pages: 165--179
+papis_id: 47a55785c9052cca9615d1595742a583
 publisher: Springer
 ref: mellado2013mavwork
 time-added: 2020-07-12-19:25:51

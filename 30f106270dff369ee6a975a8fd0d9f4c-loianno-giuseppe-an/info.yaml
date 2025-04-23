@@ -1,8 +1,9 @@
 author: Loianno, Giuseppe and Thomas, Justin and Kumar, Vijay
-booktitle: 'IEEE International Conference on Robotics and Automation'
+booktitle: IEEE International Conference on Robotics and Automation
+keywords: multirobot
+papis_id: 44bbe49da297c294596f71314c2fdb73
 publisher: IEEE
 ref: loianno2015mapping
 title: '{Cooperative localization and mapping of MAVs using RGB-D sensors}'
 type: inproceedings
 year: '2015'
-keywords: multirobot

@@ -1,11 +1,13 @@
 author: B. Herisse and T. Hamel and R. Mahony and F. X. Russotto
 journal: Transactions on Robotics
+keywords: uav, control
 number: '1'
 pages: 77--89
+papis_id: 0663da0b9f017e63ab103e0892201735
 publisher: IEEE
 ref: herisse2012landing
-title: '{Landing a VTOL Unmanned Aerial Vehicle on a Moving Platform Using Optical Flow}'
+title: '{Landing a VTOL Unmanned Aerial Vehicle on a Moving Platform Using Optical
+  Flow}'
 type: article
 volume: '28'
 year: '2012'
-keywords: uav, control

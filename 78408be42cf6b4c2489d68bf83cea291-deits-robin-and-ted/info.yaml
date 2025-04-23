@@ -1,9 +1,10 @@
 author: Deits, Robin and Tedrake, Russ
 booktitle: 2015 IEEE International Conference on Robotics and Automation
+keywords: uav, planning
 organization: IEEE
 pages: 42--49
+papis_id: 01b2285bb22709516e21fe59e3c94a96
 ref: deits2015efficient
 title: '{Efficient mixed-integer planning for UAVs in cluttered environments}'
 type: inproceedings
 year: '2015'
-keywords: uav, planning

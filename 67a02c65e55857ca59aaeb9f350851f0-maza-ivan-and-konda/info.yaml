@@ -1,9 +1,10 @@
 author: Maza, Ivan and Kondak, Konstantin and Bernard, Markus and Ollero, Anibal
 booktitle: 2nd International Symposium on UAVs
+keywords: uav, control, multirobot
 organization: Springer
 pages: 417--449
+papis_id: 80b1c0bf14e8c7360d6bfa10503dae92
 ref: maza2009multi
 title: '{Multi-UAV cooperation and control for load transportation and deployment}'
 type: inproceedings
 year: '2009'
-keywords: uav, control, multirobot

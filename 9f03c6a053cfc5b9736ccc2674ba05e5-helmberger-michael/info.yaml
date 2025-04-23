@@ -17,13 +17,14 @@ author_list:
   given: Davide
 files:
 - /home/klaxalk/Dropbox/papers/helmberger-2021-the-hilti-slam-challenge-dataset.pdf
-journal: 'IEEE Robotics and Automation Letters'
+journal: IEEE Robotics and Automation Letters
 keywords: slam, gacr, dataset
+number: '3'
+pages: 7518-7525
+papis_id: 27dbf274067bb8fbae5e4ffa388f0b86
 ref: helmberger2021hilti
 time-added: 2022-03-14-10:05:17
 title: '{The Hilti SLAM Challenge Dataset}'
 type: article
-year: '2022'
 volume: '7'
-number: '3'
-pages: '7518-7525'
+year: '2022'

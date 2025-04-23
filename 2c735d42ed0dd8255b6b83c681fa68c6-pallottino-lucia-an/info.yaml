@@ -1,12 +1,13 @@
 author: Pallottino, Lucia and Scordio, Vincenzo G and Bicchi, Antonio and Frazzoli,
   Emilio
 journal: '{IEEE Transactions on Robotics}'
+keywords: multirobot
 number: '6'
 pages: 1170--1183
+papis_id: 4f75d8aa8985c9d6f6e922f018ada80a
 publisher: IEEE
 ref: pallottino2007decentralized
 title: Decentralized cooperative policy for conflict resolution in multivehicle systems
 type: article
 volume: '23'
 year: '2007'
-keywords: multirobot

@@ -1,9 +1,11 @@
 author: Benini, Alessandro and Rutherford, Matthew J and Valavanis, Kimon P
 booktitle: 2016 IEEE International Conference on Robotics and Automation
+keywords: uav, control
 organization: IEEE
 pages: 3463--3470
+papis_id: ded03a61d3f01841461df970c257d012
 ref: benini2016real
-title: '{Real-time, GPU-based pose estimation of a UAV for autonomous takeoff and landing}'
+title: '{Real-time, GPU-based pose estimation of a UAV for autonomous takeoff and
+  landing}'
 type: inproceedings
 year: '2016'
-keywords: uav, control

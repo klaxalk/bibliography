@@ -1,9 +1,10 @@
 author: Gassner, M. and Cieslewski, T. and Scaramuzza, D.
-booktitle: 'IEEE International Conference on Robotics and Automation'
+booktitle: IEEE International Conference on Robotics and Automation
+keywords: control, multirobot
+papis_id: 89aee87e23bf091395c87380e60d5599
 publisher: IEEE
 ref: gassner2017dynamic
 title: '{Dynamic collaboration without communication: Vision-based cable-suspended
   load transport with two quadrotors}'
 type: inproceedings
 year: '2017'
-keywords: control, multirobot

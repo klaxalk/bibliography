@@ -15,6 +15,7 @@ booktitle: Proceedings of the IEEE conference on computer vision and pattern rec
 files:
 - /home/klaxalk/Dropbox/papers/sandler-m-2018-mobilenetv2-inverted-residuals-and-linear-bottlenecks.pdf
 pages: 4510--4520
+papis_id: e96f539be5fe16151046b0aa08201741
 ref: sandler2018mobilenetv2
 time-added: 2020-11-18-13:51:20
 title: '{Mobilenetv2: Inverted residuals and linear bottlenecks}'

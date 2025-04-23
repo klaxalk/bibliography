@@ -1,6 +1,6 @@
-author: Stasinchuk, Yurii and Vrba, Matous and Baca, Tomas and
-  Spurny, Vojtech and Petrlik, Matej and Hert, Daniel and Zaitlik, David and Saska,
-  Martin
+addendum: '{\textbf{20\% contribution}}'
+author: Stasinchuk, Yurii and Vrba, Matous and Baca, Tomas and Spurny, Vojtech and
+  Petrlik, Matej and Hert, Daniel and Zaitlik, David and Saska, Martin
 author_list:
 - family: Stasinchuk
   given: Yurii
@@ -18,14 +18,15 @@ author_list:
   given: David
 - family: Saska
   given: Martin
+keywords: mine, phd_related, journal
+month: '06'
 note: '{Field Robotics}'
+pages: 1697-1720
+papis_id: f96f6a42bf55500f6f6d6fde2d3bc7a1
 ref: stasinchuk2021multiuav
 time-added: 2020-11-06-15:32:46
-title: '{A Multi-MAV System for the Autonomous Elimination of Multiple Targets in the MBZIRC 2020 Competition}'
+title: '{A Multi-MAV System for the Autonomous Elimination of Multiple Targets in
+  the MBZIRC 2020 Competition}'
 type: article
-year: '2022'
-pages: '1697-1720'
-month: '06'
-keywords: mine, phd_related, journal
-addendum: '{\textbf{20\% contribution}}'
 volume: '2'
+year: '2022'

@@ -1,6 +1,6 @@
-author: 'Nagatani, Keiji and Kiribayashi, Seiga and Okada, Yoshito and Otake, Kazuki
+author: Nagatani, Keiji and Kiribayashi, Seiga and Okada, Yoshito and Otake, Kazuki
   and Yoshida, Kazuya and Tadokoro, Satoshi and Nishimura, Takeshi and Yoshida, Tomoaki
-  and Koyanagi, Eiji and Fukushima, Mineo and others'
+  and Koyanagi, Eiji and Fukushima, Mineo and others
 author_list:
 - family: Nagatani
   given: Keiji
@@ -26,10 +26,12 @@ author_list:
 journal: Journal of Field Robotics
 number: '1'
 pages: 44--63
+papis_id: f4e7ee1da837f22e6ef1e48759e9f3ae
 publisher: Wiley Online Library
 ref: nagatani2013emergency
 time-added: 2020-10-23-21:57:21
-title: '{Emergency response to the nuclear accident at the Fukushima Daiichi Nuclear Power Plants using mobile rescue robots}'
+title: '{Emergency response to the nuclear accident at the Fukushima Daiichi Nuclear
+  Power Plants using mobile rescue robots}'
 type: article
 volume: '30'
 year: '2013'

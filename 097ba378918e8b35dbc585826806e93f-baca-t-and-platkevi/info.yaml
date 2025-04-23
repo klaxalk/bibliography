@@ -1,16 +1,17 @@
+addendum: '{\textbf{contribution: 52\%, citations: 47 in WoS}}'
 author: Baca, T. and Platkevic, M. and Jakubek, J. and Inneman, A. and Stehlikova,
   V. and Urban, M. and Nentvich, O. and Blazek, M. and McEntaffer, R. and Daniel,
   V.
+files:
+- /home/klaxalk/Dropbox/papers/baca-t.-a-2016-miniaturized-x-ray-telescope-for-vzlusat-1-nanosatellite-with-timepix-detector.pdf
 journal: Journal of Instrumentation
+keywords: mine, phd_unrelated, journal
 number: '10'
 pages: C10007
+papis_id: ed0c9259e511fd9decb1e2427d4b8dc3
 ref: baca2016miniaturized
 title: '{Miniaturized X-ray telescope for VZLUSAT-1 nanosatellite with Timepix detector}'
 type: article
 url: http://stacks.iop.org/1748-0221/11/i=10/a=C10007
 volume: '11'
 year: '2016'
-keywords: mine, phd_unrelated, journal
-addendum: '{\textbf{contribution: 52\%, citations: 47 in WoS}}'
-files:
-- /home/klaxalk/Dropbox/papers/baca-t.-a-2016-miniaturized-x-ray-telescope-for-vzlusat-1-nanosatellite-with-timepix-detector.pdf

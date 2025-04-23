@@ -1,3 +1,4 @@
+addendum: '{\textbf{20\% contribution}}'
 author: Walter, Viktor and Spurny, Vojtech and Petrlik, Matej and Baca, Tomas and
   Zaitlik, David and Saska, Martin
 author_list:
@@ -13,13 +14,14 @@ author_list:
   given: David
 - family: Saska
   given: Martin
+keywords: mine, phd_related, conference
+month: '06'
 note: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+pages: 787--793
+papis_id: 779e302056393870545c1fa932dd0a04
 ref: walter2020extinguishing
 time-added: 2020-11-06-15:37:20
-title: '{Extinguishing of Ground Fires by Fully Autonomous UAVs motivated by the MBZIRC 2020 Competition}'
+title: '{Extinguishing of Ground Fires by Fully Autonomous UAVs motivated by the MBZIRC
+  2020 Competition}'
 type: article
 year: '2021'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{20\% contribution}}'
-month: '06'
-pages: 787--793

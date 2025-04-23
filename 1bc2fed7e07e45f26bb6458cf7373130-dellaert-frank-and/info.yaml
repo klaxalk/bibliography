@@ -1,4 +1,4 @@
-author: 'Dellaert, Frank and Kaess, Michael and others'
+author: Dellaert, Frank and Kaess, Michael and others
 author_list:
 - family: Dellaert
   given: Frank
@@ -9,6 +9,7 @@ author_list:
 journal: Foundations and Trends in Robotics
 number: 1-2
 pages: 1--139
+papis_id: cf4d86f9698d7a67980f34b11d0f5183
 publisher: Now Publishers, Inc.
 ref: dellaert2017factor
 time-added: 2022-10-02-15:40:08

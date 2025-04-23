@@ -1,11 +1,12 @@
 author: Richert, Dean and Cortes, Jorge
 journal: Automatica
+keywords: uav, multirobot, planning
 number: '11'
 pages: 3189--3198
+papis_id: fb9073f40c1205c53f902132fca408c8
 publisher: Elsevier
 ref: richert2013optimal
 title: '{Optimal leader allocation in UAV formation pairs ensuring cooperation}'
 type: article
 volume: '49'
 year: '2013'
-keywords: uav, multirobot, planning

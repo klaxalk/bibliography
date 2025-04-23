@@ -1,12 +1,13 @@
 author: Kraus, V and Holik, Michael and Jakubek, Jan and Kroupa, M and Soukup, P and
   Vykydal, Z
 journal: Journal of Instrumentation
+keywords: timepix
 number: '01'
 pages: C01079
+papis_id: 0ffc844d15f8e08af285f3101a0367bb
 publisher: IOP Publishing
 ref: kraus2011fitpix
-title: "{FITPix—fast interface for Timepix pixel detectors}"
+title: '{FITPix—fast interface for Timepix pixel detectors}'
 type: article
 volume: '6'
 year: '2011'
-keywords: timepix

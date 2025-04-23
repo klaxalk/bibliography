@@ -1,17 +1,19 @@
+addendum: '{\textbf{contribution: TB: 12.5\%, citations: 8 in WoS}}'
 author: Stibinger, P. and Baca, T. and Saska, M.
 doi: 10.1109/LRA.2020.2978456
-issn: 2377-3766
-journal: IEEE Robotics and Automation Letters
-pages: 3634--3641
-ref: stibinger2020localization
-title: '{Localization of Ionizing Radiation Sources by Cooperating Micro Aerial Vehicles With Pixel Detectors in Real-Time}'
-type: article
-volume: '5'
-issue: '2'
-month: '4'
-year: '2020'
-url: https://ieeexplore.ieee.org/document/9024023
-keywords: mine, phd_related, journal, core
-addendum: '{\textbf{contribution: TB: 12.5\%, citations: 8 in WoS}}'
 files:
 - /home/klaxalk/Dropbox/papers/stibinger-2020-localization-of-ionizing-radiation-sources-by-cooperating-micro-aerial-vehicles-with-pixel-detectors-in-real-time.pdf
+issn: 2377-3766
+issue: '2'
+journal: IEEE Robotics and Automation Letters
+keywords: mine, phd_related, journal, core
+month: '4'
+pages: 3634--3641
+papis_id: d7eb0df3087f487bc8d47247ff6bf933
+ref: stibinger2020localization
+title: '{Localization of Ionizing Radiation Sources by Cooperating Micro Aerial Vehicles
+  With Pixel Detectors in Real-Time}'
+type: article
+url: https://ieeexplore.ieee.org/document/9024023
+volume: '5'
+year: '2020'

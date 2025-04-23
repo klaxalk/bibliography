@@ -1,5 +1,5 @@
-author: Nava, Gabriele and Sable, Quentin and Tognon, Marco and Pucci, Daniele
-  and Franchi, Antonio
+author: Nava, Gabriele and Sable, Quentin and Tognon, Marco and Pucci, Daniele and
+  Franchi, Antonio
 author_list:
 - family: Nava
   given: Gabriele
@@ -14,10 +14,12 @@ author_list:
 journal: IEEE Robotics and Automation Letters
 number: '2'
 pages: 331--338
+papis_id: bd35bd90e026bd5c8214dfd8b5d967b0
 publisher: IEEE
 ref: nava2019direct
 time-added: 2020-07-14-16:19:19
-title: '{Direct Force Feedback Control and Online Multi-task Optimization for Aerial Manipulators}'
+title: '{Direct Force Feedback Control and Online Multi-task Optimization for Aerial
+  Manipulators}'
 type: article
 volume: '5'
 year: '2019'

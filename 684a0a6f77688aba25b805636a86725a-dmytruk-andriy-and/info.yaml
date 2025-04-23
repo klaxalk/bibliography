@@ -1,3 +1,4 @@
+addendum: '{\textbf{20\% contribution}}'
 author: Dmytruk, Andriy and Nascimento, Tiago and Ahmad, Afzal and Baca, Tomas and
   Saska, Martin
 author_list:
@@ -11,12 +12,12 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
+keywords: mine, phd_related, conference
+month: '06'
 note: '{2021 IEEE International Conference on Robotics and Automation (ICRA)}'
+papis_id: 969b743f87784ef395d4422ac85d9fdc
 ref: dmytruk2021safe
 time-added: 2020-11-06-15:34:13
 title: '{Safe Tightly-Constrained UAV Swarming in GNSS-denied Environments}'
 type: article
 year: '2021'
-keywords: mine, phd_related, conference
-addendum: '{\textbf{20\% contribution}}'
-month: '06'

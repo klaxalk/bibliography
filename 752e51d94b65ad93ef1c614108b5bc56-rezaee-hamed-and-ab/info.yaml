@@ -1,7 +1,9 @@
 author: Rezaee, Hamed and Abdollahi, Farzaneh
 journal: Communications in Nonlinear Science and Numerical Simulation
+keywords: uav, control, multirobot
 number: '3'
 pages: 744--756
+papis_id: 498dc30a2c8539962eb24a589e945c49
 publisher: Elsevier
 ref: rezaee2013motion
 title: Motion synchronization in unmanned aircrafts formation control with communication
@@ -9,4 +11,3 @@ title: Motion synchronization in unmanned aircrafts formation control with commu
 type: article
 volume: '18'
 year: '2013'
-keywords: uav, control, multirobot

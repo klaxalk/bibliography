@@ -13,11 +13,12 @@ author_list:
 booktitle: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
 files:
 - /home/klaxalk/Dropbox/papers/gao-fei-a-2018-optimal-time-allocation-for-quadrotor-trajectory-generation.pdf
+keywords: trajectory generation
 organization: IEEE
 pages: 4715--4722
+papis_id: ac2f24136789d47ef21ea1e34e195661
 ref: gao2018optimal
 time-added: 2020-09-29-21:21:32
 title: Optimal time allocation for quadrotor trajectory generation
 type: inproceedings
 year: '2018'
-keywords: trajectory generation

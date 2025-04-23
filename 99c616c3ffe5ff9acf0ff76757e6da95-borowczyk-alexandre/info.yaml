@@ -1,11 +1,12 @@
-author: Borowczyk, Alexandre and Nguyen, Duc-Tien and Phu-Van Nguyen, Andre and
-  Nguyen, Dang Quang and Saussie, David and Le Ny, Jerome
+author: Borowczyk, Alexandre and Nguyen, Duc-Tien and Phu-Van Nguyen, Andre and Nguyen,
+  Dang Quang and Saussie, David and Le Ny, Jerome
 journal: Journal of Guidance, Control, and Dynamics
+keywords: uav, control
 pages: 2378--2385
+papis_id: e3308cb6d18f440131f4b33732cef722
 publisher: American Institute of Aeronautics and Astronautics
 ref: borowczyk2017autonomous
 title: '{Autonomous Landing of a Quadcopter on a High-Speed Ground Vehicle}'
 type: article
 volume: '40'
 year: '2017'
-keywords: uav, control

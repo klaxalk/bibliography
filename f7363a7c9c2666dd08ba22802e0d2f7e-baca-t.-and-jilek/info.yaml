@@ -1,13 +1,15 @@
+addendum: '{\textbf{contribution: 50\%, citations: 10 in WoS}}'
 author: Baca, T. and Jilek, M. and Manek, P. and Stibinger, P. and Linhart, V. and
   Jakubek, J. and Saska, M.
-booktitle: '2019 IEEE/RSJ International Conference on Intelligent Robots and Systems'
-organization: IEEE
-pages: 1--8
-ref: baca2019timepix
-title: '{Timepix Radiation Detector for Autonomous Radiation Localization and Mapping by Micro Unmanned Vehicles}'
-type: inproceedings
-year: '2019'
-keywords: mine, phd_related, conference, core, core_a
-addendum: '{\textbf{contribution: 50\%, citations: 10 in WoS}}'
+booktitle: 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems
 files:
 - /home/klaxalk/Dropbox/papers/baca-t.-a-2019-timepix-radiation-detector-for-autonomous-radiation-localization-and-mapping-by-micro-unmanned-vehicles.pdf
+keywords: mine, phd_related, conference, core, core_a
+organization: IEEE
+pages: 1--8
+papis_id: 5ff8731c291eb9795f7ee77ea9d200ad
+ref: baca2019timepix
+title: '{Timepix Radiation Detector for Autonomous Radiation Localization and Mapping
+  by Micro Unmanned Vehicles}'
+type: inproceedings
+year: '2019'

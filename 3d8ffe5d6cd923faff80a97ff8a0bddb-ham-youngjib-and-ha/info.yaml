@@ -10,15 +10,16 @@ author_list:
   given: Mani
 files:
 - /home/klaxalk/Dropbox/papers/ham-young-2016-visual-monitoring-of-civil-infrastructure-systems-via-camera-equipped-unmanned-aerial-vehicles-uavs-a-review-of-related-works.pdf
-pages: '1--8'
+journal: Visualization in Engineering
+keywords: review
+number: '1'
+pages: 1--8
+papis_id: 88e7932fe85d57cc5bb1d5f22fcede61
 publisher: Springer
 ref: ham2016visual
-journal: 'Visualization in Engineering'
 time-added: 2020-11-16-13:38:44
 title: '{Visual monitoring of civil infrastructure systems via camera-equipped Unmanned
   Aerial Vehicles (UAVs): a review of related works}'
 type: article
 volume: '4'
-number: '1'
 year: '2016'
-keywords: review
