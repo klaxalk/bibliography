@@ -1,0 +1,30 @@
+author: Horyna, J. and Kratky, V. and Pritzl, V. and Baca, T. and Ferrante, E. and
+  Saska, M.
+author_list:
+- family: Horyna
+  given: J.
+- family: Kratky
+  given: V.
+- family: Pritzl
+  given: V.
+- family: Baca
+  given: T.
+- family: Ferrante
+  given: E.
+- family: Saska
+  given: M.
+doi: 10.1109/LRA.2024.3390596
+files:
+- horyna-j.-2024-fast-swarming-of-uavs-in-gnss-denied-feature-poor-environments-without-explicit-communication.bib
+journal: IEEE Robotics and Automation Letters
+keywords: mine, journal, impacted
+month: April
+number: '6'
+pages: 5284-5291
+papis_id: 01d639db99b0a4cb8fc084c03c441797
+ref: horyna2024fast
+time-added: 2025-04-24-10:45:02
+title: '{Fast Swarming of UAVs in GNSS-denied Feature-Poor Environments without Explicit Communication}'
+type: article
+volume: '9'
+year: '2024'

@@ -1,0 +1,26 @@
+author: Novak, F. and Baca, T. and Prochazka, O. and Saska, M.
+author_list:
+- family: Novak
+  given: F.
+- family: Baca
+  given: T.
+- family: Prochazka
+  given: O.
+- family: Saska
+  given: M.
+booktitle: 'Proceedings of the 21st International Conference on Informatics in Control, Automation and Robotics - Volume 1: ICINCO'
+doi: 10.5220/0012910000003822
+files:
+- novak-f.-2024-towards-uav-usv-collaboration-in-harsh-maritime-conditions-including-large-waves.bib
+isbn: 978-989-758-717-7
+issn: 2184-2809
+keywords: mine, conference
+organization: INSTICC
+pages: 545-554
+papis_id: 7d8f0231af9487a225860cd142aeb30f
+publisher: SciTePress
+ref: novak2024towards
+time-added: 2025-04-24-10:44:15
+title: '{Towards UAV-USV Collaboration in Harsh Maritime Conditions Including Large Waves}'
+type: inproceedings
+year: '2024'
