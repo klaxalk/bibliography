@@ -1,0 +1,21 @@
+author: Novak, F. and Tomas, B. and Saska, M.
+author_list:
+- family: Novak
+  given: F.
+- family: Tomas
+  given: B.
+- family: Saska
+  given: M.
+booktitle: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+doi: 10.1109/IROS58592.2024.10802469
+files:
+- novak-f.-2024-collaborative-object-manipulation-on-the-water-surface-by-a-uav-usv-team-using-tethers.bib
+keywords: mine, conference, core, core_a
+pages: 3425-3432
+papis_id: 874c0ec4bd845cf65bcf9c966a90e5d3
+pdf: data/papers/iros2024novak.pdf
+ref: novak2024collaborative
+time-added: 2025-04-24-10:43:13
+title: '{Collaborative Object Manipulation on the Water Surface by a UAV-USV Team Using Tethers}'
+type: inproceedings
+year: '2024'

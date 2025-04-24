@@ -1,0 +1,29 @@
+author: Werner, M. and Baca, T. and Stibinger, P. and Doubravova, D. and Solv, J.
+  and Rusnak, J. and Saska, M.
+author_list:
+- family: Werner
+  given: M.
+- family: Baca
+  given: T.
+- family: Stibinger
+  given: P.
+- family: Doubravova
+  given: D.
+- family: Solv
+  given: J.
+- family: Rusnak
+  given: J.
+- family: Saska
+  given: M.
+booktitle: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+doi: 10.1109/IROS58592.2024.10802808
+files:
+- werner-m.-2024-autonomous-localization-of-multiple-ionizing-radiation-sources-using-miniature-single-layer-compton-cameras-onboard-a-group-of-micro-ae.bib
+keywords: mine, conference, core, core_a
+pages: 5710-5717
+papis_id: 3a245128d10d27ed1d2f02841aebf6dc
+ref: werner2024autonomous
+time-added: 2025-04-24-10:43:44
+title: '{Autonomous localization of multiple ionizing radiation sources using miniature single-layer Compton cameras onboard a group of micro aerial vehicles}'
+type: inproceedings
+year: '2024'
