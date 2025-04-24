@@ -1,0 +1,24 @@
+author: Pliska, M. and Vrba, M. and Báča, T. and Saska, M.
+author_list:
+- family: Pliska
+  given: M.
+- family: Vrba
+  given: M.
+- family: Báča
+  given: T.
+- family: Saska
+  given: M.
+doi: 10.1109/LRA.2024.3451768
+files:
+- pliska-m.-2024-towards-safe-mid-air-drone-interception-strategies-for-tracking-capture.bib
+journal: Robotics and Automation Letters
+keywords: mine, journal, impacted
+number: '10'
+pages: 8810-8817
+papis_id: aef97ae9cf3edbce24449b54765c60df
+ref: pliska2024towards
+time-added: 2025-04-24-10:42:38
+title: '{Towards Safe Mid-Air Drone Interception: Strategies for Tracking & Capture}'
+type: article
+volume: '9'
+year: '2024'
