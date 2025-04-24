@@ -1,0 +1,25 @@
+author: Novak, F. and Baca, T. and Prochazka, O. and Saska, M.
+author_list:
+- family: Novak
+  given: F.
+- family: Baca
+  given: T.
+- family: Prochazka
+  given: O.
+- family: Saska
+  given: M.
+doi: 10.1016/j.oceaneng.2025.120606
+files:
+- novak-f.-2025-state-estimation-of-marine-vessels-affected-by-waves-by-unmanned-aerial-vehicles.bib
+issn: 0029-8018
+journal: Ocean Engineering
+keywords: mine, impacted, journal
+pages: '120606'
+papis_id: cb375939c2243336b2269c2654fa32a9
+publisher: Elsevier
+ref: novak2025usv
+time-added: 2025-04-24-10:40:05
+title: '{State estimation of marine vessels affected by waves by unmanned aerial vehicles}'
+type: article
+volume: '323'
+year: '2025'

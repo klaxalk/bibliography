@@ -1,0 +1,29 @@
+author: Capek, D. and Hrncir, J. and Baca, T. and Jirkal, J. and Vonasek, V. and Penicka,
+  R. and Saska, M.
+author_list:
+- family: Capek
+  given: D.
+- family: Hrncir
+  given: J.
+- family: Baca
+  given: T.
+- family: Jirkal
+  given: J.
+- family: Vonasek
+  given: V.
+- family: Penicka
+  given: R.
+- family: Saska
+  given: M.
+booktitle: IEEE/RSJ International Conference on Robotics and Automation (ICRA)
+files:
+- capek-d.-2025-flightforge-advancing-uav-research-with-procedural-generation-of-high-fidelity-simulation-and-integrated-autonomy.bib
+keywords: mine, conference, core
+papis_id: fd652e78f937c6fa57afa940a5b2c4e6
+pdf: data/papers/capek2025flightforge.pdf
+ref: capek2025flightforge
+time-added: 2025-04-24-10:41:01
+title: '{FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy}'
+type: inproceedings
+url: https://www.arxiv.org/abs/2502.05038
+year: '2025'
