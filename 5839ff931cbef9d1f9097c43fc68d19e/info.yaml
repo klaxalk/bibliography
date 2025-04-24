@@ -1,0 +1,29 @@
+author: Prochazka, O. and Novak, F. and Baca, T. and Gupta, P.M. and Penicka, R. and
+  Saska, M.
+author_list:
+- family: Prochazka
+  given: O.
+- family: Novak
+  given: F.
+- family: Baca
+  given: T.
+- family: Gupta
+  given: P.M.
+- family: Penicka
+  given: R.
+- family: Saska
+  given: M.
+files:
+- prochazka-2024-model-predictive-control-based-trajectory-generation-for-agile-landing-of-unmanned-aerial-vehicle-on-a-moving-boat.bib
+journal: Ocean Engineering
+keywords: mine, impacted, journal
+pages: '119164'
+papis_id: 5839ff931cbef9d1f9097c43fc68d19e
+pdf: data/papers/2024_Prochazka.pdf
+publisher: Elsevier
+ref: prochazka2024model
+time-added: 2025-04-24-10:42:02
+title: '{Model predictive control-based trajectory generation for agile landing of unmanned aerial vehicle on a moving boat}'
+type: article
+volume: '313'
+year: '2024'

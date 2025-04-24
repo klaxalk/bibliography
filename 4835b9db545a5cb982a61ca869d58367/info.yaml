@@ -1,0 +1,29 @@
+author: Horla, D. and Giernacki, W. and Kratky, V. and Stibinger, P and Baca, T. and
+  Saska, M.
+author_list:
+- family: Horla
+  given: D.
+- family: Giernacki
+  given: W.
+- family: Kratky
+  given: V.
+- family: Stibinger
+  given: P
+- family: Baca
+  given: T.
+- family: Saska
+  given: M.
+booktitle: 2024 18th International Conference on Control, Automation, Robotics and Vision (ICARCV)
+doi: 10.1109/ICARCV63323.2024.10821603
+files:
+- horla-d.-2024-on-rapid-parallel-tuning-of-controllers-of-a-swarm-of-mavs-distribution-strategies-of-the-updated-gains.bib
+keywords: mine, conference
+month: December
+pages: 1182-1188
+papis_id: 4835b9db545a5cb982a61ca869d58367
+ref: horla2024parallelTuning
+time-added: 2025-04-24-10:41:26
+title: '{On Rapid Parallel Tuning of Controllers of a Swarm of MAVs – Distribution Strategies of the Updated Gains}'
+type: inproceedings
+url: https://ieeexplore.ieee.org/document/10821603
+year: '2024'
