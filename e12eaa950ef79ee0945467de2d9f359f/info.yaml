@@ -1,0 +1,33 @@
+author: Vrba, M. and Walter, V. and Pritzl, V. and Pliska, M. and Baca, T. and Spurny,
+  V. and Hert, D. and Saska, M.
+author_list:
+- family: Vrba
+  given: M.
+- family: Walter
+  given: V.
+- family: Pritzl
+  given: V.
+- family: Pliska
+  given: M.
+- family: Baca
+  given: T.
+- family: Spurny
+  given: V.
+- family: Hert
+  given: D.
+- family: Saska
+  given: M.
+doi: 10.1109/TRO.2024.3502494
+files:
+- vrba-m.-a-2025-on-onboard-lidar-based-flying-object-detection.bib
+issn: 1941-0468
+journal: Transactions on Robotics
+keywords: mine, impacted, journal
+pages: 593--611
+papis_id: e12eaa950ef79ee0945467de2d9f359f
+ref: vrba2025onboard
+time-added: 2025-04-24-10:29:36
+title: '{On Onboard LiDAR-Based Flying Object Detection}'
+type: article
+volume: '41'
+year: '2025'
