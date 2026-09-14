@@ -1,0 +1,27 @@
+author: Novak, Filip and Walter, Viktor and Petracek, Pavel and Baca, Tomas and Saska,
+  Martin
+author_list:
+- family: Novak
+  given: Filip
+- family: Walter
+  given: Viktor
+- family: Petracek
+  given: Pavel
+- family: Baca
+  given: Tomas
+- family: Saska
+  given: Martin
+doi: 10.1088/1748-3190/ac3060
+files: []
+journal: '{Bioinspiration {\&} Biomimetics}'
+month: nov
+number: '6'
+pages: '066025'
+papis_id: d02d0e0dbb704d15eaffc81a48b688b3
+publisher: '{IOP} Publishing'
+ref: novak2021fast
+title: Fast collective evasion in self-localized swarms of unmanned aerial vehicles
+type: article
+url: https://mrs.fel.cvut.cz/papers/uav-swarm-fast-collective-evasion
+volume: '16'
+year: '2021'
