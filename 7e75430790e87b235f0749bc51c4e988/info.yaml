@@ -1,0 +1,37 @@
+author: Petrlik, Matej and Petracek, Pavel and Kratky, Vit and Musil, Tomas and Stasinchuk,
+  Yurii and Vrba, Matous and Baca, Tomas and Hert, Daniel and Pecka, Martin and Svoboda,
+  Tomas and Saska, Martin
+author_list:
+- family: Petrlik
+  given: Matej
+- family: Petracek
+  given: Pavel
+- family: Kratky
+  given: Vit
+- family: Musil
+  given: Tomas
+- family: Stasinchuk
+  given: Yurii
+- family: Vrba
+  given: Matous
+- family: Baca
+  given: Tomas
+- family: Hert
+  given: Daniel
+- family: Pecka
+  given: Martin
+- family: Svoboda
+  given: Tomas
+- family: Saska
+  given: Martin
+doi: https://doi.org/10.55417/fr.2023001
+journal: Field Robotics
+month: 1
+pages: 1--68
+papis_id: 7e75430790e87b235f0749bc51c4e988
+ref: petrlik2023beneath
+title: 'UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and
+  Rescue in DARPA SubT'
+type: article
+volume: '3'
+year: '2023'

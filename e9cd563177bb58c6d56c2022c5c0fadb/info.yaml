@@ -1,0 +1,55 @@
+author: Hert, Daniel and Baca, Tomas and Petracek, Pavel and Kratky, Vit and Spurny,
+  Vojtech and Petrlik, Matej and Vrba, Matous and Zaitlik, David and Stoudek, Pavel
+  and Walter, Viktor and Stepan, Petr and Horyna, Jiri and Pritzl, Vaclav and Silano,
+  Giuseppe and Bonilla Licea, Daniel and Stibinger, Petr and Penicka, Robert and Nascimento,
+  Tiago and Saska, Martin
+author_list:
+- family: Hert
+  given: Daniel
+- family: Baca
+  given: Tomas
+- family: Petracek
+  given: Pavel
+- family: Kratky
+  given: Vit
+- family: Spurny
+  given: Vojtech
+- family: Petrlik
+  given: Matej
+- family: Vrba
+  given: Matous
+- family: Zaitlik
+  given: David
+- family: Stoudek
+  given: Pavel
+- family: Walter
+  given: Viktor
+- family: Stepan
+  given: Petr
+- family: Horyna
+  given: Jiri
+- family: Pritzl
+  given: Vaclav
+- family: Silano
+  given: Giuseppe
+- family: Bonilla Licea
+  given: Daniel
+- family: Stibinger
+  given: Petr
+- family: Penicka
+  given: Robert
+- family: Nascimento
+  given: Tiago
+- family: Saska
+  given: Martin
+booktitle: 2022 International Conference on Unmanned Aircraft Systems (ICUAS)
+doi: 10.1109/ICUAS54217.2022.9836083
+month: 6
+organization: IEEE
+pages: 1264--1273
+papis_id: e9cd563177bb58c6d56c2022c5c0fadb
+ref: hert2022mrs
+title: MRS Modular UAV Hardware Platforms for Supporting Research in Real-World Outdoor
+  and Indoor Environments
+type: inproceedings
+year: '2022'

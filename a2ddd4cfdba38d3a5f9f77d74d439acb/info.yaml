@@ -1,0 +1,27 @@
+author: Horyna, Jiri and Baca, Tomas and Walter, Viktor and Albani, Dario and Hert,
+  Daniel and Ferrante, Eliseo and Saska, Martin
+author_list:
+- family: Horyna
+  given: Jiri
+- family: Baca
+  given: Tomas
+- family: Walter
+  given: Viktor
+- family: Albani
+  given: Dario
+- family: Hert
+  given: Daniel
+- family: Ferrante
+  given: Eliseo
+- family: Saska
+  given: Martin
+doi: https://doi.org/10.1007/s10514-022-10066-5
+journal: Autonomous Robots
+pages: 1--17
+papis_id: a2ddd4cfdba38d3a5f9f77d74d439acb
+publisher: Springer
+ref: horyna2022decentralized
+title: Decentralized swarms of unmanned aerial vehicles for search and rescue operations
+  without explicit communication
+type: article
+year: '2022'
