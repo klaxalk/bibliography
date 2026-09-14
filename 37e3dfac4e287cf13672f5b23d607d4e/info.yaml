@@ -1,0 +1,62 @@
+author: Hert, D. and Baca, T. and Petracek, P. and Kratky, V. and Penicka, R. and
+  Spurny, V. and Petrlik, M. and Vrba, M. and Zaitlik, D. and Stoudek, P. and Walter,
+  V. and Stepan, P. and Horyna, J. and Pritzl, V. and Sramek, M. and Ahmad, A. and
+  Silano, G. and Bonilla Licea, D. and Stibinger, P. and Nascimento, T. and Saska,
+  M.
+author_list:
+- family: Hert
+  given: D.
+- family: Baca
+  given: T.
+- family: Petracek
+  given: P.
+- family: Kratky
+  given: V.
+- family: Penicka
+  given: R.
+- family: Spurny
+  given: V.
+- family: Petrlik
+  given: M.
+- family: Vrba
+  given: M.
+- family: Zaitlik
+  given: D.
+- family: Stoudek
+  given: P.
+- family: Walter
+  given: V.
+- family: Stepan
+  given: P.
+- family: Horyna
+  given: J.
+- family: Pritzl
+  given: V.
+- family: Sramek
+  given: M.
+- family: Ahmad
+  given: A.
+- family: Silano
+  given: G.
+- family: Bonilla Licea
+  given: D.
+- family: Stibinger
+  given: P.
+- family: Nascimento
+  given: T.
+- family: Saska
+  given: M.
+doi: 10.1007/s10846-023-01879-2
+issue: '64'
+journal: Journal of Intelligent & Robotic Systems
+month: 7
+pages: 1--34
+papis_id: 37e3dfac4e287cf13672f5b23d607d4e
+publisher: Springer
+ref: hert2023mrsdrone
+title: 'MRS Drone: A Modular Platform for Real-World Deployment of Aerial Multi-Robot
+  Systems'
+type: article
+url: https://link.springer.com/article/10.1007/s10846-023-01879-2
+volume: '108'
+year: '2023'

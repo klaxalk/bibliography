@@ -1,0 +1,33 @@
+author: Stibinger, Petr and Baca, Tomas and Doubravova, Daniela and Rusnak, Jan and
+  Solc, Jaroslav and Jakubek, Jan and Stepan, Petr and Saska, Martin
+author_list:
+- family: Stibinger
+  given: Petr
+- family: Baca
+  given: Tomas
+- family: Doubravova
+  given: Daniela
+- family: Rusnak
+  given: Jan
+- family: Solc
+  given: Jaroslav
+- family: Jakubek
+  given: Jan
+- family: Stepan
+  given: Petr
+- family: Saska
+  given: Martin
+doi: 10.1109/LRA.2026.3688053
+issn: 2377--3766
+journal: IEEE Robotics and Automation Letters
+month: 6
+number: '6'
+pages: 7700--7707
+papis_id: c12e033733d2ae4d032bd9d64af09aa5
+publisher: IEEE
+ref: stibinger2026radron
+title: 'RADRON: Cooperative Localization of Ionizing Radiation Sources by MAVs With
+  Compton Cameras'
+type: article
+volume: '11'
+year: '2026'
