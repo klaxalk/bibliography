@@ -16,12 +16,12 @@ author_list:
   given: David
 - family: Saska
   given: Martin
-booktitle: IEEE International Conference on Robotics and Automation
+booktitle: '{IEEE International Conference on Robotics and Automation (ICRA)}'
 files:
 - /home/klaxalk/Dropbox/papers/ahmad-afz-2021-autonomous-aerial-swarming-in-gnss-denied-environments-with-high-obstacle-density.pdf
-keywords: mine, conference, core, core_a
+keywords: mine, conference, core_a
 month: '06'
-pages: 570-576
+pages: 570--576
 papis_id: 6bc0b0780067df37ae10e56528097037
 ref: ahmad2021autonomous
 time-added: 2020-11-06-15:30:03
