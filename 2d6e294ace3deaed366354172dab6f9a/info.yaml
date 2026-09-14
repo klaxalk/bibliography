@@ -14,13 +14,12 @@ author_list:
 booktitle: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 doi: 10.48550/arXiv.2404.13440
 month: 5
-note: 'Contribution accepted for discussion at the workshop session: "Breaking Swarm
-  Stereotypes", Yokohama, Japan'
 pages: 1-2
 papis_id: 2d6e294ace3deaed366354172dab6f9a
 ref: afzal2024pacnav
-title: 'PACNav: Enhancing Collective Navigation for UAV Swarms in Communication-Challenged
-  Environments'
+title: '{PACNav: Enhancing Collective Navigation for UAV Swarms in Communication-Challenged
+  Environments}'
 type: inproceedings
 url: https://doi.org/10.48550/arXiv.2404.13440
 year: '2024'
+keywords: mine, conference, core, core_a
