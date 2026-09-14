@@ -20,8 +20,7 @@ files:
 keywords: mie, conference
 month: Decem-ber
 pages: 1182--1188
-papis_id: 4835b9db545a5cb982a61ca869d58367
-ref: horla2024parallelTuning
+ref: horla2024onparallel
 time-added: 2025-04-24-10:41:26
 title: '{On Rapid Parallel Tuning of Controllers of a Swarm of MAVs – Distribution Strategies of the Updated Gains}'
 type: inproceedings
