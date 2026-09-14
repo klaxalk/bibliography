@@ -1,4 +1,3 @@
-address: Marbella, Spain
 author: Jirousek, Martin and Baca, Tomas and Saska, Martin
 author_list:
 - family: Jirousek
@@ -18,4 +17,4 @@ ref: jirousek2025towards
 title: '{Towards Fully Onboard State Estimation and Trajectory Tracking for UAVs with Suspended Payloads}'
 type: inproceedings
 year: '2025'
-keywords: mine, conference, core
+keywords: mine, conference
