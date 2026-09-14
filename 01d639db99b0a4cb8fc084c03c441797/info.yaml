@@ -1,4 +1,4 @@
-author: Horyna, J. and Kratky, V. and Pritzl, V. and Baca, T. and Ferrante, E. and
+author: Horyna, J. and Kratky, V. and Pritzl, V. and Baca, Tomas and Ferrante, E. and
   Saska, M.
 author_list:
 - family: Horyna
@@ -8,7 +8,7 @@ author_list:
 - family: Pritzl
   given: V.
 - family: Baca
-  given: T.
+  given: Tomas
 - family: Ferrante
   given: E.
 - family: Saska
@@ -20,7 +20,7 @@ journal: IEEE Robotics and Automation Letters
 keywords: mine, journal, impacted
 month: April
 number: '6'
-pages: 5284-5291
+pages: 5284--5291
 papis_id: 01d639db99b0a4cb8fc084c03c441797
 ref: horyna2024fast
 time-added: 2025-04-24-10:45:02
