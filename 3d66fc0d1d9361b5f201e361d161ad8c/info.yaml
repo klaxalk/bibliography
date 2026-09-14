@@ -7,18 +7,15 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-booktitle: Proceedings of the 22nd {International} {Conference} on {Informatics} in
-  {Control}, {Automation} and {Robotics}
+booktitle: IEEE/RSJ International Conference on Robotics and Automation (ICRA)
 doi: 10.5220/0013789200003982
 isbn: 978-989-758-770-2
 language: en
 organization: INSTICC
 pages: 128--138
 papis_id: 3d66fc0d1d9361b5f201e361d161ad8c
-publisher: SCITEPRESS - Science and Technology Publications
 ref: jirousek2025towards
-title: Towards Fully Onboard State Estimation and Trajectory Tracking for UAVs with
-  Suspended Payloads
+title: '{Towards Fully Onboard State Estimation and Trajectory Tracking for UAVs with Suspended Payloads}'
 type: inproceedings
 year: '2025'
-keywords: mine, conference
+keywords: mine, conference, core
