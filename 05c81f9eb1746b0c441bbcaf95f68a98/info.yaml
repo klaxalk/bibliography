@@ -1,0 +1,27 @@
+author: Lakemann, Tim and Licea, Daniel Bonilla and Walter, Viktor and Báča, Tomáš
+  and Saska, Martin
+author_list:
+- family: Lakemann
+  given: Tim
+- family: Licea
+  given: Daniel Bonilla
+- family: Walter
+  given: Viktor
+- family: Báča
+  given: Tomáš
+- family: Saska
+  given: Martin
+issn: 0921-8890
+journal: Robotics and Autonomous Systems
+keywords: Visual tracking, Localization, Multi-robot systems, Computer vision for
+  automation
+pages: '105175'
+papis_id: 05c81f9eb1746b0c441bbcaf95f68a98
+ref: lakemann2025visual
+title: 'Towards agile multi-robot systems in the real world: Fast onboard tracking
+  of active blinking markers for relative localization'
+type: article
+url: https://www.sciencedirect.com/science/article/pii/S0921889025002726
+video: https://www.youtube.com/watch?v=QnBb4Pwekr8
+volume: '194'
+year: '2025'
