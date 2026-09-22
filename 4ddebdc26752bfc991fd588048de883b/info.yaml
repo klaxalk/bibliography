@@ -1,0 +1,35 @@
+author: Ebadi, Kamak and Bernreiter, Lukas and Biggie, Harel and Catt, Gavin and Chang,
+  Yun and Chatterjee, Arghya and Denniston, Christopher E and Deschênes, Simon-Pierre
+  and Harlow, Kyle and Khattak, Shehryar and others
+author_list:
+- family: Ebadi
+  given: Kamak
+- family: Bernreiter
+  given: Lukas
+- family: Biggie
+  given: Harel
+- family: Catt
+  given: Gavin
+- family: Chang
+  given: Yun
+- family: Chatterjee
+  given: Arghya
+- family: Denniston
+  given: Christopher E
+- family: Deschênes
+  given: Simon-Pierre
+- family: Harlow
+  given: Kyle
+- family: Khattak
+  given: Shehryar
+- family: others
+  given: ''
+journal: IEEE Transactions on Robotics
+pages: 936--959
+papis_id: 4ddebdc26752bfc991fd588048de883b
+publisher: IEEE
+ref: ebadi2023present
+title: 'Present and future of SLAM in extreme environments: The DARPA SubT challenge'
+type: article
+volume: '40'
+year: '2023'
