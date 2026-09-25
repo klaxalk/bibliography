@@ -17,7 +17,7 @@ author_list:
   given: Tuula
 - family: Holopainen
   given: Markus
-journal: Urban Forestry & Urban Greening
+journal: Urban Forestry \& Urban Greening
 pages: 72--83
 papis_id: 72a00fe26377db7b2df546a0f0413d88
 publisher: Elsevier
