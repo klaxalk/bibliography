@@ -1,0 +1,42 @@
+author: Daniel, V. and Hudec, R. and Baca, T. and Pina, L. and Inneman, A. and Marsikova,
+  V. and Urban, M. and Nentvich, O. and Stehlikova, V. and Tutt, J.
+author_list:
+- family: Daniel
+  given: V.
+- family: Hudec
+  given: R.
+- family: Baca
+  given: T.
+- family: Pina
+  given: L.
+- family: Inneman
+  given: A.
+- family: Marsikova
+  given: V.
+- family: Urban
+  given: M.
+- family: Nentvich
+  given: O.
+- family: Stehlikova
+  given: V.
+- family: Tutt
+  given: J.
+booktitle: 'EUV and X-ray Optics: Synergy between Laboratory and Space VI'
+doi: 10.1117/12.2527288
+editor: Hudec, René and Pina, Ladislav
+editor_list:
+- family: Hudec
+  given: René
+- family: Pina
+  given: Ladislav
+keywords: X ray optics, rockets, rocketry, Lobster Eye
+organization: International Society for Optics and Photonics
+pages: '1103206'
+papis_id: 2cd1760d619d56b5b0c32b45163a0cd0
+publisher: SPIE
+ref: daniel2019rex
+title: REX LE X-ray telescope experiment overview
+type: inproceedings
+url: https://doi.org/10.1117/12.2527288
+volume: '11032'
+year: '2019'
