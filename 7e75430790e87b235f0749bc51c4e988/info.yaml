@@ -25,9 +25,9 @@ author_list:
 - family: Saska
   given: Martin
 doi: https://doi.org/10.55417/fr.2023001
-journal: Field Robotics
+journal: '{IEEE Transactions on Field Robotics}'
 month: 1
-pages: 1--68
+pages: '643--689'
 papis_id: 7e75430790e87b235f0749bc51c4e988
 ref: petrlik2025beneath
 title: '{UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and Rescue in DARPA SubT}'
