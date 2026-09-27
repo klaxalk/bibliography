@@ -29,10 +29,12 @@ journal: Field Robotics
 month: 1
 pages: 1--68
 papis_id: 7e75430790e87b235f0749bc51c4e988
-ref: petrlik2023beneath
+ref: petrlik2025beneath
 title: '{UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and Rescue in DARPA SubT}'
 type: article
-volume: '3'
-year: '2023'
+volume: '2'
+number: '0'
+year: '2025'
 keywords: mine, journal, impacted, core
-addendum: '{Not indexed by WoS}'
+addendum: '{Not yet indexed by WoS}'
+doi: '10.1109/TFR.2024.3492160'
