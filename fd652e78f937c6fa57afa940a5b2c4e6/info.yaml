@@ -15,7 +15,7 @@ author_list:
   given: R.
 - family: Saska
   given: M.
-booktitle: IEEE/RSJ International Conference on Robotics and Automation (ICRA)
+booktitle: '{2025 IEEE/RSJ International Conference on Robotics and Automation (ICRA)}'
 files:
 - capek-d.-2025-flightforge-advancing-uav-research-with-procedural-generation-of-high-fidelity-simulation-and-integrated-autonomy.bib
 keywords: mine, conference, core_a
@@ -24,3 +24,4 @@ ref: capek2025flightforge
 time-added: 2025-04-24-10:41:01
 title: '{FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy}'
 type: inproceedings
+addendum: '{CORE A conference}'
