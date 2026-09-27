@@ -1,4 +1,4 @@
-addendum: '{\textbf{}}'
+addendum: '{JCR 2019 - SCIE; IF 3.27: Q2; AIS 0.53: Q2 }'
 author: Giernacki, W. and Horla, D. and Baca, T. and Saska, M.
 doi: 10.3390/s19020312
 files:
@@ -13,6 +13,5 @@ ref: giernacki2019realtime
 title: '{Real-time model-free minimum-seeking autotuning method for unmanned aerial
   vehicle controllers based on fibonacci-search algorithm}'
 type: article
-url: https://www.mdpi.com/1424-8220/19/2/312
 volume: '19'
 year: '2019'
