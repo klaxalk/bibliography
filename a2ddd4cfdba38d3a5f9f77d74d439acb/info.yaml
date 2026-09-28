@@ -15,7 +15,8 @@ author_list:
   given: Eliseo
 - family: Saska
   given: Martin
-doi: https://doi.org/10.1007/s10514-022-10066-5
+doi: 10.1007/s10514-022-10066-5
+url: https://link.springer.com/article/10.1007/s10514-022-10066-5
 journal: Autonomous Robots
 pages: 1--17
 papis_id: a2ddd4cfdba38d3a5f9f77d74d439acb
