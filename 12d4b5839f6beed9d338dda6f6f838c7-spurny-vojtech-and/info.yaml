@@ -4,7 +4,7 @@ author: Spurny, Vojtech and Pritzl, Vaclav and Walter, Viktor and Petrlik, Matej
 journal: IEEE Access
 keywords: mine, journal, mbzirc, impacted
 number: ''
-pages: 15872-15890
+pages: 15872--15890
 papis_id: 3c6dee4a13e5ea8904e7144c34689a96
 ref: spurny2021autonomous
 time-added: 2020-11-21-17:32:14
@@ -12,3 +12,4 @@ title: '{Autonomous Firefighting Inside Buildings by an Unmanned Aerial Vehicle}
 type: article
 volume: '9'
 year: '2021'
+doi: 10.1109/ACCESS.2021.3052967
