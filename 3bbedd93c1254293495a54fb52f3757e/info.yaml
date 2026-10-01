@@ -12,7 +12,6 @@ author_list:
 - family: Saska
   given: Martin
 doi: 10.1088/1748-3190/ac98e6
-issn: 1748--3190
 issue: '6'
 journal: '{Bioinspiration \& Biomimetics}'
 month: 11
@@ -21,7 +20,6 @@ papis_id: 3bbedd93c1254293495a54fb52f3757e
 ref: ahmad2022pacnav
 title: '{PACNav: A Collective Navigation Approach for UAV Swarms Deprived of Communication and External Localization}'
 type: article
-url: https://iopscience.iop.org/article/10.1088/1748-3190/ac98e6
 volume: '17'
 year: '2022'
 keywords: mine, impacted, journal, hab
