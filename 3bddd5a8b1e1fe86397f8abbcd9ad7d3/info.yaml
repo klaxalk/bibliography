@@ -15,7 +15,7 @@ author_list:
 booktitle: '{IEEE ICRA 2026 proceedings}'
 papis_id: 3bddd5a8b1e1fe86397f8abbcd9ad7d3
 ref: werner2026kilometer
-title: 'Kilometer-Scale GNSS-Denied UAV Navigation via Heightmap Gradients: A Winning System from the SPRIN-D Challenge'
+title: '{Kilometer-Scale GNSS-Denied UAV Navigation via Heightmap Gradients: A Winning System from the SPRIN-D Challenge}'
 type: inproceedings
 year: '2026'
 keywords: mine, conference, core_a
