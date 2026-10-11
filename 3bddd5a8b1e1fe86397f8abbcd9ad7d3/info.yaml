@@ -12,7 +12,7 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-booktitle: '{IEEE ICRA 2026 proceedings}'
+booktitle: '{2026 IEEE International Conference on Robotics and Automation (ICRA)}'
 papis_id: 3bddd5a8b1e1fe86397f8abbcd9ad7d3
 ref: werner2026kilometer
 title: '{Kilometer-Scale GNSS-Denied UAV Navigation via Heightmap Gradients: A Winning System from the SPRIN-D Challenge}'
