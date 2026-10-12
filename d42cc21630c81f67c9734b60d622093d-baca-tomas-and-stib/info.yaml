@@ -1,4 +1,3 @@
-addendum: '{\textbf{}}'
 author: Baca, Tomas and Stibinger, Petr and Doubravova, Daniela and Turecek, Daniel
   and Solc, Jaroslav and Rusnak, Jan and Saska, Martin and Jakubek, Jan
 author_list:
@@ -18,7 +17,7 @@ author_list:
   given: Martin
 - family: Jakubek
   given: Jan
-booktitle: 2021 International Conference on Unmanned Aircraft Systems (ICUAS)
+booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 files:
 - /home/klaxalk/Dropbox/papers/baca-toma-2020-gamma-radiation-source-localization-for-micro-aerial-vehicles-with-a-miniature-single-detector-compton-event-camera.pdf
 keywords: mine, conference
