@@ -1,0 +1,20 @@
+author: Musil, Tomas and Petrlik, Matej and Saska, Martin
+author_list:
+- family: Musil
+  given: Tomas
+- family: Petrlik
+  given: Matej
+- family: Saska
+  given: Martin
+doi: 10.1109/LRA.2022.3195194
+journal: IEEE Robotics and Automation Letters
+number: '4'
+pages: 11007--11014
+papis_id: afc745882831a0aa093a4a9932411d31
+publisher: IEEE
+ref: musil2022spheremap
+title: 'SphereMap: Dynamic multi-layer graph structure for rapid safety-aware UAV
+  planning'
+type: article
+volume: '7'
+year: '2022'
