@@ -13,7 +13,7 @@ author_list:
   given: Wolfram
 files:
 - /home/klaxalk/Dropbox/papers/hornung-a-2013-octomap-an-efficient-probabilistic-3d-mapping-framework-based-on-octrees.pdf
-journal: Autonomous robots
+journal: Autonomous Robots
 keywords: gacr, mapping
 number: '3'
 pages: 189--206

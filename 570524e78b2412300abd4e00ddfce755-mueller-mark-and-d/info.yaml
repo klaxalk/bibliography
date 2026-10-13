@@ -1,11 +1,11 @@
 author: Mueller, Mark and D'Andrea, Raffaello
+booktitle: '{2014 IEEE International Conference on Robotics and Automation (ICRA)}'
+doi: 10.1109/ICRA.2014.6906588
 keywords: uav, control
 organization: IEEE
 papis_id: a91c609a1d0342bfa8bab6e0e6422339
-booktitle: '{2014 IEEE International Conference on Robotics and Automation (ICRA)}'
-organization: IEEE
 ref: mueller2014stability
-title: '{Stability and control of a quadrocopter despite the complete loss of one, two, or three propellers}'
-type: article
+title: '{Stability and control of a quadrocopter despite the complete loss of one,
+  two, or three propellers}'
+type: inproceedings
 year: '2014'
-doi: 10.1109/ICRA.2014.6906588
