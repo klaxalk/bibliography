@@ -48,7 +48,7 @@ author_list:
   given: Tomas
 files:
 - /home/klaxalk/Dropbox/papers/roucek-to-2021-system-for-multi-robotic-exploration-of-underground-environments-ctu-cras-norlab-in-the-darpa-subterranean-challenge.pdf
-issue: '55'
+number: '55'
 journal: '{Field Robotics}'
 keywords: mine, journal, nowos
 month: 08
