@@ -1,3 +1,4 @@
+addendum: '{Not yet indexed by WoS}'
 author: Petrlik, Matej and Petracek, Pavel and Kratky, Vit and Musil, Tomas and Stasinchuk,
   Yurii and Vrba, Matous and Baca, Tomas and Hert, Daniel and Pecka, Martin and Svoboda,
   Tomas and Saska, Martin
@@ -24,18 +25,16 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-doi: https://doi.org/10.55417/fr.2023001
+doi: 10.1109/TFR.2024.3492160
 journal: '{IEEE Transactions on Field Robotics}'
+keywords: mine, journal, core, nowos
 month: 1
-pages: '643--689'
+pages: 643--689
 papis_id: 7e75430790e87b235f0749bc51c4e988
 ref: petrlik2025beneath
-title: '{UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and Rescue in DARPA SubT}'
+title: '{UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and
+  Rescue in DARPA SubT}'
 type: article
-volume: '2'
-number: '0'
-year: '2025'
-keywords: mine, journal, core, nowos
-addendum: '{Not yet indexed by WoS}'
-doi: '10.1109/TFR.2024.3492160'
 url: https://hdl.handle.net/10467/185634
+volume: '2'
+year: '2025'
