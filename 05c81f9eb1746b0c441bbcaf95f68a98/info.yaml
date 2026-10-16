@@ -1,3 +1,4 @@
+addendum: '{JCR 2024 - SCIE; IF 5.20: Q2; AIS 1.04: Q2}'
 author: Lakemann, Tim and Licea, Daniel Bonilla and Walter, Viktor and Baca, Tomas
   and Saska, Martin
 author_list:
@@ -11,15 +12,15 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
-issn: 0921--8890
+doi: 10.1016/j.robot.2025.105175
+issn: 0921-8890
 journal: Robotics and Autonomous Systems
+keywords: mine, journal, impacted
 pages: '105175'
 papis_id: 05c81f9eb1746b0c441bbcaf95f68a98
 ref: lakemann2025towards
-title: '{Towards agile multi-robot systems in the real world: Fast onboard tracking of active blinking markers for relative localization}'
+title: '{Towards agile multi-robot systems in the real world: Fast onboard tracking
+  of active blinking markers for relative localization}'
 type: article
 volume: '194'
 year: '2025'
-keywords: mine, journal, impacted
-addendum: '{JCR 2024 - SCIE; IF 5.20: Q2; AIS 1.04: Q2}'
-doi: 10.1016/j.robot.2025.105175

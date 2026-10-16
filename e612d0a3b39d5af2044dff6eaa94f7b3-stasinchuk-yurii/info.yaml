@@ -18,7 +18,7 @@ author_list:
   given: David
 - family: Nascimento
   given: Tiago
-- family: Saska.
+- family: Saska
   given: Martin
 booktitle: '{2021 IEEE International Conference on Robotics and Automation (ICRA)}'
 keywords: mine, conference
