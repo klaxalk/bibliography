@@ -11,13 +11,13 @@ author_list:
   given: Tomas
 - family: Saska
   given: Martin
+booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+doi: 10.1109/ICUAS51884.2021.9476794
 keywords: mine, conference
 month: '06'
-booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 papis_id: 969b743f87784ef395d4422ac85d9fdc
 ref: dmytruk2021safe
 time-added: 2020-11-06-15:34:13
 title: '{Safe Tightly-Constrained UAV Swarming in GNSS-denied Environments}'
-type: article
+type: inproceedings
 year: '2021'
-doi: 10.1109/ICUAS51884.2021.9476794

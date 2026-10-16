@@ -13,15 +13,15 @@ author_list:
   given: David
 - family: Saska
   given: Martin
+booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+doi: 10.1109/ICUAS51884.2021.9476723
 keywords: mine, conference
 month: '06'
-booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 pages: 787--793
 papis_id: 779e302056393870545c1fa932dd0a04
 ref: walter2021extinguishing
 time-added: 2020-11-06-15:37:20
 title: '{Extinguishing of Ground Fires by Fully Autonomous UAVs motivated by the MBZIRC
   2020 Competition}'
-type: article
+type: inproceedings
 year: '2021'
-doi: 10.1109/ICUAS51884.2021.9476723

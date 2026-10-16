@@ -8,16 +8,16 @@ author_list:
   given: Tiago
 - family: Saska
   given: Martin
+booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+doi: 10.1109/ICUAS51884.2021.9476873
 files:
-- /home/klaxalk/Dropbox/papers/smrcka-da-2021-admittance-force-based-uav-wall-stabilization-and-press-exertion-for-documentation-and-inspection-of-historical-buildings.pdf
+- home-klaxalk-dropbox-papers-smrcka-da-2021-admittance-force-based-uav-wall-stabilization-and-press-exertion-for-documentation-and-inspection-of-historical-buildings.pdf
 keywords: mine, phd_related, conference
 month: '06'
-booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 papis_id: 7558e92f9a855048a608432b3e11637d
 ref: smrcka2021admittance
 time-added: 2020-11-06-15:35:48
 title: '{Admittance Force-Based UAV-Wall Stabilization and Press Exertion for Documentation
   and Inspection of Historical Buildings}'
-type: article
+type: inproceedings
 year: '2021'
-doi: 10.1109/ICUAS51884.2021.9476873
