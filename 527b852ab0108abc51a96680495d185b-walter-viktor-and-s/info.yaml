@@ -15,7 +15,7 @@ author_list:
   given: Martin
 keywords: mine, conference
 month: '06'
-note: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
+booktitle: '{2021 International Conference on Unmanned Aircraft Systems (ICUAS)}'
 pages: 787--793
 papis_id: 779e302056393870545c1fa932dd0a04
 ref: walter2021extinguishing
