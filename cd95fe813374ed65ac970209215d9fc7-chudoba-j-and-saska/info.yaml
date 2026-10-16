@@ -1,9 +1,9 @@
 author: Chudoba, J. and Saska, M. and Baca, T. and Preucil, L.
 booktitle: '{2014 IEEE International Conference on Unmanned Aircraft Systems (ICUAS)}'
+doi: 10.1109/ICUAS.2014.6842304
 files:
-- /home/klaxalk/Dropbox/papers/chudoba-j-2014-localization-and-stabilization-of-micro-aerial-vehicles-based-on-visual-features-tracking.pdf
+- home-klaxalk-dropbox-papers-chudoba-j-2014-localization-and-stabilization-of-micro-aerial-vehicles-based-on-visual-features-tracking.pdf
 keywords: mine, conference
-language: English
 pages: 611--616
 papis_id: 70597edd85ca545c2ab3dea38c0192be
 publisher: IEEE
@@ -13,4 +13,3 @@ title: '{Localization and stabilization of micro aerial vehicles based on visual
 type: inproceedings
 volume: '1'
 year: '2014'
-doi: 10.1109/ICUAS.2014.6842304

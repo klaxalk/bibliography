@@ -1,10 +1,10 @@
 addendum: '{JCR 2016 - SCIE; IF 1.51: Q3; AIS 0.40: Q2}'
 author: Chudoba, J. and Kulich, M. and Saska, M. and Baca, T. and Preucil, L.
+doi: 10.1007/s10846-016-0358-8
 files:
-- /home/klaxalk/Dropbox/papers/chudoba-j-2016-exploration-and-mapping-technique-suited-for-visual-features-based-localization-of-mavs.pdf
+- home-klaxalk-dropbox-papers-chudoba-j-2016-exploration-and-mapping-technique-suited-for-visual-features-based-localization-of-mavs.pdf
 journal: '{Journal of Intelligent \& Robotic Systems}'
 keywords: mine, phd_related, journal, impacted
-language: English
 pages: 1--19
 papis_id: d85cbb79b8d703281f6e03f1e1a491a4
 ref: chudoba2016exploration
@@ -12,4 +12,3 @@ title: '{Exploration and Mapping Technique Suited for Visual-features Based Loca
   of MAVs}'
 type: article
 year: '2016'
-doi: 10.1007/s10846-016-0358-8
