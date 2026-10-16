@@ -1,4 +1,6 @@
-author: Werner, Michal and Capek, David and Musil, Tomas and Franek, Ondrej and Baca, Tomas and Saska, Martin
+addendum: CORE A* conference
+author: Werner, Michal and Capek, David and Musil, Tomas and Franek, Ondrej and Baca,
+  Tomas and Saska, Martin
 author_list:
 - family: Werner
   given: Michal
@@ -13,11 +15,11 @@ author_list:
 - family: Saska
   given: Martin
 booktitle: '{2026 IEEE International Conference on Robotics and Automation (ICRA)}'
+keywords: mine, conference, core_a
 papis_id: 3bddd5a8b1e1fe86397f8abbcd9ad7d3
 ref: werner2026kilometer
-title: '{Kilometer-Scale GNSS-Denied UAV Navigation via Heightmap Gradients: A Winning System from the SPRIN-D Challenge}'
+title: '{Kilometer-Scale GNSS-Denied UAV Navigation via Heightmap Gradients: A Winning
+  System from the SPRIN-D Challenge}'
 type: inproceedings
+url: https://arxiv.org/html/2510.01348v2
 year: '2026'
-keywords: mine, conference, core_a
-url: 'https://arxiv.org/html/2510.01348v2'
-addendum: "{CORE A* Conference}"

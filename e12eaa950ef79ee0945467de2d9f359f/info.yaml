@@ -1,3 +1,4 @@
+addendum: '{JCR 2024 - SCIE; IF 10.50: Q1; AIS 3.21: D1}'
 author: Vrba, M. and Walter, V. and Pritzl, V. and Pliska, M. and Baca, T. and Spurny,
   V. and Hert, D. and Saska, M.
 author_list:
@@ -21,7 +22,7 @@ doi: 10.1109/TRO.2024.3502494
 files:
 - vrba-m.-a-2025-on-onboard-lidar-based-flying-object-detection.bib
 issn: 1941-0468
-journal: Transactions on Robotics
+journal: IEEE Transactions on Robotics
 keywords: mine, impacted, journal
 pages: 593--611
 papis_id: e12eaa950ef79ee0945467de2d9f359f
@@ -31,4 +32,3 @@ title: '{On Onboard LiDAR-Based Flying Object Detection}'
 type: article
 volume: '41'
 year: '2025'
-addendum: '{JCR 2024 - SCIE; IF 10.50: Q1; AIS 3.21: D1}'
